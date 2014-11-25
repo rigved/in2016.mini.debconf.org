@@ -1,0 +1,3 @@
+User-agent: * 
+Disallow: /theme/
+Sitemap: http://in2015.mini.debconf.org/sitemap.xml.gz
