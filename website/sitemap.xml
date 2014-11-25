@@ -5,7 +5,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://in2015.mini.debconf.org/index.html</loc>
-<lastmod>2014-11-25T12:30:52-00:00</lastmod>
+<lastmod>2014-11-25T16:37:22-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -33,7 +33,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://in2015.mini.debconf.org/register.html</loc>
-<lastmod>2014-11-25T12:28:00+05:30</lastmod>
+<lastmod>2014-11-25T16:35:00+05:30</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
