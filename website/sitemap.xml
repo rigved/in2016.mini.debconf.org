@@ -4,7 +4,7 @@ xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitem
 xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-<loc>http://in2015.mini.debconf.org/index.html</loc>
+<loc>http://in2015.mini.debconf.org/index.shtml</loc>
 <lastmod>2014-11-25T16:37:22-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
