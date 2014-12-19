@@ -1,156 +1,796 @@
-<!DOCTYPE html>
-<html lang="en"
->
+<!doctype html>	
+<!--[if lt IE 7]><html lang="en" class="no-js ie6"><![endif]-->
+<!--[if IE 7]><html lang="en" class="no-js ie7"><![endif]-->
+<!--[if IE 8]><html lang="en" class="no-js ie8"><![endif]-->
+<!--[if gt IE 8]><!-->
+<html lang="en" class="no-js">
+<!--<![endif]-->
+
 <head>
-    <title>Home - Mini-DebConf Mumbai 2015</title>
-    <!-- Using the latest rendering mode for IE -->
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8">
+    <title>Mini-DebConf Mumbai 2015</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <link rel="shortcut icon" href="favicon.ico">
+
+    <link rel="stylesheet" href="css/bootstrap.css">
+    
+    <link rel="stylesheet" href="css/animate.css">
+    <link rel="stylesheet" href="css/font-awesome.min.css">
+    <link rel="stylesheet" href="css/slick.css">
+    <link rel="stylesheet" href="js/rs-plugin/css/settings.css">
+
+    <link rel="stylesheet" href="css/berry.css">
 
 
+    <script type="text/javascript" src="js/modernizr.custom.32033.js"></script>
 
-<link rel="canonical" href="http://in2015.mini.debconf.org/index.shtml">
-
-        <meta name="author" content="DebianIN" />
-        <meta name="description" content="Date: January 17 - 18, 2015 Venue: Indian Institute of Technology, Mumbai" />
-
-    <!-- Enable latex plugin -->
-
-
-
-
-    <!-- Bootstrap -->
-        <link rel="stylesheet" href="http://in2015.mini.debconf.org/theme/css/bootstrap.readable.min.css" type="text/css"/>
-    <link href="http://in2015.mini.debconf.org/theme/css/font-awesome.min.css" rel="stylesheet">
-
-    <link href="http://in2015.mini.debconf.org/theme/css/pygments/native.css" rel="stylesheet">
-        <link href="http://in2015.mini.debconf.org/theme/css/typogrify.css" rel="stylesheet">
-    <link rel="stylesheet" href="http://in2015.mini.debconf.org/theme/css/style.css" type="text/css"/>
-
-
-
-
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
 </head>
+
 <body>
 
-<div class="navbar navbar-default navbar-fixed-top" role="navigation">
-    <div class="container">
-        <div class="navbar-header">
-            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
-                <span class="sr-only">Toggle navigation</span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-            </button>
-            <a href="http://in2015.mini.debconf.org/" class="navbar-brand">
-Mini-DebConf Mumbai 2015            </a>
+    <div class="pre-loader">
+        <div class="load-con">
+            <img src="img/berry/logo.png" class="animated fadeInDown" alt="">
+            <div class="spinner">
+              <div class="bounce1"></div>
+              <div class="bounce2"></div>
+              <div class="bounce3"></div>
+            </div>
         </div>
-        <div class="collapse navbar-collapse navbar-ex1-collapse">
-            <ul class="nav navbar-nav">
-                         <li><a href="http://in2015.mini.debconf.org/about.html">
-                             About
-                          </a></li>
-                         <li><a href="http://in2015.mini.debconf.org/contact.html">
-                             Contact&nbsp;Us
-                          </a></li>
-                         <li><a href="http://in2015.mini.debconf.org/location.html">
-                             Location
-                          </a></li>
-                         <li><a href="http://in2015.mini.debconf.org/register.html">
-                             Register
-                          </a></li>
-                         <li><a href="http://in2015.mini.debconf.org/schedule.html">
-                             Schedule
-                          </a></li>
-                         <li><a href="http://in2015.mini.debconf.org/speakers.html">
-                             Speakers
-                          </a></li>
-                         <li><a href="http://in2015.mini.debconf.org/sponsors.html">
-                             Sponsors
-                          </a></li>
-            </ul>
-        </div>
-        <!-- /.navbar-collapse -->
     </div>
-</div> <!-- /.navbar -->
-
-<div class="container">
-    <div class="row">
-        <div class="col-sm-9">
-    <ol class="breadcrumb">
-        <li><a href="http://in2015.mini.debconf.org" title="Mini-DebConf Mumbai 2015"><i class="fa fa-home fa-lg"></i></a></li>
-        <li class="active">Home</li>
-    </ol>
-
-    <section id="content" class="body">
-        <h1 class="entry-title">Home</h1>
+   
+    <header>
         
-        <div class="entry-content">
-            <html><head></head><body><p>Date: January 17 - 18, 2015</p>
-<p>Venue: Indian Institute of Technology, Mumbai</p></body></html>
+        <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+                <div class="container">
+                    <!-- Brand and toggle get grouped for better mobile display -->
+                    <div class="navbar-header">
+                        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                            <span class="fa fa-bars fa-lg"></span>
+                        </button>
+                        <a class="navbar-brand" href="index.shtml">
+                            <img src="img/berry/logo.png" alt="" class="logo">
+                        </a>
+                    </div>
+
+                    <!-- Collect the nav links, forms, and other content for toggling -->
+                    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+
+                        <ul class="nav navbar-nav navbar-right">
+                            <li><a href="#about">About</a>
+                            </li>
+                            <li><a href="#features">Schedule</a>
+                            </li>
+                            <li><a href="#reviews">Speakers</a>
+                            </li>
+                            <li><a href="#screens">Sponsors</a>
+                            </li>
+                            <li><a href="#demo">Register</a>
+                            </li>
+                            <li><a href="#getApp">Location</a>
+                            </li>
+                            <li><a href="#support">Contact Us</a>
+                            </li>
+                        </ul>
+                    </div>
+                    <!-- /.navbar-collapse -->
+                </div>
+                <!-- /.container-->
+        </nav>
+
+        
+        <!--RevSlider-->
+        <div class="tp-banner-container">
+            <div class="tp-banner" >
+                <ul>
+                    <!-- SLIDE  -->
+                    <li data-transition="fade" data-slotamount="7" data-masterspeed="1500" >
+                        <!-- MAIN IMAGE -->
+                        <img src="img/iit-bombay-1.jpg"  alt="slidebg1"  data-bgfit="cover" data-bgposition="left top" data-bgrepeat="no-repeat">
+                        <!-- LAYERS -->
+                        <!-- LAYER NR. 1 -->
+
+
+
+                        <div class="tp-caption large_white_bold sft" data-x="150" data-y="center" data-hoffset="0" data-voffset="-80" data-speed="500" data-start="1200" data-easing="Power4.easeOut">
+                            January
+                        </div>
+                        <div class="tp-caption large_white_light sfr" data-x="370" data-y="center" data-hoffset="0" data-voffset="-80" data-speed="500" data-start="1400" data-easing="Power4.easeOut">
+                            &nbsp;&nbsp;17-18, 2015
+                        </div>
+                        <div class="tp-caption large_white_light sfb" data-x="150" data-y="center" data-hoffset="0" data-voffset="0" data-speed="1000" data-start="1500" data-easing="Power4.easeOut">
+                            Mini-DebConf Mumbai 2015
+                        </div>
+
+                        <div class="tp-caption sfb hidden-xs" data-x="350" data-y="center" data-hoffset="0" data-voffset="85" data-speed="1000" data-start="1700" data-easing="Power4.easeOut">
+                            <a href="#about" class="btn btn-primary inverse btn-lg">LEARN MORE</a>
+                        </div>
+                        <div class="tp-caption sfr hidden-xs" data-x="530" data-y="center" data-hoffset="0" data-voffset="85" data-speed="1500" data-start="1900" data-easing="Power4.easeOut">
+                            <a href="#demo" class="btn btn-default btn-lg">Register Now</a>
+                        </div>
+
+                    </li>
+                    <!-- SLIDE 2 -->
+                    <li data-transition="zoomout" data-slotamount="7" data-masterspeed="700" >
+                        <!-- MAIN IMAGE -->
+                        <img src="img/iit-bombay-2.jpg"  alt="slidebg1"  data-bgfit="cover" data-bgposition="left top" data-bgrepeat="no-repeat">
+                        <!-- LAYERS -->
+                        <!-- LAYER NR. 1 -->
+                        
+                        
+                    </li>
+
+                    <!-- SLIDE 3 -->
+                    <li data-transition="zoomout" data-slotamount="7" data-masterspeed="900" >
+                        <!-- MAIN IMAGE -->
+                        <img src="img/iit-bombay-3.jpg"  alt="slidebg1"  data-bgfit="cover" data-bgposition="left top" data-bgrepeat="no-repeat">
+                        <!-- LAYERS -->
+                        <!-- LAYER NR. 1 -->
+                        
+                        
+                    </li>
+                    
+                </ul>
+            </div>
         </div>
-    </section>
-        </div>
-        <div class="col-sm-3 well well-sm" id="sidebar">
-
-<aside>
-    <section>
-        <ul class="list-group list-group-flush">
 
 
+    </header>
 
 
+    <div class="wrapper">
 
-    <li class="list-group-item"><h4><i class="fa fa-external-link-square fa-lg"></i><span class="icon-label">Links</span></h4>
-      <ul class="list-group" id="links">
-        <li class="list-group-item">
-            <a href="http://planet.debian.org/" target="_blank">
-                Planet Debian
-            </a>
-        </li>
-        <li class="list-group-item">
-            <a href="http://lists.debconf.org/mailman/listinfo/in.mini/" target="_blank">
-                Mini-DebConf India Mailing List
-            </a>
-        </li>
-        <li class="list-group-item">
-            <a href="https://lists.debian.org/debian-dug-in/" target="_blank">
-                Debian India Mailing List
-            </a>
-        </li>
-      </ul>
-    </li>
+        
 
-        </ul>
-    </section>
+        <section id="about">
+            <div class="container">
+                
+                <div class="section-heading scrollpoint sp-effect3">
+                    <h1>About Us</h1>
+                    <div class="divider"></div>
+                    <p>MiniDebConfs are local meetings organized by Debian project members to achieve similar objectives to those of the DebConf, but on a regional context. Debian is a volunteer project without which none of the deb-based distributions (i.e., distributions which have binary packages in the form of .deb ) would exist. It is a distribution which is famed for its stability and boasts of some of the widest array of software in its archive serving almost all the computer system hardware architectures known to mankind.</p>
+                    <p></p>                    
+                    <p><strong>Why Attend ?</strong></p>
+                    <p>Debian is a cool operating system comprising of many such cool Free and Open Source Softwares (FOSS). It is one of the most popular distributions of Linux with several passionate developers around the globe steering the wheel behind.</p>
+                    <p>A mini-DebConf is an awesome opportunity for any student who is passionate to experience the magic of FOSS. Here you can meet the veterans in FOSS development, develop professional connections which, will help you in future, chat with student contributors who can guide you, present in front of a grand audience and most importantly, grasp the essence of FOSS development. It is indeed a ‘never miss’ opportunity that will give you a strong foundation to build on!</p>
+                                        
+                </div>
+<!--
+                <div class="row">
+                    <div class="col-md-3 col-sm-3 col-xs-6">
+                        <div class="about-item scrollpoint sp-effect2">
+                            <i class="fa fa-download fa-2x"></i>
+                            <h3>Easy setup</h3>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p>
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-sm-3 col-xs-6" >
+                        <div class="about-item scrollpoint sp-effect5">
+                            <i class="fa fa-mobile fa-2x"></i>
+                            <h3>On-the-go</h3>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p>
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-sm-3 col-xs-6" >
+                        <div class="about-item scrollpoint sp-effect5">
+                            <i class="fa fa-users fa-2x"></i>
+                            <h3>Social connect</h3>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p>
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-sm-3 col-xs-6" >
+                        <div class="about-item scrollpoint sp-effect1">
+                            <i class="fa fa-sliders fa-2x"></i>
+                            <h3>Dedicated support</h3>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p>
+                        </div>
+                    </div>
+                </div>
+-->
+            </div>
+        </section>
 
-</aside>        </div>
+        <section id="features">
+            <div class="container">
+                <div class="section-heading scrollpoint sp-effect3">
+                    <h1>Schedule</h1>
+                    <div class="divider"></div>
+                    <p>DAY 1 17/01/2015 </p>
+                    <div id="first-day" style="color: #000;">
+                    <table align="center" border="1" cellpadding="1" cellspacing="1" style="width:100%">
+	<thead>
+		<tr style="background-color:#D3D3D3; text-align: center;">
+			<th scope="col" style="text-align: center;"><span>Time</span></th>
+			<th scope="col" style="text-align: center;"><span>Conference Hall</span></th>
+			<th scope="col" style="text-align: center;"><span>Room A</span></th>
+			<th scope="col" style="text-align: center;"><span>Room B</span></th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td style="text-align: center;">09:00</td>
+			<td style="text-align: center;">Registration</td>
+			<td style="text-align: center;">&nbsp;</td>
+			<td style="text-align: center;">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="text-align: center;">09:30</td>
+			<td style="text-align: center;">Inauguration of the Mini-DebConf India 2015</td>
+			<td style="text-align: center;">&nbsp;</td>
+			<td style="text-align: center;">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="text-align: center;">10:00 - 11:00</td>
+			<td style="text-align: center;">Keynote Session</td>
+			<td style="text-align: center;">&nbsp;</td>
+			<td style="text-align: center;">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="text-align: center;">11:00 &ndash; 11:15</td>
+			<td style="text-align: center;"><strong>Tea Break</strong></td>
+			<td style="text-align: center;"><strong>Tea Break</strong></td>
+			<td style="text-align: center;"><strong>Tea Break</strong></td>
+		</tr>
+		<tr>
+			<td style="text-align: center;">11:15 &ndash; 12:00</td>
+			<td style="text-align: center;">Debian History and Debian Cycle - Shirish Agarwal</td>
+			<td style="text-align: center;">&nbsp;</td>
+			<td style="text-align: center;">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="text-align: center;">12:00 &ndash; 13:00</td>
+			<td style="text-align: center;">&nbsp;</td>
+			<td style="text-align: center;">Debian Packaging &ndash; Praveen A</td>
+			<td style="text-align: center;">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="text-align: center;">13:00 &ndash; 14:00</td>
+			<td style="text-align: center;"><strong>Lunch</strong></td>
+			<td style="text-align: center;"><strong>Lunch</strong></td>
+			<td style="text-align: center;"><strong>Lunch</strong></td>
+		</tr>
+		<tr>
+			<td style="text-align: center;">14:00 &ndash; 15:00</td>
+			<td style="text-align: center;">&nbsp;</td>
+			<td style="text-align: center;">Debian Packaging &ndash; Praveen A</td>
+			<td style="text-align: center;">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="text-align: center;">15:00 &ndash; 16:00</td>
+			<td style="text-align: center;">&nbsp;</td>
+			<td style="text-align: center;">Debian Packaging &ndash; Praveen A</td>
+			<td style="text-align: center;">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="text-align: center;">16:00 &ndash; 16:30</td>
+			<td style="text-align: center;">&nbsp;</td>
+			<td style="text-align: center;">Debian Packaging &ndash; Praveen A</td>
+			<td style="text-align: center;">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="text-align: center;">16:30 &ndash; 16:45</td>
+			<td style="text-align: center;"><strong>Tea Break</strong></td>
+			<td style="text-align: center;"><strong>Tea Break</strong></td>
+			<td style="text-align: center;"><strong>Tea Break</strong></td>
+		</tr>
+		<tr>
+			<td style="text-align: center;">16:45 &ndash; 17:30</td>
+			<td style="text-align: center;">&nbsp;</td>
+			<td style="text-align: center;">Debian Packaging &ndash; Praveen A</td>
+			<td style="text-align: center;">&nbsp;</td>
+		</tr>
+	</tbody>
+</table>
+
+<p style="text-align: center;">&nbsp;</p>
+                    <p>DAY 2 18/01/2015 </p>
+                    <div id="first-day" style="color: #000;">
+                    <table align="center" border="1" cellpadding="1" cellspacing="1" style="width:100%">
+	<thead>
+		<tr>
+			<th scope="col" style="text-align:center">Time</th>
+			<th scope="col" style="text-align:center">Conference Hall</th>
+			<th scope="col" style="text-align:center">Room A</th>
+			<th scope="col" style="text-align:center">Room B</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td style="text-align:center">09:00 - 10:00</td>
+			<td style="text-align:center">&nbsp;</td>
+			<td style="text-align:center">&nbsp;</td>
+			<td style="text-align:center">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="text-align:center">10:00 &ndash; 10:15</td>
+			<td style="text-align:center"><strong>Tea Break</strong></td>
+			<td style="text-align:center"><strong>Tea Break</strong></td>
+			<td style="text-align:center"><strong>Tea Break</strong></td>
+		</tr>
+		<tr>
+			<td style="text-align:center">10:15 &ndash; 11:00</td>
+			<td style="text-align:center">&nbsp;</td>
+			<td style="text-align:center">&nbsp;</td>
+			<td style="text-align:center">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="text-align:center">11:00 &ndash; 12:00</td>
+			<td style="text-align:center">&nbsp;</td>
+			<td style="text-align:center">&nbsp;</td>
+			<td style="text-align:center">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="text-align:center">12:00 &ndash; 13:00</td>
+			<td style="text-align:center">&nbsp;</td>
+			<td style="text-align:center">Debian Packaging &ndash; Praveen A</td>
+			<td style="text-align:center">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="text-align:center">13:00 &ndash; 14:00</td>
+			<td style="text-align:center"><strong>Lunch</strong></td>
+			<td style="text-align:center"><strong>Lunch</strong></td>
+			<td style="text-align:center"><strong>Lunch</strong></td>
+		</tr>
+		<tr>
+			<td style="text-align:center">14:00 &ndash; 15:00</td>
+			<td style="text-align:center">&nbsp;</td>
+			<td style="text-align:center">Debian Packaging &ndash; Praveen A</td>
+			<td style="text-align:center">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="text-align:center">15:00 &ndash; 16:00</td>
+			<td style="text-align:center">&nbsp;</td>
+			<td style="text-align:center">Debian Packaging &ndash; Praveen A</td>
+			<td style="text-align:center">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="text-align:center">16:00 &ndash; 16:30</td>
+			<td style="text-align:center">&nbsp;</td>
+			<td style="text-align:center">Debian Packaging &ndash; Praveen A</td>
+			<td style="text-align:center">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="text-align:center">16:30 &ndash; 16:45</td>
+			<td style="text-align:center"><strong>Tea Break</strong></td>
+			<td style="text-align:center"><strong>Tea Break</strong></td>
+			<td style="text-align:center"><strong>Tea Break</strong></td>
+		</tr>
+		<tr>
+			<td style="text-align:center">16:45 &ndash; 17:30</td>
+			<td style="text-align:center">&nbsp;</td>
+			<td style="text-align:center">Debian Packaging &ndash; Praveen A</td>
+			<td style="text-align:center">&nbsp;</td>
+		</tr>
+	</tbody>
+</table>
+
+                    
+                    </div>
+                </div>
+<!--
+                <div class="row">
+                    <div class="col-md-4 col-sm-4 scrollpoint sp-effect1">
+                        <div class="media media-left feature">
+                            <a class="pull-right" href="#">
+                                <i class="fa fa-cogs fa-2x"></i>
+                            </a>
+                            <div class="media-body">
+                                <h3 class="media-heading">User Settings</h3>
+                                Lorem ipsum dolor sit amet.
+                            </div>
+                        </div>
+                        <div class="media media-left feature">
+                            <a class="pull-right" href="#">
+                                <i class="fa fa-envelope fa-2x"></i>
+                            </a>
+                            <div class="media-body">
+                                <h3 class="media-heading">Messages Inbox</h3>
+                                Lorem ipsum dolor sit amet.
+                            </div>
+                        </div>
+                        <div class="media media-left feature">
+                            <a class="pull-right" href="#">
+                                <i class="fa fa-users fa-2x"></i>
+                            </a>
+                            <div class="media-body">
+                                <h3 class="media-heading">Friends List</h3>
+                                Lorem ipsum dolor sit amet.
+                            </div>
+                        </div>
+                        <div class="media media-left feature">
+                            <a class="pull-right" href="#">
+                                <i class="fa fa-comments fa-2x"></i>
+                            </a>
+                            <div class="media-body">
+                                <h3 class="media-heading">Live Chat Messages</h3>
+                                Lorem ipsum dolor sit amet.
+                            </div>
+                        </div>
+                        <div class="media media-left feature">
+                            <a class="pull-right" href="#">
+                                <i class="fa fa-calendar fa-2x"></i>
+                            </a>
+                            <div class="media-body">
+                                <h3 class="media-heading">Calendar / Planner</h3>
+                                Lorem ipsum dolor sit amet.
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 col-sm-4" >
+                        <img src="img/berry/iphone-berry.png" class="img-responsive scrollpoint sp-effect5" alt="">
+                    </div>
+                    <div class="col-md-4 col-sm-4 scrollpoint sp-effect2">
+                        <div class="media feature">
+                            <a class="pull-left" href="#">
+                                <i class="fa fa-map-marker fa-2x"></i>
+                            </a>
+                            <div class="media-body">
+                                <h3 class="media-heading">My Places</h3>
+                                Lorem ipsum dolor sit amet.
+                            </div>
+                        </div>
+                        <div class="media feature">
+                            <a class="pull-left" href="#">
+                                <i class="fa fa-film fa-2x"></i>
+                            </a>
+                            <div class="media-body">
+                                <h3 class="media-heading">Media Player™</h3>
+                                Lorem ipsum dolor sit amet.
+                            </div>
+                        </div>
+                        <div class="media feature">
+                            <a class="pull-left" href="#">
+                                <i class="fa fa-compass fa-2x"></i>
+                            </a>
+                            <div class="media-body">
+                                <h3 class="media-heading">Intuitive Statistics</h3>
+                                Lorem ipsum dolor sit amet.
+                            </div>
+                        </div>
+                        <div class="media feature">
+                            <a class="pull-left" href="#">
+                                <i class="fa fa-picture-o fa-2x"></i>
+                            </a>
+                            <div class="media-body">
+                                <h3 class="media-heading">Weather on-the-go</h3>
+                                Lorem ipsum dolor sit amet.
+                            </div>
+                        </div>
+                        <div class="media active feature">
+                            <a class="pull-left" href="#">
+                                <i class="fa fa-plus fa-2x"></i>
+                            </a>
+                            <div class="media-body">
+                                <h3 class="media-heading">And much more!</h3>
+                                Lorem ipsum dolor sit amet.
+                            </div>
+                        </div>
+                    </div>
+                </div>
+-->                
+            </div>
+        </section>
+
+        <section id="reviews">
+            <div class="container">
+                <div class="section-heading inverse scrollpoint sp-effect3">
+                    <h1>Speakers</h1>
+                    <div class="divider"></div>
+                    <p>The call for papers has started on 26th November and will be open till 19th December.</p>
+                    <p>The final list of speakers will be announced on 21st December.</p>
+                    <p>If you are interested in presenting papers / talks or conducting workshops / hands-on sessions, please submit an abstract of 100 to 200 words describing the topic, including its relevance to Debian, to this email address:</p>
+                    <p>debian [at] shieldofachilles [dot] in</p>
+                    <p>Please provide links to the code, if it is&nbsp;<a href="https://en.wikipedia.org/wiki/Free_software" target="_blank">Free Software</a>.</p>
+                </div>
+
+                <div class="row">
+                    <div class="col-md-10 col-md-push-1 scrollpoint sp-effect3">
+                        <div class="review-filtering">
+                            <div class="review">
+                                <div class="row">
+                                    <div class="col-md-2">
+                                        <div class="review-person">
+                                            <img src="img/shirish-agrawal.jpg" alt="Shirish Agrawal" class="img-responsive">
+                                        </div>
+                                    </div>
+                                    <div class="col-md-10">
+                                        <div class="review-comment">
+                                            <h3>“Software Professional having substantial experience of working with Free Software specifically Debian-based Distros.Give advocacy and Basic FOSS Trainings. Particularly interested to network and Work with FOSS-based businesses and individuals. Also enjoy debating over various copyleft licenses.”</h3>
+                                            <p>
+                                                - Shirish Agrawal
+
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="review rollitin">
+                                <div class="row">
+                                    <div class="col-md-2">
+                                        <div class="review-person">
+                                            <img src="img/praveen-a.jpg" alt="Praveen A" class="img-responsive">
+                                        </div>
+                                    </div>
+                                    <div class="col-md-10">
+                                        <div class="review-comment">
+                                            <h3>“Free Software Consultant with expertise on GNU/Linux, MySQL and HP OpenView Operations Smart Plug-In development.”</h3>
+                                            <p>
+                                                - Praveen A
+
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+<!--
+                            <div class="review rollitin">
+                                <div class="row">
+                                    <div class="col-md-2">
+                                        <div class="review-person">
+                                            <img src="http://api.randomuser.me/portraits/men/93.jpg" alt="" class="img-responsive">
+                                        </div>
+                                    </div>
+                                    <div class="col-md-10">
+                                        <div class="review-comment">
+                                            <h3>“Keep It Up Guys Your Work Rules, Cheers :)”</h3>
+                                            <p>
+                                                - Ricky Grant
+                                                <span>
+                                                    <i class="fa fa-star fa-lg"></i>
+                                                    <i class="fa fa-star fa-lg"></i>
+                                                    <i class="fa fa-star fa-lg"></i>
+                                                    <i class="fa fa-star-half-o fa-lg"></i>
+                                                    <i class="fa fa-star-o fa-lg"></i>
+                                                </span>
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+ -->                          
+                            
+                        </div>
+                    </div>
+                </div>
+                
+            </div>
+        </section>
+
+        <section id="screens">
+            <div class="container">
+
+                <div class="section-heading scrollpoint sp-effect3">
+                    <h1>Sponsors</h1>
+                    <div class="divider"></div>
+                    <p>Please contact us on the Mini-DebConf India mailing list if you would like to sponsor the event.</p>
+                </div>
+
+                <div class="filter scrollpoint sp-effect3">
+                    <a href="javascript:void(0)" class="button js-filter-all active">All Sponsors</a>
+                    <a href="javascript:void(0)" class="button js-filter-one">Platinum</a>
+                    <a href="javascript:void(0)" class="button js-filter-two">Gold</a>
+                    <a href="javascript:void(0)" class="button js-filter-three">Silver</a>
+                </div>
+                <div class="slider filtering scrollpoint sp-effect5" >
+                    <div class="one">
+                        <img src="img/berry/screens/debian-sponsor-logo.jpg" alt="Debian">
+                        <h4>Debian</h4>
+                    </div>
+                    <div class="two">
+                        <img src="img/berry/screens/menu.jpg" alt="">
+                        <h4>Demo Logo 1</h4>
+                    </div>
+                    <div class="three">
+                        <img src="img/berry/screens/weather.jpg" alt="">
+                        <h4>Demo Logo 2</h4>
+                    </div>
+                    <div class="one">
+                        <img src="img/berry/screens/signup.jpg" alt="">
+                        <h4>Demo Logo 3</h4>
+                    </div>
+                    <div class="one">
+                        <img src="img/berry/screens/calendar.jpg" alt="">
+                        <h4>Demo Logo 4</h4>
+                    </div>
+                    <div class="two">
+                        <img src="img/berry/screens/options.jpg" alt="">
+                        <h4>Demo Logo 5</h4>
+                    </div>
+                    <div class="three">
+                        <img src="img/berry/screens/sales.jpg" alt="">
+                        <h4>Demo Logo 6</h4>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="demo">
+            <div class="container">
+                <div class="section-heading scrollpoint sp-effect3">
+                    <h1>Register</h1>
+                    <div class="divider"></div>
+                    <p>Registrations will start soon!</p>
+                </div>
+<!--
+                <div class="row">
+                    <div class="col-md-8 col-md-offset-2 scrollpoint sp-effect2">
+                        <div class="video-container" >
+                            <iframe src="http://player.vimeo.com/video/70984663"></iframe>
+                        </div>
+                    </div>
+                </div>
+-->                
+            </div>
+        </section>
+
+        <section id="getApp">
+            <div class="container-fluid">
+                <div class="section-heading inverse scrollpoint sp-effect3">
+                    <h1>Location</h1>
+                    <div class="divider"></div>
+                    <p>The event will be held at the Indian Institute of Technology, Mumbai.</p>
+
+                    <p><img style="width: 153px; height: 150px; background: #fff;" src="http://upload.wikimedia.org/wikipedia/en/thumb/5/58/IIT_Bombay_Logo.svg/200px-IIT_Bombay_Logo.svg.png" align="left"><strong>Indian Institute of Technology Bombay</strong> <br>The Indian Institute of Technology Bombay, popularly known as IIT Bombay or IITB, is a public research university located in Powai, Mumbai. IITB has 14 departments, 10 multi-disciplinary centres, 3 schools of excellence and 3 inter-disciplinary groups, with a strong emphasis on scientific and technological research.</p>
+                    
+                    <p><strong>Directions:</strong></p>
+<p><u>Public Transport</u></p>
+<p>Mumbai has a reliable public transport networked by Mumbai Suburban Railway, BEST Buses, Taxis and Auto rickshaws (Auto rickshaws, however do not ply further south than Sion and Bandra). The nearest suburban railway stations to IIT on the Central line (connecting CST, Dadar, Kurla, Thane, Kalyan) are Vikhroli and Kanjurmarg stations. The nearest station to IIT on the Western line (connecting Church-gate, Mumbai Central, Dadar, Bandra, Andheri, Borivali) is Andheri.</p>
+<p><u>Suburban Railway Transport:</u></p>
+<p>	<u>From CST Station/Dadar</u><em>:&nbsp;</em><br>
+	Take a slow train on the Central line to Thane/Kalyan/Karjat. Get down at Vikhroli or Kanjurmarg station. Take an auto to IIT, Powai (fare up to Rs 30). Enter the campus from the Market gate (the first gate you come across).&nbsp;</p>
+<p><u>From Mumbai Central/Church-gate</u>:<br>
+	Take a fast or slow train on the Western line to Andheri/Borivali/Virar. Get down at Andheri Station and come towards the East side of the station. Take bus or auto (fare up to Rs 200) or taxi (fare up to Rs 350) to IIT, Powai . Enter the campus from the Main gate (the first gate you come across).</p>
+<p>Alternatively, you can get down at Dadar station and change platform to the central line. Take a slow train on the line to Thane/Kalyan/Karjat. Get down at Vikhroli or Kanjurmarg station. Take an auto to IIT, Powai (fare upto Rs 30). Enter the campus from the Market gate (the first gate you come across).</p>
+<p><u>If you come by Air</u>:<br>
+	International flights land at Sahar Airport which is about 8 kms from IIT. The Domestic Airport- at SantaCruz is about 12 kms. Its' best to take a Pre-paid taxi (costs about Rs 350 - 500 (US $ 8.00 -12.00) from Airport to IIT Bombay, Powai) available at the Airport to come to IIT. Auto rickshaws and regular taxis are also available at both the airports for reaching IIT, Powai.</p>
+<p>For more information check: <a target="_blank" href="http://www.iitb.ac.in/campus/howto/howtoget.html" target="_blank">How to get to IITB</a></p>	
+                    
+                </div>
+                
+                <div class="row">
+                    <div class="col-md-12" style="margin-top: -30px;" >
+							<div id="map" style="margin-top: -20px;" >
+                    <a href="http://www.openstreetmap.org/node/1640273574#map=17/19.13335/72.91228" target="_blank" ><img src="img/map.jpg" class="img-responsive scrollpoint sp-effect5" alt="Map" ></a>
+                    <p style="color: #fff;">Get directions with <a href="http://www.openstreetmap.org/node/1640273574#map=17/19.13335/72.91228" target="_blank">OpenStreetMap</a> / <a href="https://www.google.co.in/maps/dir//Indian+Institute+of+Technology+Bombay/@19.1335074,72.8762744,13z/data=!4m8!4m7!1m0!1m5!1m1!1s0x0:0x68fdcea4c5c5894e!2m2!1d72.913268!2d19.13343" target="_blank">Google&nbsp;Maps</a></p>
+                    </div>
+                    
+<!--
+                        <div class="hanging-phone scrollpoint sp-effect2 hidden-xs">
+                            <img src="img/berry/berry-angled2.png" alt="">
+                        </div>
+                        <div class="platforms">
+                            <a href="#" class="btn btn-primary inverse scrollpoint sp-effect1">
+                                <i class="fa fa-android fa-3x pull-left"></i>
+                                <span>Download for</span><br>
+                                <b>Android</b>
+                            </a>
+                            
+                                <a href="#" class="btn btn-primary inverse scrollpoint sp-effect2">
+                                    <i class="fa fa-apple fa-3x pull-left"></i>
+                                    <span>Download for</span><br>
+                                    <b>Apple IOS</b>
+                                </a>
+                        </div>
+-->
+                    </div>
+                </div>
+
+                
+
+            </div>
+        </section>
+
+        <section id="support" class="doublediagonal">
+            <div class="container">
+                <div class="section-heading scrollpoint sp-effect3">
+                    <h1>Contact Us</h1>
+                    <div class="divider"></div>
+                    <p>If you would like to reach us or volunteer for the event, please get in touch with us on the Mini-DebConf India Making List</p>                    
+                </div>
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="row">
+
+                            <div class="col-md-8 col-sm-8 scrollpoint sp-effect1 section-heading">
+                    <p>Indian Institute of Technology Bombay <br>Powai, Mumbai - 400076 <br>Maharashtra, India</p>
+<!--                                <form role="form">
+                                    <div class="form-group">
+                                        <input type="text" class="form-control" placeholder="Your name">
+                                    </div>
+                                    <div class="form-group">
+                                        <input type="email" class="form-control" placeholder="Your email">
+                                    </div>
+                                    <div class="form-group">
+                                        <textarea cols="30" rows="10" class="form-control" placeholder="Your message"></textarea>
+                                    </div>
+                                    <button type="submit" class="btn btn-primary btn-lg">Submit</button>
+                                </form>
+-->
+                            </div>                            
+                            <div class="col-md-4 col-sm-4 contact-details scrollpoint sp-effect2">
+                                <div class="media">
+                                    <a class="pull-left" href="#" >
+                                        <i class="fa fa-map-marker fa-2x"></i>
+                                    </a>
+                                    <div class="media-body">
+                                        <h4 class="media-heading">
+                                        	  <a target="_blank" href="http://planet.debian.org/">Planet Debian</a></h4>
+                                    </div>
+                                </div>
+                                <div class="media">
+                                    <a class="pull-left" href="#" >
+                                        <i class="fa fa-envelope fa-2x"></i>
+                                    </a>
+                                    <div class="media-body">
+                                        <h4 class="media-heading">
+                                            <a href="http://lists.debconf.org/mailman/listinfo/in.mini/" target="_blank">Mini-DebConf India Mailing List</a>
+                                        </h4>
+                                    </div>
+                                </div>
+                                <div class="media">
+                                    <a class="pull-left" href="#" >
+                                        <i class="fa fa-envelope fa-2x"></i>
+                                    </a>
+                                    <div class="media-body">
+                                        <h4 class="media-heading">
+                                        	  <a href="https://lists.debian.org/debian-dug-in/" target="_blank">Debian India Mailing List</a>
+                                        </h4>
+                                    </div>
+                                </div>
+                                <div class="media">
+                                    <a href="#" class="pull-left">
+                                        <i class="fa fa-envelope fa-2x"></i>
+                                    </a>
+                                    <div class="media-body">
+                                        <h4 class="media-heading">
+                                        	  <a target="_blank" href="mailto:debian[at]shieldofachilles[dot]in">debian[at]shieldofachilles[dot]in</a>
+                                        </h4>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <footer>
+            <div class="container">
+                <a href="#" class="scrollpoint sp-effect3">
+                    <img src="img/berry/logo.png" alt="" class="logo">
+                </a>
+                <div class="social">
+                    <a href="#" class="scrollpoint sp-effect3"><i class="fa fa-twitter fa-lg"></i></a>
+                    <a href="#" class="scrollpoint sp-effect3"><i class="fa fa-google-plus fa-lg"></i></a>
+                    <a href="#" class="scrollpoint sp-effect3"><i class="fa fa-facebook fa-lg"></i></a>
+                </div>
+                <div class="rights">
+                    <p>Copyright &copy;  DebianIN</p>
+                    <p><a href="http://creativecommons.org/licenses/by-sa/4.0/" rel="license"><img src="http://i.creativecommons.org/l/by-sa/4.0/80x15.png" style="border-width:0" alt="Creative Commons License"></a> Content licensed under a <a href="http://creativecommons.org/licenses/by-sa/4.0/" rel="license">Creative Commons Attribution 4.0 International License</a>, except where indicated otherwise.</p>
+                    <p>Template by <a href="http://www.scoopthemes.com" target="_blank">ScoopThemes</a></p>
+                </div>
+            </div>
+        </footer>
+
     </div>
-</div>
-<footer>
-   <div class="container">
-      <hr>
-      <div class="row">
-         <div class="col-xs-10">&copy;  DebianIN
-            &middot; Powered by <a href="https://github.com/DandyDev/pelican-bootstrap3" target="_blank">pelican-bootstrap3</a>,
-            <a href="http://docs.getpelican.com/" target="_blank">Pelican</a>,
-            <a href="http://getbootstrap.com" target="_blank">Bootstrap</a>              <p><small>  <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="//i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a>
-    Content
-  licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International License</a>, except where indicated otherwise.
-</small></p>
-         </div>
-         <div class="col-xs-2"><p class="pull-right"><i class="fa fa-arrow-up"></i> <a href="#">Back to top</a></p></div>
-      </div>
-   </div>
-</footer>
-<script src="http://in2015.mini.debconf.org/theme/js/jquery.min.js"></script>
-
-<!-- Include all compiled plugins (below), or include individual files as needed -->
-<script src="http://in2015.mini.debconf.org/theme/js/bootstrap.min.js"></script>
-
-<!-- Enable responsive features in IE8 with Respond.js (https://github.com/scottjehl/Respond) -->
-<script src="http://in2015.mini.debconf.org/theme/js/respond.min.js"></script>
-
+    <script src="js/jquery-1.11.1.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/slick.min.js"></script>
+    <script src="js/placeholdem.min.js"></script>
+    <script src="js/rs-plugin/js/jquery.themepunch.plugins.min.js"></script>
+    <script src="js/rs-plugin/js/jquery.themepunch.revolution.min.js"></script>
+    <script src="js/waypoints.min.js"></script>
+    <script src="js/scripts.js"></script>
+    <script>
+        $(document).ready(function() {
+            appMaster.preLoader();
+        });
+    </script>
 </body>
+
 </html>
