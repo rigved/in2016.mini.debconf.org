@@ -15,4 +15,4 @@ Contributing
 
 Feel free to send merge requests to improve the website!
 
-You can contact us on the #debian-in IRC channel on the OFTC network or on the Debian India Mailing list: https://lists.debian.org/debian-dug-in/ .
+You can contact us on the #debian-in IRC channel on the OFTC network, on the Debian India Mailing list: https://lists.debian.org/debian-dug-in/ , on the Mini-DebConf India Mailing List: https://lists.debian.org/debian-dug-in/ or at debian [at] shieldofachilles [dot] in .
