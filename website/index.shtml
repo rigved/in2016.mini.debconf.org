@@ -262,13 +262,13 @@
 		</tr>
 		<tr>
 			<td style="text-align: center;">15:00 &ndash; 16:00</td>
-			<td style="text-align: center;">&nbsp;</td>
+			<td style="text-align: center;">Debian on ARM &ndash; Siji Sunny</td>
 			<td style="text-align: center;">Debian Packaging &ndash; Praveen A</td>
 			<td style="text-align: center;">&nbsp;</td>
 		</tr>
 		<tr>
 			<td style="text-align: center;">16:00 &ndash; 16:30</td>
-			<td style="text-align: center;">&nbsp;</td>
+			<td style="text-align: center;">Debian on ARM &ndash; Siji Sunny</td>
 			<td style="text-align: center;">Debian Packaging &ndash; Praveen A</td>
 			<td style="text-align: center;">&nbsp;</td>
 		</tr>
@@ -481,8 +481,8 @@
                 <div class="section-heading inverse scrollpoint sp-effect3">
                     <h1>Speakers</h1>
                     <div class="divider"></div>
-                    <p>The call for papers has started on 26th November and will be open till 19th December.</p>
-                    <p>The final list of speakers will be announced on 21st December.</p>
+                    <p>The call for papers has started on 26th November and will be open till 8th January.</p>
+                    <p>The final list of speakers will be announced by 10th January.</p>
                     <p>If you are interested in presenting papers / talks or conducting workshops / hands-on sessions, please submit an abstract of 100 to 200 words describing the topic, including its relevance to Debian, to this email address:</p>
                     <p>debian [at] shieldofachilles [dot] in</p>
                     <p>Please provide links to the code, if it is&nbsp;<a href="https://en.wikipedia.org/wiki/Free_software" target="_blank">Free Software</a>.</p>
@@ -521,6 +521,24 @@
                                             <h3>“Free Software Consultant with expertise on GNU/Linux, MySQL and HP OpenView Operations Smart Plug-In development.”</h3>
                                             <p>
                                                 - Praveen A
+
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="review rollitin">
+                                <div class="row">
+                                    <div class="col-md-2">
+                                        <div class="review-person">
+                                            <img src="img/siji-sunny.jpg" alt="Siji Sunny" class="img-responsive">
+                                        </div>
+                                    </div>
+                                    <div class="col-md-10">
+                                        <div class="review-comment">
+                                            <h3>“An Entrepreneur, Researcher and OpenSource enthusiast, develops software and does research in various domains: Operating Systems & System programming, Application / User Interface development, Embedded & Mobile computing, text processing & language computing and Wireless & Low-power Wireless Networking. He is the Director of Research Lab at MELabs, a Research and Development company working in the domain of Mobile & Embedded Computing.”</h3>
+                                            <p>
+                                                - Siji Sunny
 
                                             </p>
                                         </div>
