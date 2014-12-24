@@ -53,7 +53,7 @@
                         <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
                             <span class="fa fa-bars fa-lg"></span>
                         </button>
-                        <a class="navbar-brand" href="index.shtml">
+                        <a class="navbar-brand" href="#">
                             <img src="img/berry/logo.png" alt="" class="logo">
                         </a>
                     </div>
@@ -246,7 +246,7 @@
 			<td style="text-align: center;">12:00 &ndash; 13:00</td>
 			<td style="text-align: center;">&nbsp;</td>
 			<td style="text-align: center;">Debian Packaging &ndash; Praveen A</td>
-			<td style="text-align: center;">&nbsp;</td>
+			<td style="text-align: center;">Debian 'In' India &ndash; Kartik Mistry</td>
 		</tr>
 		<tr>
 			<td style="text-align: center;">13:00 &ndash; 14:00</td>
@@ -545,6 +545,24 @@
                                     </div>
                                 </div>
                             </div>
+                            <div class="review rollitin">
+                                <div class="row">
+                                    <div class="col-md-2">
+                                        <div class="review-person">
+                                            <img src="img/kartik-mistry.jpg" alt="Kartik Mistry" class="img-responsive">
+                                        </div>
+                                    </div>
+                                    <div class="col-md-10">
+                                        <div class="review-comment">
+                                            <h3>“Kartik Mistry is Debian developer since 2008 and contributing to many FOSS projects along with running, cycling. He loves to point everyone to his Gujarati blog https://kartikm.wordpress.com whenever asked more about him.”</h3>
+                                            <p>
+                                                - Kartik Mistry
+
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
 <!--
                             <div class="review rollitin">
                                 <div class="row">
@@ -783,9 +801,9 @@
                     <img src="img/berry/logo.png" alt="" class="logo">
                 </a>
                 <div class="social">
-                    <a href="#" class="scrollpoint sp-effect3"><i class="fa fa-twitter fa-lg"></i></a>
-                    <a href="#" class="scrollpoint sp-effect3"><i class="fa fa-google-plus fa-lg"></i></a>
-                    <a href="#" class="scrollpoint sp-effect3"><i class="fa fa-facebook fa-lg"></i></a>
+                    <a href="https://twitter.com/MiniDebConfMum" class="scrollpoint sp-effect3"><i class="fa fa-twitter fa-lg"></i></a>
+                    <a href="https://plus.google.com/114516694850767309355/posts" class="scrollpoint sp-effect3"><i class="fa fa-google-plus fa-lg"></i></a>
+                    <a href="https://www.facebook.com/events/902513659769030/" class="scrollpoint sp-effect3"><i class="fa fa-facebook fa-lg"></i></a>
                 </div>
                 <div class="rights">
                     <p>Copyright &copy;  DebianIN</p>
