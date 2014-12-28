@@ -238,14 +238,14 @@
 		</tr>
 		<tr>
 			<td style="text-align: center;">11:15 &ndash; 12:00</td>
-			<td style="text-align: center;">Debian History and Debian Cycle - Shirish Agarwal</td>
 			<td style="text-align: center;">&nbsp;</td>
+			<td style="text-align: center;">Debian History and Debian Cycle - Shirish Agarwal</td>
 			<td style="text-align: center;">&nbsp;</td>
 		</tr>
 		<tr>
 			<td style="text-align: center;">12:00 &ndash; 13:00</td>
 			<td style="text-align: center;">&nbsp;</td>
-			<td style="text-align: center;">Debian Packaging &ndash; Praveen A</td>
+			<td style="text-align: center;">&nbsp;</td>
 			<td style="text-align: center;">Debian 'In' India &ndash; Kartik Mistry</td>
 		</tr>
 		<tr>
@@ -257,19 +257,19 @@
 		<tr>
 			<td style="text-align: center;">14:00 &ndash; 15:00</td>
 			<td style="text-align: center;">&nbsp;</td>
-			<td style="text-align: center;">Debian Packaging &ndash; Praveen A</td>
+			<td style="text-align: center;">&nbsp;</td>
 			<td style="text-align: center;">&nbsp;</td>
 		</tr>
 		<tr>
 			<td style="text-align: center;">15:00 &ndash; 16:00</td>
+			<td style="text-align: center;">&nbsp;</td>
 			<td style="text-align: center;">Debian on ARM &ndash; Siji Sunny</td>
-			<td style="text-align: center;">Debian Packaging &ndash; Praveen A</td>
 			<td style="text-align: center;">&nbsp;</td>
 		</tr>
 		<tr>
 			<td style="text-align: center;">16:00 &ndash; 16:30</td>
+			<td style="text-align: center;">&nbsp;</td>
 			<td style="text-align: center;">Debian on ARM &ndash; Siji Sunny</td>
-			<td style="text-align: center;">Debian Packaging &ndash; Praveen A</td>
 			<td style="text-align: center;">&nbsp;</td>
 		</tr>
 		<tr>
@@ -281,7 +281,7 @@
 		<tr>
 			<td style="text-align: center;">16:45 &ndash; 17:30</td>
 			<td style="text-align: center;">&nbsp;</td>
-			<td style="text-align: center;">Debian Packaging &ndash; Praveen A</td>
+			<td style="text-align: center;">&nbsp;</td>
 			<td style="text-align: center;">&nbsp;</td>
 		</tr>
 	</tbody>
@@ -303,7 +303,7 @@
 		<tr>
 			<td style="text-align:center">09:00 - 10:00</td>
 			<td style="text-align:center">&nbsp;</td>
-			<td style="text-align:center">&nbsp;</td>
+			<td style="text-align:center">Debian Packaging &ndash; Praveen A</td>
 			<td style="text-align:center">&nbsp;</td>
 		</tr>
 		<tr>
@@ -315,13 +315,13 @@
 		<tr>
 			<td style="text-align:center">10:15 &ndash; 11:00</td>
 			<td style="text-align:center">&nbsp;</td>
-			<td style="text-align:center">&nbsp;</td>
-			<td style="text-align:center">&nbsp;</td>
+			<td style="text-align:center">Debian Packaging &ndash; Praveen A</td>
+			<td style="text-align:center">Gnome Shell Accessibility with Orca &ndash; Krishnakant Mane</td>
 		</tr>
 		<tr>
 			<td style="text-align:center">11:00 &ndash; 12:00</td>
 			<td style="text-align:center">&nbsp;</td>
-			<td style="text-align:center">&nbsp;</td>
+			<td style="text-align:center">Debian Packaging &ndash; Praveen A</td>
 			<td style="text-align:center">&nbsp;</td>
 		</tr>
 		<tr>
@@ -563,6 +563,24 @@
                                     </div>
                                 </div>
                             </div>
+                            <div class="review rollitin">
+                                <div class="row">
+                                    <div class="col-md-2">
+                                        <div class="review-person">
+                                            <img src="img/krishnakant-mane.jpg" alt="Krishnakant Mane" class="img-responsive">
+                                        </div>
+                                    </div>
+                                    <div class="col-md-10">
+                                        <div class="review-comment">
+                                            <h3>“A software engineery by profession, expert in Python with experience in Java. Working as a IT adviser for many government projects. Lead developer of GNUKhata.”</h3>
+                                            <p>
+                                                - Krishnakant Mane
+
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
 <!--
                             <div class="review rollitin">
                                 <div class="row">
@@ -651,6 +669,7 @@
                     <h1>Register</h1>
                     <div class="divider"></div>
                     <p>Register for the event at&nbsp;<a href="https://www.eventbrite.com/e/mini-debconf-mumbai-2015-tickets-15022071420" target="_blank">EventBrite</a>.</p>
+                    <p>Registration fees, if any, will be charged at the venue.</p>
                 </div>
 <!--
                 <div class="row">
@@ -684,15 +703,15 @@
 <p>Alternatively, you can get down at Dadar station and change platform to the central line. Take a slow train on the line to Thane/Kalyan/Karjat. Get down at Vikhroli or Kanjurmarg station. Take an auto to IIT, Powai (fare upto Rs 30). Enter the campus from the Market gate (the first gate you come across).</p>
 <p><u>If you come by Air</u>:<br>
 	International flights land at Sahar Airport which is about 8 kms from IIT. The Domestic Airport- at SantaCruz is about 12 kms. Its' best to take a Pre-paid taxi (costs about Rs 350 - 500 (US $ 8.00 -12.00) from Airport to IIT Bombay, Powai) available at the Airport to come to IIT. Auto rickshaws and regular taxis are also available at both the airports for reaching IIT, Powai.</p>
-<p>For more information check: <a target="_blank" href="http://www.iitb.ac.in/campus/howto/howtoget.html" target="_blank">How to get to IITB</a></p>	
+<p>For more information check: <a href="http://www.iitb.ac.in/campus/howto/howtoget.html" target="_blank">How to get to IITB</a></p>	
                     
                 </div>
                 
                 <div class="row">
                     <div class="col-md-12" style="margin-top: -30px;" >
 							<div id="map" style="margin-top: -20px;" >
-                    <a href="http://www.openstreetmap.org/node/1640273574#map=17/19.13335/72.91228" target="_blank" ><img src="img/map.jpg" class="img-responsive scrollpoint sp-effect5" alt="Map" ></a>
-                    <p style="color: #fff;">Get directions with <a href="http://www.openstreetmap.org/node/1640273574#map=17/19.13335/72.91228" target="_blank">OpenStreetMap</a> / <a href="https://www.google.co.in/maps/dir//Indian+Institute+of+Technology+Bombay/@19.1335074,72.8762744,13z/data=!4m8!4m7!1m0!1m5!1m1!1s0x0:0x68fdcea4c5c5894e!2m2!1d72.913268!2d19.13343" target="_blank">Google&nbsp;Maps</a></p>
+                    <a href="http://www.openstreetmap.org/node/1640273574#map=17/19.13335/72.91228" target="_blank" ><img src="img/map.jpg" class="img-responsive scrollpoint sp-effect5" alt="Map" align="middle"></a>
+                    <p style="color: #fff;" align="center">Get directions with <a href="http://www.openstreetmap.org/node/1640273574#map=17/19.13335/72.91228" target="_blank">OpenStreetMap</a> / <a href="https://www.google.co.in/maps/dir//Indian+Institute+of+Technology+Bombay/@19.1335074,72.8762744,13z/data=!4m8!4m7!1m0!1m5!1m1!1s0x0:0x68fdcea4c5c5894e!2m2!1d72.913268!2d19.13343" target="_blank">Google&nbsp;Maps</a></p>
                     </div>
                     
 <!--
@@ -726,7 +745,7 @@
                 <div class="section-heading scrollpoint sp-effect3">
                     <h1>Contact Us</h1>
                     <div class="divider"></div>
-                    <p>If you would like to reach us or volunteer for the event, please get in touch with us on the Mini-DebConf India Mailing List</p>                    
+                    <p>If you would like to contact us or volunteer for the event, please get in touch on the Mini-DebConf India Mailing List. This website's code is available on <a href="https://github.com/rigved/in2015.mini.debconf.org" target="_blank">GitHub</a>.</p>
                 </div>
                 <div class="row">
                     <div class="col-md-12">
