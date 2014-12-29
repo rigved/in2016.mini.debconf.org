@@ -281,7 +281,7 @@
 		<tr>
 			<td style="text-align: center;">16:45 &ndash; 17:30</td>
 			<td style="text-align: center;">&nbsp;</td>
-			<td style="text-align: center;">&nbsp;</td>
+			<td style="text-align: center;">Introduction to Raspbian: A Raspberry Pi flavor of Debian &ndash; Rahul Mahale</td>
 			<td style="text-align: center;">&nbsp;</td>
 		</tr>
 	</tbody>
@@ -575,6 +575,24 @@
                                             <h3>“A software engineery by profession, expert in Python with experience in Java. Working as a IT adviser for many government projects. Lead developer of GNUKhata.”</h3>
                                             <p>
                                                 - Krishnakant Mane
+
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="review rollitin">
+                                <div class="row">
+                                    <div class="col-md-2">
+                                        <div class="review-person">
+                                            <img src="img/rahul-mahale.jpg" alt="Rahul Mahale" class="img-responsive">
+                                        </div>
+                                    </div>
+                                    <div class="col-md-10">
+                                        <div class="review-comment">
+                                            <h3>“An Open-Source Enthusiast and GNU/Linux user and promoter, currently working as a DevOps Engineer at TinyOwl Mumbai. You can know more about him at http://rahulmahale.wordpress.com/ , https://twitter.com/Rahul_Mahale and https://github.com/RahulMahale .”</h3>
+                                            <p>
+                                                - Rahul Mahale
 
                                             </p>
                                         </div>
