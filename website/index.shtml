@@ -153,11 +153,13 @@
                 <div class="section-heading scrollpoint sp-effect3">
                     <h1>About Us</h1>
                     <div class="divider"></div>
-                    <p>MiniDebConfs are local meetings organized by Debian project members to achieve similar objectives to those of the DebConf, but on a regional context. Debian is a volunteer project without which none of the deb-based distributions (i.e., distributions which have binary packages in the form of .deb ) would exist. It is a distribution which is famed for its stability and boasts of some of the widest array of software in its archive serving almost all the computer system hardware architectures known to mankind.</p>
-                    <p></p>                    
+                    <p>“Debian is the Universal Operating System of the users, by the users, for the users.”</p>
+                    <p align="center">- Anonymous</p>
+                    <p></p>
+                    <p>MiniDebConfs are local meetings organized by Debian project members to achieve similar objectives to those of the DebConf, but on a regional context. Debian, as a volunteer project, produces the GNU/Linux Debian distribution, which is famed for its stability and boasts of some of the widest array of software in its archive, serving almost all the computer system hardware architectures known to mankind.</p>
+                    <p></p>
                     <p><strong>Why Attend ?</strong></p>
-                    <p>Debian is a cool operating system comprising of many such cool Free and Open Source Softwares (FOSS). It is one of the most popular distributions of Linux with several passionate developers around the globe steering the wheel behind.</p>
-                    <p>A mini-DebConf is an awesome opportunity for any student who is passionate to experience the magic of FOSS. Here you can meet the veterans in FOSS development, develop professional connections which, will help you in future, chat with student contributors who can guide you, present in front of a grand audience and most importantly, grasp the essence of FOSS development. It is indeed a ‘never miss’ opportunity that will give you a strong foundation to build on!</p>
+                    <p>A mini-DebConf is an awesome opportunity for any user who wants to experience the magic of Free and Open Source Software (FOSS). Here you can meet the veterans in FOSS development, develop professional connections which will help you in future, chat with contributors who can guide you, present in front of a grand audience and most importantly, grasp the essence of FOSS development. It is indeed a ‘never miss’ opportunity that will give you a strong foundation to build on!</p>
                                         
                 </div>
 <!--
