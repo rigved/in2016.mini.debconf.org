@@ -860,9 +860,9 @@
                     <img src="img/berry/logo.png" alt="" class="logo">
                 </a>
                 <div class="social">
-                    <a href="https://twitter.com/MiniDebConfMum" class="scrollpoint sp-effect3"><i class="fa fa-twitter fa-lg"></i></a>
-                    <a href="https://plus.google.com/114516694850767309355/posts" class="scrollpoint sp-effect3"><i class="fa fa-google-plus fa-lg"></i></a>
-                    <a href="https://www.facebook.com/events/902513659769030/" class="scrollpoint sp-effect3"><i class="fa fa-facebook fa-lg"></i></a>
+                    <a href="https://twitter.com/MiniDebConfMum" class="scrollpoint sp-effect3" target="_blank"><i class="fa fa-twitter fa-lg"></i></a>
+                    <a href="https://plus.google.com/114516694850767309355/posts" class="scrollpoint sp-effect3" target="_blank"><i class="fa fa-google-plus fa-lg"></i></a>
+                    <a href="https://www.facebook.com/events/902513659769030/" class="scrollpoint sp-effect3" target="_blank"><i class="fa fa-facebook fa-lg"></i></a>
                 </div>
                 <div class="rights">
                     <p>Copyright &copy;  DebianIN</p>
