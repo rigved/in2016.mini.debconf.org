@@ -154,7 +154,7 @@
                     <h1>About Us</h1>
                     <div class="divider"></div>
                     <p>“Debian is the Universal Operating System of the users, by the users, for the users.”</p>
-                    <p align="center">- Anonymous</p>
+                    <p align="center">&mdash; Anonymous</p>
                     <p></p>
                     <p>MiniDebConfs are local meetings organized by Debian project members to achieve similar objectives to those of the DebConf, but on a regional context. Debian, as a volunteer project, produces the GNU/Linux Debian distribution, which is famed for its stability and boasts of some of the widest array of software in its archive, serving almost all the computer system hardware architectures known to mankind.</p>
                     <p></p>
@@ -202,7 +202,7 @@
                 <div class="section-heading scrollpoint sp-effect3">
                     <h1>Schedule</h1>
                     <div class="divider"></div>
-                    <p>DAY 1 17/01/2015 </p>
+                    <p>DAY 1 &mdash; 17/01/2015 </p>
                     <div id="first-day" style="color: #000;">
                     <table align="center" border="1" cellpadding="1" cellspacing="1" style="width:100%">
 	<thead>
@@ -227,7 +227,7 @@
 			<td style="text-align: center;">&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="text-align: center;">10:00 - 11:00</td>
+			<td style="text-align: center;">10:00 &ndash; 11:00</td>
 			<td style="text-align: center;">Keynote Session</td>
 			<td style="text-align: center;">&nbsp;</td>
 			<td style="text-align: center;">&nbsp;</td>
@@ -241,14 +241,14 @@
 		<tr>
 			<td style="text-align: center;">11:15 &ndash; 12:00</td>
 			<td style="text-align: center;">&nbsp;</td>
-			<td style="text-align: center;">Debian History and Debian Cycle - Shirish Agarwal</td>
+			<td style="text-align: center;">Debian History and Debian Cycle &mdash; Shirish Agarwal</td>
 			<td style="text-align: center;">&nbsp;</td>
 		</tr>
 		<tr>
 			<td style="text-align: center;">12:00 &ndash; 13:00</td>
 			<td style="text-align: center;">&nbsp;</td>
 			<td style="text-align: center;">&nbsp;</td>
-			<td style="text-align: center;">Debian 'In' India &ndash; Kartik Mistry</td>
+			<td style="text-align: center;">Debian 'In' India &mdash; Kartik Mistry</td>
 		</tr>
 		<tr>
 			<td style="text-align: center;">13:00 &ndash; 14:00</td>
@@ -260,18 +260,18 @@
 			<td style="text-align: center;">14:00 &ndash; 15:00</td>
 			<td style="text-align: center;">&nbsp;</td>
 			<td style="text-align: center;">&nbsp;</td>
-			<td style="text-align: center;">AppStream/DEP-11 for the Debian Archive &ndash; Abhishek Bhattacharjee</td>
+			<td style="text-align: center;">AppStream/DEP-11 for the Debian Archive &mdash; Abhishek Bhattacharjee</td>
 		</tr>
 		<tr>
 			<td style="text-align: center;">15:00 &ndash; 16:00</td>
 			<td style="text-align: center;">&nbsp;</td>
-			<td style="text-align: center;">Debian on ARM &ndash; Siji Sunny</td>
+			<td style="text-align: center;">Debian on ARM &mdash; Siji Sunny</td>
 			<td style="text-align: center;">&nbsp;</td>
 		</tr>
 		<tr>
 			<td style="text-align: center;">16:00 &ndash; 16:30</td>
 			<td style="text-align: center;">&nbsp;</td>
-			<td style="text-align: center;">Debian on ARM &ndash; Siji Sunny</td>
+			<td style="text-align: center;">Debian on ARM &mdash; Siji Sunny</td>
 			<td style="text-align: center;">&nbsp;</td>
 		</tr>
 		<tr>
@@ -283,14 +283,14 @@
 		<tr>
 			<td style="text-align: center;">16:45 &ndash; 17:30</td>
 			<td style="text-align: center;">&nbsp;</td>
-			<td style="text-align: center;">Introduction to Raspbian: A Raspberry Pi flavor of Debian &ndash; Rahul Mahale</td>
+			<td style="text-align: center;">Introduction to Raspbian: A Raspberry Pi flavor of Debian &mdash; Rahul Mahale</td>
 			<td style="text-align: center;">&nbsp;</td>
 		</tr>
 	</tbody>
 </table>
 
 <p style="text-align: center;">&nbsp;</p>
-                    <p>DAY 2 18/01/2015 </p>
+                    <p>DAY 2 &mdash; 18/01/2015 </p>
                     <div id="first-day" style="color: #000;">
                     <table align="center" border="1" cellpadding="1" cellspacing="1" style="width:100%">
 	<thead>
@@ -303,9 +303,9 @@
 	</thead>
 	<tbody>
 		<tr>
-			<td style="text-align:center">09:00 - 10:00</td>
+			<td style="text-align:center">09:00 &ndash; 10:00</td>
 			<td style="text-align:center">&nbsp;</td>
-			<td style="text-align:center">Debian Packaging &ndash; Praveen A</td>
+			<td style="text-align:center">Debian Packaging &mdash; Praveen A</td>
 			<td style="text-align:center">&nbsp;</td>
 		</tr>
 		<tr>
@@ -317,19 +317,19 @@
 		<tr>
 			<td style="text-align:center">10:15 &ndash; 11:00</td>
 			<td style="text-align:center">&nbsp;</td>
-			<td style="text-align:center">Debian Packaging &ndash; Praveen A</td>
-			<td style="text-align:center">Gnome Shell Accessibility with Orca &ndash; Krishnakant Mane</td>
+			<td style="text-align:center">Debian Packaging &mdash; Praveen A</td>
+			<td style="text-align:center">Gnome Shell Accessibility with Orca &mdash; Krishnakant Mane</td>
 		</tr>
 		<tr>
 			<td style="text-align:center">11:00 &ndash; 12:00</td>
 			<td style="text-align:center">&nbsp;</td>
-			<td style="text-align:center">Debian Packaging &ndash; Praveen A</td>
+			<td style="text-align:center">Debian Packaging &mdash; Praveen A</td>
 			<td style="text-align:center">&nbsp;</td>
 		</tr>
 		<tr>
 			<td style="text-align:center">12:00 &ndash; 13:00</td>
 			<td style="text-align:center">&nbsp;</td>
-			<td style="text-align:center">Debian Packaging &ndash; Praveen A</td>
+			<td style="text-align:center">Debian Packaging &mdash; Praveen A</td>
 			<td style="text-align:center">&nbsp;</td>
 		</tr>
 		<tr>
@@ -341,19 +341,19 @@
 		<tr>
 			<td style="text-align:center">14:00 &ndash; 15:00</td>
 			<td style="text-align:center">&nbsp;</td>
-			<td style="text-align:center">Debian Packaging &ndash; Praveen A</td>
+			<td style="text-align:center">Debian Packaging &mdash; Praveen A</td>
 			<td style="text-align:center">&nbsp;</td>
 		</tr>
 		<tr>
 			<td style="text-align:center">15:00 &ndash; 16:00</td>
 			<td style="text-align:center">&nbsp;</td>
-			<td style="text-align:center">Debian Packaging &ndash; Praveen A</td>
+			<td style="text-align:center">Debian Packaging &mdash; Praveen A</td>
 			<td style="text-align:center">&nbsp;</td>
 		</tr>
 		<tr>
 			<td style="text-align:center">16:00 &ndash; 16:30</td>
 			<td style="text-align:center">&nbsp;</td>
-			<td style="text-align:center">Debian Packaging &ndash; Praveen A</td>
+			<td style="text-align:center">Debian Packaging &mdash; Praveen A</td>
 			<td style="text-align:center">&nbsp;</td>
 		</tr>
 		<tr>
@@ -365,7 +365,7 @@
 		<tr>
 			<td style="text-align:center">16:45 &ndash; 17:30</td>
 			<td style="text-align:center">&nbsp;</td>
-			<td style="text-align:center">Debian Packaging &ndash; Praveen A</td>
+			<td style="text-align:center">Debian Packaging &mdash; Praveen A</td>
 			<td style="text-align:center">&nbsp;</td>
 		</tr>
 	</tbody>
