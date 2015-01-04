@@ -673,23 +673,24 @@
                         <img src="img/berry/screens/debian-sponsor-logo.jpg" alt="Debian">
                         <h4>Debian</h4>
                     </div>
-                    <div class="two">
+<!--
+                    <div class="one">
                         <img src="img/berry/screens/menu.jpg" alt="">
                         <h4>Demo Logo 1</h4>
                     </div>
-                    <div class="three">
+                    <div class="two">
                         <img src="img/berry/screens/weather.jpg" alt="">
                         <h4>Demo Logo 2</h4>
                     </div>
-                    <div class="one">
+                    <div class="two">
                         <img src="img/berry/screens/signup.jpg" alt="">
                         <h4>Demo Logo 3</h4>
                     </div>
-                    <div class="one">
+                    <div class="three">
                         <img src="img/berry/screens/calendar.jpg" alt="">
                         <h4>Demo Logo 4</h4>
                     </div>
-                    <div class="two">
+                    <div class="three">
                         <img src="img/berry/screens/options.jpg" alt="">
                         <h4>Demo Logo 5</h4>
                     </div>
@@ -697,6 +698,7 @@
                         <img src="img/berry/screens/sales.jpg" alt="">
                         <h4>Demo Logo 6</h4>
                     </div>
+-->
                 </div>
             </div>
         </section>
