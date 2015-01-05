@@ -97,20 +97,20 @@
 
 
 
-                        <div class="tp-caption large_white_bold sft" data-x="150" data-y="center" data-hoffset="0" data-voffset="-80" data-speed="500" data-start="1200" data-easing="Power4.easeOut">
+                        <div class="tp-caption large_white_bold sft" data-x="220" data-y="center" data-hoffset="0" data-voffset="-80" data-speed="500" data-start="1200" data-easing="Power4.easeOut">
                             January
                         </div>
-                        <div class="tp-caption large_white_light sfr" data-x="370" data-y="center" data-hoffset="0" data-voffset="-80" data-speed="500" data-start="1400" data-easing="Power4.easeOut">
+                        <div class="tp-caption large_white_light sfr" data-x="440" data-y="center" data-hoffset="0" data-voffset="-80" data-speed="500" data-start="1400" data-easing="Power4.easeOut">
                             &nbsp;&nbsp;17-18, 2015
                         </div>
-                        <div class="tp-caption large_white_light sfb" data-x="150" data-y="center" data-hoffset="0" data-voffset="0" data-speed="1000" data-start="1500" data-easing="Power4.easeOut">
-                            Mini-DebConf Mumbai 2015
+                        <div class="tp-caption large_white_light sfb" data-x="220" data-y="center" data-hoffset="0" data-voffset="0" data-speed="1000" data-start="1500" data-easing="Power4.easeOut">
+                            Mini-DebConf Mumbai
                         </div>
 
-                        <div class="tp-caption sfb hidden-xs" data-x="350" data-y="center" data-hoffset="0" data-voffset="85" data-speed="1000" data-start="1700" data-easing="Power4.easeOut">
+                        <div class="tp-caption sfb hidden-xs" data-x="370" data-y="center" data-hoffset="0" data-voffset="85" data-speed="1000" data-start="1700" data-easing="Power4.easeOut">
                             <a href="#about" class="btn btn-primary inverse btn-lg">LEARN MORE</a>
                         </div>
-                        <div class="tp-caption sfr hidden-xs" data-x="530" data-y="center" data-hoffset="0" data-voffset="85" data-speed="1500" data-start="1900" data-easing="Power4.easeOut">
+                        <div class="tp-caption sfr hidden-xs" data-x="550" data-y="center" data-hoffset="0" data-voffset="85" data-speed="1500" data-start="1900" data-easing="Power4.easeOut">
                             <a href="#register" class="btn btn-default btn-lg">Register Now</a>
                         </div>
 
@@ -153,11 +153,13 @@
                 <div class="section-heading scrollpoint sp-effect3">
                     <h1>About Us</h1>
                     <div class="divider"></div>
-                    <p>MiniDebConfs are local meetings organized by Debian project members to achieve similar objectives to those of the DebConf, but on a regional context. Debian is a volunteer project without which none of the deb-based distributions (i.e., distributions which have binary packages in the form of .deb ) would exist. It is a distribution which is famed for its stability and boasts of some of the widest array of software in its archive serving almost all the computer system hardware architectures known to mankind.</p>
-                    <p></p>                    
+                    <p>“Debian is the Universal Operating System of the users, by the users, for the users.”</p>
+                    <p align="center">&mdash; Anonymous</p>
+                    <p></p>
+                    <p>MiniDebConfs are local meetings organized by Debian project members to achieve similar objectives to those of the DebConf, but on a regional context. Debian, as a volunteer project, produces the GNU/Linux Debian distribution, which is famed for its stability and boasts of some of the widest array of software in its archive, serving almost all the computer system hardware architectures known to mankind.</p>
+                    <p></p>
                     <p><strong>Why Attend ?</strong></p>
-                    <p>Debian is a cool operating system comprising of many such cool Free and Open Source Softwares (FOSS). It is one of the most popular distributions of Linux with several passionate developers around the globe steering the wheel behind.</p>
-                    <p>A mini-DebConf is an awesome opportunity for any student who is passionate to experience the magic of FOSS. Here you can meet the veterans in FOSS development, develop professional connections which, will help you in future, chat with student contributors who can guide you, present in front of a grand audience and most importantly, grasp the essence of FOSS development. It is indeed a ‘never miss’ opportunity that will give you a strong foundation to build on!</p>
+                    <p>A mini-DebConf is an awesome opportunity for any user who wants to experience the magic of Free and Open Source Software (FOSS). Here you can meet the veterans in FOSS development, develop professional connections which will help you in future, chat with contributors who can guide you, present in front of a grand audience and most importantly, grasp the essence of FOSS development. It is indeed a ‘never miss’ opportunity that will give you a strong foundation to build on!</p>
                                         
                 </div>
 <!--
@@ -200,7 +202,7 @@
                 <div class="section-heading scrollpoint sp-effect3">
                     <h1>Schedule</h1>
                     <div class="divider"></div>
-                    <p>DAY 1 17/01/2015 </p>
+                    <p>DAY 1 &mdash; 17/01/2015 </p>
                     <div id="first-day" style="color: #000;">
                     <table align="center" border="1" cellpadding="1" cellspacing="1" style="width:100%">
 	<thead>
@@ -225,7 +227,7 @@
 			<td style="text-align: center;">&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="text-align: center;">10:00 - 11:00</td>
+			<td style="text-align: center;">10:00 &ndash; 11:00</td>
 			<td style="text-align: center;">Keynote Session</td>
 			<td style="text-align: center;">&nbsp;</td>
 			<td style="text-align: center;">&nbsp;</td>
@@ -239,14 +241,14 @@
 		<tr>
 			<td style="text-align: center;">11:15 &ndash; 12:00</td>
 			<td style="text-align: center;">&nbsp;</td>
-			<td style="text-align: center;">Debian History and Debian Cycle - Shirish Agarwal</td>
+			<td style="text-align: center;">Debian History and Debian Cycle &mdash; Shirish Agarwal</td>
 			<td style="text-align: center;">&nbsp;</td>
 		</tr>
 		<tr>
 			<td style="text-align: center;">12:00 &ndash; 13:00</td>
 			<td style="text-align: center;">&nbsp;</td>
 			<td style="text-align: center;">&nbsp;</td>
-			<td style="text-align: center;">Debian 'In' India &ndash; Kartik Mistry</td>
+			<td style="text-align: center;">Debian 'In' India &mdash; Kartik Mistry</td>
 		</tr>
 		<tr>
 			<td style="text-align: center;">13:00 &ndash; 14:00</td>
@@ -258,18 +260,18 @@
 			<td style="text-align: center;">14:00 &ndash; 15:00</td>
 			<td style="text-align: center;">&nbsp;</td>
 			<td style="text-align: center;">&nbsp;</td>
-			<td style="text-align: center;">&nbsp;</td>
+			<td style="text-align: center;">AppStream/DEP-11 for the Debian Archive &mdash; Abhishek Bhattacharjee</td>
 		</tr>
 		<tr>
 			<td style="text-align: center;">15:00 &ndash; 16:00</td>
 			<td style="text-align: center;">&nbsp;</td>
-			<td style="text-align: center;">Debian on ARM &ndash; Siji Sunny</td>
+			<td style="text-align: center;">Debian on ARM &mdash; Siji Sunny</td>
 			<td style="text-align: center;">&nbsp;</td>
 		</tr>
 		<tr>
 			<td style="text-align: center;">16:00 &ndash; 16:30</td>
 			<td style="text-align: center;">&nbsp;</td>
-			<td style="text-align: center;">Debian on ARM &ndash; Siji Sunny</td>
+			<td style="text-align: center;">Debian on ARM &mdash; Siji Sunny</td>
 			<td style="text-align: center;">&nbsp;</td>
 		</tr>
 		<tr>
@@ -281,14 +283,14 @@
 		<tr>
 			<td style="text-align: center;">16:45 &ndash; 17:30</td>
 			<td style="text-align: center;">&nbsp;</td>
-			<td style="text-align: center;">Introduction to Raspbian: A Raspberry Pi flavor of Debian &ndash; Rahul Mahale</td>
+			<td style="text-align: center;">Introduction to Raspbian: A Raspberry Pi flavor of Debian &mdash; Rahul Mahale</td>
 			<td style="text-align: center;">&nbsp;</td>
 		</tr>
 	</tbody>
 </table>
 
 <p style="text-align: center;">&nbsp;</p>
-                    <p>DAY 2 18/01/2015 </p>
+                    <p>DAY 2 &mdash; 18/01/2015 </p>
                     <div id="first-day" style="color: #000;">
                     <table align="center" border="1" cellpadding="1" cellspacing="1" style="width:100%">
 	<thead>
@@ -301,9 +303,9 @@
 	</thead>
 	<tbody>
 		<tr>
-			<td style="text-align:center">09:00 - 10:00</td>
+			<td style="text-align:center">09:00 &ndash; 10:00</td>
 			<td style="text-align:center">&nbsp;</td>
-			<td style="text-align:center">Debian Packaging &ndash; Praveen A</td>
+			<td style="text-align:center">Debian Packaging &mdash; Praveen A</td>
 			<td style="text-align:center">&nbsp;</td>
 		</tr>
 		<tr>
@@ -315,19 +317,19 @@
 		<tr>
 			<td style="text-align:center">10:15 &ndash; 11:00</td>
 			<td style="text-align:center">&nbsp;</td>
-			<td style="text-align:center">Debian Packaging &ndash; Praveen A</td>
-			<td style="text-align:center">Gnome Shell Accessibility with Orca &ndash; Krishnakant Mane</td>
+			<td style="text-align:center">Debian Packaging &mdash; Praveen A</td>
+			<td style="text-align:center">Gnome Shell Accessibility with Orca &mdash; Krishnakant Mane</td>
 		</tr>
 		<tr>
 			<td style="text-align:center">11:00 &ndash; 12:00</td>
 			<td style="text-align:center">&nbsp;</td>
-			<td style="text-align:center">Debian Packaging &ndash; Praveen A</td>
+			<td style="text-align:center">Debian Packaging &mdash; Praveen A</td>
 			<td style="text-align:center">&nbsp;</td>
 		</tr>
 		<tr>
 			<td style="text-align:center">12:00 &ndash; 13:00</td>
 			<td style="text-align:center">&nbsp;</td>
-			<td style="text-align:center">Debian Packaging &ndash; Praveen A</td>
+			<td style="text-align:center">Debian Packaging &mdash; Praveen A</td>
 			<td style="text-align:center">&nbsp;</td>
 		</tr>
 		<tr>
@@ -339,19 +341,19 @@
 		<tr>
 			<td style="text-align:center">14:00 &ndash; 15:00</td>
 			<td style="text-align:center">&nbsp;</td>
-			<td style="text-align:center">Debian Packaging &ndash; Praveen A</td>
+			<td style="text-align:center">Debian Packaging &mdash; Praveen A</td>
 			<td style="text-align:center">&nbsp;</td>
 		</tr>
 		<tr>
 			<td style="text-align:center">15:00 &ndash; 16:00</td>
 			<td style="text-align:center">&nbsp;</td>
-			<td style="text-align:center">Debian Packaging &ndash; Praveen A</td>
+			<td style="text-align:center">Debian Packaging &mdash; Praveen A</td>
 			<td style="text-align:center">&nbsp;</td>
 		</tr>
 		<tr>
 			<td style="text-align:center">16:00 &ndash; 16:30</td>
 			<td style="text-align:center">&nbsp;</td>
-			<td style="text-align:center">Debian Packaging &ndash; Praveen A</td>
+			<td style="text-align:center">Debian Packaging &mdash; Praveen A</td>
 			<td style="text-align:center">&nbsp;</td>
 		</tr>
 		<tr>
@@ -363,7 +365,7 @@
 		<tr>
 			<td style="text-align:center">16:45 &ndash; 17:30</td>
 			<td style="text-align:center">&nbsp;</td>
-			<td style="text-align:center">Debian Packaging &ndash; Praveen A</td>
+			<td style="text-align:center">Debian Packaging &mdash; Praveen A</td>
 			<td style="text-align:center">&nbsp;</td>
 		</tr>
 	</tbody>
@@ -590,9 +592,27 @@
                                     </div>
                                     <div class="col-md-10">
                                         <div class="review-comment">
-                                            <h3>“An Open-Source Enthusiast and GNU/Linux user and promoter, currently working as a DevOps Engineer at TinyOwl Mumbai. You can know more about him at http://rahulmahale.wordpress.com/ , https://twitter.com/Rahul_Mahale and https://github.com/RahulMahale .”</h3>
+                                            <h3>“An Open-Source Enthusiast and GNU/Linux user and promoter, currently working as a DevOps Engineer at TinyOwl Mumbai. You can know more about him at his&nbsp;<a href="http://rahulmahale.wordpress.com/" target="_blank">blog</a>,&nbsp;<a href="https://twitter.com/Rahul_Mahale" target="_blank">Twitter</a> and&nbsp;<a href="https://github.com/RahulMahale" target="_blank">GitHub</a> accounts.”</h3>
                                             <p>
                                                 - Rahul Mahale
+
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="review rollitin">
+                                <div class="row">
+                                    <div class="col-md-2">
+                                        <div class="review-person">
+                                            <img src="img/abhishek-bhattacharjee.jpg" alt="Abhishek Bhattacharjee" class="img-responsive">
+                                        </div>
+                                    </div>
+                                    <div class="col-md-10">
+                                        <div class="review-comment">
+                                            <h3>“An Associate Software Engineer at Symantec who loves programming, watching movies and listening to all kinds of music, from regional folk to western heavy metal. More information about his open-source projects can be found at his&nbsp;<a href="https://github.com/abhi11" target="_blank">GitHub</a> account.”</h3>
+                                            <p>
+                                                - Abhishek Bhattacharjee
 
                                             </p>
                                         </div>
@@ -653,23 +673,24 @@
                         <img src="img/berry/screens/debian-sponsor-logo.jpg" alt="Debian">
                         <h4>Debian</h4>
                     </div>
-                    <div class="two">
+<!--
+                    <div class="one">
                         <img src="img/berry/screens/menu.jpg" alt="">
                         <h4>Demo Logo 1</h4>
                     </div>
-                    <div class="three">
+                    <div class="two">
                         <img src="img/berry/screens/weather.jpg" alt="">
                         <h4>Demo Logo 2</h4>
                     </div>
-                    <div class="one">
+                    <div class="two">
                         <img src="img/berry/screens/signup.jpg" alt="">
                         <h4>Demo Logo 3</h4>
                     </div>
-                    <div class="one">
+                    <div class="three">
                         <img src="img/berry/screens/calendar.jpg" alt="">
                         <h4>Demo Logo 4</h4>
                     </div>
-                    <div class="two">
+                    <div class="three">
                         <img src="img/berry/screens/options.jpg" alt="">
                         <h4>Demo Logo 5</h4>
                     </div>
@@ -677,6 +698,7 @@
                         <img src="img/berry/screens/sales.jpg" alt="">
                         <h4>Demo Logo 6</h4>
                     </div>
+-->
                 </div>
             </div>
         </section>
@@ -687,7 +709,7 @@
                     <h1>Register</h1>
                     <div class="divider"></div>
                     <p>Register for the event at&nbsp;<a href="https://www.eventbrite.com/e/mini-debconf-mumbai-2015-tickets-15022071420" target="_blank">EventBrite</a>.</p>
-                    <p>Registration fees, if any, will be charged at the venue.</p>
+                    <p>Registration fee of ₹300 will be charged at the venue.</p>
                 </div>
 <!--
                 <div class="row">
@@ -838,9 +860,9 @@
                     <img src="img/berry/logo.png" alt="" class="logo">
                 </a>
                 <div class="social">
-                    <a href="https://twitter.com/MiniDebConfMum" class="scrollpoint sp-effect3"><i class="fa fa-twitter fa-lg"></i></a>
-                    <a href="https://plus.google.com/114516694850767309355/posts" class="scrollpoint sp-effect3"><i class="fa fa-google-plus fa-lg"></i></a>
-                    <a href="https://www.facebook.com/events/902513659769030/" class="scrollpoint sp-effect3"><i class="fa fa-facebook fa-lg"></i></a>
+                    <a href="https://twitter.com/MiniDebConfMum" class="scrollpoint sp-effect3" target="_blank"><i class="fa fa-twitter fa-lg"></i></a>
+                    <a href="https://plus.google.com/114516694850767309355" class="scrollpoint sp-effect3" target="_blank"><i class="fa fa-google-plus fa-lg"></i></a>
+                    <a href="https://www.facebook.com/MiniDebConfMumbai" class="scrollpoint sp-effect3" target="_blank"><i class="fa fa-facebook fa-lg"></i></a>
                 </div>
                 <div class="rights">
                     <p>Copyright &copy;  DebianIN</p>
