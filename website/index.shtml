@@ -247,7 +247,7 @@
 		<tr>
 			<td style="text-align: center;">12:00 &ndash; 13:00</td>
 			<td style="text-align: center;">&nbsp;</td>
-			<td style="text-align: center;">&nbsp;</td>
+			<td style="text-align: center;">Debian and the BeagleBone Black &mdash; Anuj Deshpande</td>
 			<td style="text-align: center;">Debian 'In' India &mdash; Kartik Mistry</td>
 		</tr>
 		<tr>
@@ -259,7 +259,7 @@
 		<tr>
 			<td style="text-align: center;">14:00 &ndash; 15:00</td>
 			<td style="text-align: center;">&nbsp;</td>
-			<td style="text-align: center;">&nbsp;</td>
+			<td style="text-align: center;">Lil'Debi&#58; Running Debian on Android &mdash; Kumar Sukhani</td>
 			<td style="text-align: center;">AppStream/DEP-11 for the Debian Archive &mdash; Abhishek Bhattacharjee</td>
 		</tr>
 		<tr>
@@ -613,6 +613,42 @@
                                             <h3>“An Associate Software Engineer at Symantec who loves programming, watching movies and listening to all kinds of music, from regional folk to western heavy metal. More information about his open-source projects can be found at his&nbsp;<a href="https://github.com/abhi11" target="_blank">GitHub</a> account.”</h3>
                                             <p>
                                                 - Abhishek Bhattacharjee
+
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="review rollitin">
+                                <div class="row">
+                                    <div class="col-md-2">
+                                        <div class="review-person">
+                                            <img src="img/kumar-sukhani.jpg" alt="Kumar Sukhani" class="img-responsive">
+                                        </div>
+                                    </div>
+                                    <div class="col-md-10">
+                                        <div class="review-comment">
+                                            <h3>“I am currently working at Cloudwalk and my GSOC project under the Debian community was Lil'Debi. I also talked about Lil'Debi at Droidcon, Portland.”</h3>
+                                            <p>
+                                                - Kumar Sukhani
+
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="review rollitin">
+                                <div class="row">
+                                    <div class="col-md-2">
+                                        <div class="review-person">
+                                            <img src="img/anuj-deshpande.jpg" alt="Anuj Deshpande" class="img-responsive">
+                                        </div>
+                                    </div>
+                                    <div class="col-md-10">
+                                        <div class="review-comment">
+                                            <h3>“Currently working at Revealing Hour Creations, Anuj was part of the team that recently crowd funded the Tah board. Hecompleted the Userspace Arduino project, as part of GSoC 2013 at Beagleboard.org. He also worked on Pixhawk Fire, an open source autopilot based on the Beaglebone Black running Debian. More information about other projects can be found&nbsp;<a href="http://anujdeshpande.com" target="_blank">here</a>.”</h3>
+                                            <p>
+                                                - Anuj Deshpande
 
                                             </p>
                                         </div>
