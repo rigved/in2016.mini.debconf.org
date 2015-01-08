@@ -240,13 +240,13 @@
 		</tr>
 		<tr>
 			<td style="text-align: center;">11:15 &ndash; 12:00</td>
-			<td style="text-align: center;">&nbsp;</td>
+			<td style="text-align: center;">Open Source Security &mdash; Rizwan Shaikh</td>
 			<td style="text-align: center;">&nbsp;</td>
 			<td style="text-align: center;">Debian History and Debian Cycle &mdash; Shirish Agarwal</td>
 		</tr>
 		<tr>
 			<td style="text-align: center;">12:00 &ndash; 13:00</td>
-			<td style="text-align: center;">&nbsp;</td>
+			<td style="text-align: center;">Open Source Security &mdash; Rizwan Shaikh</td>
 			<td style="text-align: center;">Debian and the BeagleBone Black &mdash; Anuj Deshpande</td>
 			<td style="text-align: center;">Debian 'In' India &mdash; Kartik Mistry</td>
 		</tr>
@@ -258,13 +258,13 @@
 		</tr>
 		<tr>
 			<td style="text-align: center;">14:00 &ndash; 15:00</td>
-			<td style="text-align: center;">&nbsp;</td>
+			<td style="text-align: center;">Open Source Security &mdash; Rizwan Shaikh</td>
 			<td style="text-align: center;">Lil'Debi&#58; Running Debian on Android &mdash; Kumar Sukhani</td>
 			<td style="text-align: center;">AppStream/DEP-11 for the Debian Archive &mdash; Abhishek Bhattacharjee</td>
 		</tr>
 		<tr>
 			<td style="text-align: center;">15:00 &ndash; 16:00</td>
-			<td style="text-align: center;">&nbsp;</td>
+			<td style="text-align: center;">Open Source Security &mdash; Rizwan Shaikh</td>
 			<td style="text-align: center;">Debian on ARM &mdash; Siji Sunny</td>
 			<td style="text-align: center;">&nbsp;</td>
 		</tr>
@@ -316,19 +316,19 @@
 		</tr>
 		<tr>
 			<td style="text-align:center">10:15 &ndash; 11:00</td>
-			<td style="text-align:center">&nbsp;</td>
+			<td style="text-align:center">Open Source Security &mdash; Rizwan Shaikh (₹700)</td>
 			<td style="text-align:center">Debian Packaging &mdash; Praveen A</td>
 			<td style="text-align:center">Gnome Shell Accessibility with Orca &mdash; Krishnakant Mane</td>
 		</tr>
 		<tr>
 			<td style="text-align:center">11:00 &ndash; 12:00</td>
-			<td style="text-align:center">&nbsp;</td>
+			<td style="text-align:center">Open Source Security &mdash; Rizwan Shaikh (₹700)</td>
 			<td style="text-align:center">Debian Packaging &mdash; Praveen A</td>
 			<td style="text-align:center">&nbsp;</td>
 		</tr>
 		<tr>
 			<td style="text-align:center">12:00 &ndash; 13:00</td>
-			<td style="text-align:center">&nbsp;</td>
+			<td style="text-align:center">Open Source Security &mdash; Rizwan Shaikh (₹700)</td>
 			<td style="text-align:center">Debian Packaging &mdash; Praveen A</td>
 			<td style="text-align:center">&nbsp;</td>
 		</tr>
@@ -340,13 +340,13 @@
 		</tr>
 		<tr>
 			<td style="text-align:center">14:00 &ndash; 15:00</td>
-			<td style="text-align:center">&nbsp;</td>
+			<td style="text-align:center">Open Source Security &mdash; Rizwan Shaikh (₹700)</td>
 			<td style="text-align:center">Debian Packaging &mdash; Praveen A</td>
 			<td style="text-align:center">&nbsp;</td>
 		</tr>
 		<tr>
 			<td style="text-align:center">15:00 &ndash; 16:00</td>
-			<td style="text-align:center">&nbsp;</td>
+			<td style="text-align:center">Open Source Security &mdash; Rizwan Shaikh (₹700)</td>
 			<td style="text-align:center">Debian Packaging &mdash; Praveen A</td>
 			<td style="text-align:center">&nbsp;</td>
 		</tr>
@@ -494,6 +494,24 @@
                     <div class="col-md-10 col-md-push-1 scrollpoint sp-effect3">
                         <div class="review-filtering">
                             <div class="review">
+                                <div class="row">
+                                    <div class="col-md-2">
+                                        <div class="review-person">
+                                            <img src="img/rizwan-shaikh.jpg" alt="Rizwan Shaikh" class="img-responsive">
+                                        </div>
+                                    </div>
+                                    <div class="col-md-10">
+                                        <div class="review-comment">
+                                            <h3>“Rizwan Shaikh is a prominent Information Security Researcher and Cyber Crime Consultant with more than 7 years of experience in the meadow of Ethical Hacking, Information Security and Cyber Law. He is a well recognized name in the Cyber World and with an experience of more than 7 years, he has been conducting Ethical Hacking training and providing Information Security services across the globe. He has trained employees of some of the most prestigious clients like Accenture, Wipro, Capgemini, Trend Micro, TCS, HCL and many others. His area of expertise includes Vulnerability Assessment, Information Security Audits, Penetration Testing, Source Code Reviews, Computer Forensics, Ethical Hacking, Cyber Law etc. You can find more information about Rizwan on his own&nbsp;<a href="http://www.rizwanonline.com/index.html" target="_blank">website</a> and on his company's&nbsp;<a href="http://www.pristineinfo.in/index.html" target="_blank">official website</a>.”</h3>
+                                            <p>
+                                                - Rizwan Shaikh
+
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="review rollitin">
                                 <div class="row">
                                     <div class="col-md-2">
                                         <div class="review-person">
