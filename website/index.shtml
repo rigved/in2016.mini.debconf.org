@@ -217,8 +217,8 @@
 		<tr>
 			<td style="text-align: center;">09:00</td>
 			<td style="text-align: center;">Registration</td>
-			<td style="text-align: center;">&nbsp;</td>
-			<td style="text-align: center;">&nbsp;</td>
+			<td style="text-align: center;">Registration</td>
+			<td style="text-align: center;">Registration</td>
 		</tr>
 		<tr>
 			<td style="text-align: center;">09:30</td>
@@ -248,7 +248,7 @@
 			<td style="text-align: center;">12:00 &ndash; 13:00</td>
 			<td style="text-align: center;">Open Source Security &mdash; Rizwan Shaikh</td>
 			<td style="text-align: center;">Debian and the BeagleBone Black &mdash; Anuj Deshpande</td>
-			<td style="text-align: center;">Debian 'In' India &mdash; Kartik Mistry</td>
+			<td style="text-align: center;">&nbsp;</td>
 		</tr>
 		<tr>
 			<td style="text-align: center;">13:00 &ndash; 14:00</td>
@@ -259,8 +259,8 @@
 		<tr>
 			<td style="text-align: center;">14:00 &ndash; 15:00</td>
 			<td style="text-align: center;">Open Source Security &mdash; Rizwan Shaikh</td>
-			<td style="text-align: center;">Lil'Debi&#58; Running Debian on Android &mdash; Kumar Sukhani</td>
-			<td style="text-align: center;">AppStream/DEP-11 for the Debian Archive &mdash; Abhishek Bhattacharjee</td>
+			<td style="text-align: center;">&nbsp;</td>
+			<td style="text-align: center;">Debian 'In' India &mdash; Kartik Mistry</td>
 		</tr>
 		<tr>
 			<td style="text-align: center;">15:00 &ndash; 16:00</td>
@@ -270,7 +270,7 @@
 		</tr>
 		<tr>
 			<td style="text-align: center;">16:00 &ndash; 16:30</td>
-			<td style="text-align: center;">&nbsp;</td>
+			<td style="text-align: center;">AppStream/DEP-11 for the Debian Archive &mdash; Abhishek Bhattacharjee</td>
 			<td style="text-align: center;">Debian on ARM &mdash; Siji Sunny</td>
 			<td style="text-align: center;">&nbsp;</td>
 		</tr>
@@ -282,7 +282,7 @@
 		</tr>
 		<tr>
 			<td style="text-align: center;">16:45 &ndash; 17:30</td>
-			<td style="text-align: center;">&nbsp;</td>
+			<td style="text-align: center;">Lil'Debi&#58; Running Debian on Android &mdash; Kumar Sukhani</td>
 			<td style="text-align: center;">Introduction to Raspbian: A Raspberry Pi flavor of Debian &mdash; Rahul Mahale</td>
 			<td style="text-align: center;">&nbsp;</td>
 		</tr>
@@ -316,19 +316,19 @@
 		</tr>
 		<tr>
 			<td style="text-align:center">10:15 &ndash; 11:00</td>
-			<td style="text-align:center">Open Source Security &mdash; Rizwan Shaikh (₹700)</td>
+			<td style="text-align:center">Open Source Security &mdash; Rizwan Shaikh (Paid workshop &mdash; ₹700)</td>
 			<td style="text-align:center">Debian Packaging &mdash; Praveen A</td>
 			<td style="text-align:center">Gnome Shell Accessibility with Orca &mdash; Krishnakant Mane</td>
 		</tr>
 		<tr>
 			<td style="text-align:center">11:00 &ndash; 12:00</td>
-			<td style="text-align:center">Open Source Security &mdash; Rizwan Shaikh (₹700)</td>
+			<td style="text-align:center">Open Source Security &mdash; Rizwan Shaikh (Paid workshop &mdash; ₹700)</td>
 			<td style="text-align:center">Debian Packaging &mdash; Praveen A</td>
 			<td style="text-align:center">&nbsp;</td>
 		</tr>
 		<tr>
 			<td style="text-align:center">12:00 &ndash; 13:00</td>
-			<td style="text-align:center">Open Source Security &mdash; Rizwan Shaikh (₹700)</td>
+			<td style="text-align:center">Open Source Security &mdash; Rizwan Shaikh (Paid workshop &mdash; ₹700)</td>
 			<td style="text-align:center">Debian Packaging &mdash; Praveen A</td>
 			<td style="text-align:center">&nbsp;</td>
 		</tr>
@@ -340,13 +340,13 @@
 		</tr>
 		<tr>
 			<td style="text-align:center">14:00 &ndash; 15:00</td>
-			<td style="text-align:center">Open Source Security &mdash; Rizwan Shaikh (₹700)</td>
+			<td style="text-align:center">Open Source Security &mdash; Rizwan Shaikh (Paid workshop &mdash; ₹700)</td>
 			<td style="text-align:center">Debian Packaging &mdash; Praveen A</td>
 			<td style="text-align:center">&nbsp;</td>
 		</tr>
 		<tr>
 			<td style="text-align:center">15:00 &ndash; 16:00</td>
-			<td style="text-align:center">Open Source Security &mdash; Rizwan Shaikh (₹700)</td>
+			<td style="text-align:center">Open Source Security &mdash; Rizwan Shaikh (Paid workshop &mdash; ₹700)</td>
 			<td style="text-align:center">Debian Packaging &mdash; Praveen A</td>
 			<td style="text-align:center">&nbsp;</td>
 		</tr>
