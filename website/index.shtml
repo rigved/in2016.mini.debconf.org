@@ -210,9 +210,9 @@
 	<thead>
 		<tr style="background-color:#D3D3D3; text-align: center;">
 			<th scope="col" style="text-align: center;"><span>Time</span></th>
-			<th scope="col" style="text-align: center;"><span>Conference Hall</span></th>
-			<th scope="col" style="text-align: center;"><span>Room A</span></th>
-			<th scope="col" style="text-align: center;"><span>Room B</span></th>
+			<th scope="col" style="text-align: center;"><span>LC001</span></th>
+			<th scope="col" style="text-align: center;"><span>LT001</span></th>
+			<th scope="col" style="text-align: center;"><span>LT002</span></th>
 		</tr>
 	</thead>
 	<tbody>
@@ -298,9 +298,9 @@
 	<thead>
 		<tr>
 			<th scope="col" style="text-align:center">Time</th>
-			<th scope="col" style="text-align:center">Conference Hall</th>
-			<th scope="col" style="text-align:center">Room A</th>
-			<th scope="col" style="text-align:center">Room B</th>
+			<th scope="col" style="text-align:center">LC001</th>
+			<th scope="col" style="text-align:center">LT001</th>
+			<th scope="col" style="text-align:center">LT002</th>
 		</tr>
 	</thead>
 	<tbody>
@@ -859,7 +859,7 @@
                         <div class="row">
 
                             <div class="col-md-8 col-sm-8 scrollpoint sp-effect1 section-heading">
-                                <p>Lecture Hall Complex <br>Indian Institute of Technology Bombay <br>Powai, Mumbai - 400076 <br>Maharashtra, India</p>
+                                <p>Lecture Hall Complex<br>Indian Institute of Technology Bombay<br>Powai, Mumbai - 400076<br>Maharashtra, India</p>
 <!--                                <form role="form">
                                     <div class="form-group">
                                         <input type="text" class="form-control" placeholder="Your name">
