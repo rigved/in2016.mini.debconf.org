@@ -726,8 +726,8 @@
                 </div>
                 <div class="slider filtering scrollpoint sp-effect5" >
                     <div class="one">
-                        <img src="img/berry/screens/debian-sponsor-logo.jpg" alt="Debian">
-                        <h4>Debian</h4>
+                        <img src="img/berry/screens/debian-sponsor-logo.jpg" alt="Debian Community">
+                        <h4>Debian Community</h4>
                     </div>
                     <div class="one">
                         <img src="img/berry/screens/fossee-sponsor-logo.jpg" alt="Venue Sponsor: FOSSEE">
