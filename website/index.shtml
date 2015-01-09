@@ -156,6 +156,8 @@
                     <p>“Debian is the Universal Operating System of the users, by the users, for the users.”</p>
                     <p align="center">&mdash; Anonymous</p>
                     <p></p>
+                    <p>DebConf is the annual Debian conference which is held in a different country every year.&nbsp;<a href="http://debconf15.debconf.org/" target="_blank">DebConf15</a> will be held in Heidelberg, Germany in August 2015.</p>
+                    <p></p>
                     <p>MiniDebConfs are local meetings organized by Debian project members to achieve similar objectives to those of the DebConf, but on a regional context. Debian, as a volunteer project, produces the GNU/Linux Debian distribution, which is famed for its stability and boasts of some of the widest array of software in its archive, serving almost all the computer system hardware architectures known to mankind.</p>
                     <p></p>
                     <p><strong>Why Attend ?</strong></p>
@@ -248,7 +250,7 @@
 			<td style="text-align: center;">12:00 &ndash; 13:00</td>
 			<td style="text-align: center;">Open Source Security &mdash; Rizwan Shaikh</td>
 			<td style="text-align: center;">Debian and the BeagleBone Black &mdash; Anuj Deshpande</td>
-			<td style="text-align: center;">&nbsp;</td>
+			<td style="text-align: center;">Debian 'In' India &mdash; Kartik Mistry</td>
 		</tr>
 		<tr>
 			<td style="text-align: center;">13:00 &ndash; 14:00</td>
@@ -259,6 +261,8 @@
 		<tr>
 			<td style="text-align: center;">14:00 &ndash; 15:00</td>
 			<td style="text-align: center;">Debian 'In' India &mdash; Kartik Mistry</td>
+			<td style="text-align: center;">Lil'Debi&#58; Running Debian on Android &mdash; Kumar Sukhani</td>
+			<td style="text-align: center;">&nbsp;</td>
 		</tr>
 		<tr>
 			<td style="text-align: center;">15:00 &ndash; 16:00</td>
@@ -281,7 +285,7 @@
 		</tr>
 		<tr>
 			<td style="text-align: center;">16:45 &ndash; 17:30</td>
-			<td style="text-align: center;">Lil'Debi&#58; Running Debian on Android &mdash; Kumar Sukhani</td>
+			<td style="text-align: center;">&nbsp;</td>
 			<td style="text-align: center;">Introduction to Raspbian: A Raspberry Pi flavor of Debian &mdash; Rahul Mahale</td>
 			<td style="text-align: center;">&nbsp;</td>
 		</tr>
@@ -663,7 +667,7 @@
                                     </div>
                                     <div class="col-md-10">
                                         <div class="review-comment">
-                                            <h3>“I am currently working at Cloudwalk and my GSOC project under the Debian community was Lil'Debi. I also talked about Lil'Debi at Droidcon, Portland.”</h3>
+                                            <h3>“I am Kumar Sukhani, currently working at Cloudwalk. Lil'Debi was my GSOC project under Debian community and I also gave a talk about it at DebConf14, Portland. Check my&nbsp;<a href="https://github.com/SDkie/" target="_blank">Github</a> for other open source contributions.”</h3>
                                             <p>
                                                 - Kumar Sukhani
 
@@ -781,18 +785,15 @@
                     <div class="divider"></div>
                     <p>Register for the event at&nbsp;<a href="https://www.eventbrite.com/e/mini-debconf-mumbai-2015-tickets-15022071420" target="_blank">EventBrite</a>.</p>
                     <p>Registration fee of ₹300 will be charged at the venue. Lunch is included in the registration fees. Terms and Conditions apply.</p>
-                    <p>Accommodation:</p>
-<<<<<<< HEAD
-                    <p>Hotel Tulip Residency, Saki Vihar Complex, Building No. 8, Kamani Oil Mills Lane, Chandivali, Saki Vihar Road, Powai, Andheri (East), Mumbai 400072.</p>
-                    <p>Hotline / Manager : 07303843431</p>
-=======
+                    <p></p>
+                    <p><strong>Accommodation:</strong></p>
                     <p>Hotel Tulip Residency</p>
                     <p>Saki Vihar Complex, Building No. 8,</p>
                     <p>Kamani Oil Mills Lane,</p>
                     <p>Chandivali, Saki Vihar Road, Powai,</p>
                     <p>Andheri (East), Mumbai - 400072.</p>
                     <p>Hotline/Manager: +91 7303843431</p>
->>>>>>> upstream/master
+                    <p></p>
                     <p>Charges: ₹2000 for single, ₹2500 for double and ₹3000 for triple.</p>
                     <p>While booking, please mention that you are going to attend the "MiniDebConf - IIT Mumbai on 17-18 Jan", in order to avail the discounted prices.</p>
                 </div>
