@@ -210,9 +210,9 @@
 	<thead>
 		<tr style="background-color:#D3D3D3; text-align: center;">
 			<th scope="col" style="text-align: center;"><span>Time</span></th>
-			<th scope="col" style="text-align: center;"><span>Conference Hall</span></th>
-			<th scope="col" style="text-align: center;"><span>Room A</span></th>
-			<th scope="col" style="text-align: center;"><span>Room B</span></th>
+			<th scope="col" style="text-align: center;"><span>LC001</span></th>
+			<th scope="col" style="text-align: center;"><span>LT001</span></th>
+			<th scope="col" style="text-align: center;"><span>LT002</span></th>
 		</tr>
 	</thead>
 	<tbody>
@@ -242,13 +242,13 @@
 		</tr>
 		<tr>
 			<td style="text-align: center;">11:15 &ndash; 12:00</td>
-			<td style="text-align: center;">Open Source Security &mdash; Rizwan Shaikh</td>
+			<td style="text-align: center;">Open Source Security with Kali Linux &mdash; Rizwan Shaikh</td>
 			<td style="text-align: center;">&nbsp;</td>
 			<td style="text-align: center;">Debian History and Debian Cycle &mdash; Shirish Agarwal</td>
 		</tr>
 		<tr>
 			<td style="text-align: center;">12:00 &ndash; 13:00</td>
-			<td style="text-align: center;">Open Source Security &mdash; Rizwan Shaikh</td>
+			<td style="text-align: center;">Open Source Security with Kali Linux &mdash; Rizwan Shaikh</td>
 			<td style="text-align: center;">Debian and the BeagleBone Black &mdash; Anuj Deshpande</td>
 			<td style="text-align: center;">Debian 'In' India &mdash; Kartik Mistry</td>
 		</tr>
@@ -260,13 +260,13 @@
 		</tr>
 		<tr>
 			<td style="text-align: center;">14:00 &ndash; 15:00</td>
-			<td style="text-align: center;">Debian 'In' India &mdash; Kartik Mistry</td>
+			<td style="text-align: center;">Open Source Security with Kali Linux &mdash; Rizwan Shaikh</td>
 			<td style="text-align: center;">Lil'Debi&#58; Running Debian on Android &mdash; Kumar Sukhani</td>
 			<td style="text-align: center;">&nbsp;</td>
 		</tr>
 		<tr>
 			<td style="text-align: center;">15:00 &ndash; 16:00</td>
-			<td style="text-align: center;">Open Source Security &mdash; Rizwan Shaikh</td>
+			<td style="text-align: center;">Open Source Security with Kali Linux &mdash; Rizwan Shaikh</td>
 			<td style="text-align: center;">Debian on ARM &mdash; Siji Sunny</td>
 			<td style="text-align: center;">&nbsp;</td>
 		</tr>
@@ -299,9 +299,9 @@
 	<thead>
 		<tr>
 			<th scope="col" style="text-align:center">Time</th>
-			<th scope="col" style="text-align:center">Conference Hall</th>
-			<th scope="col" style="text-align:center">Room A</th>
-			<th scope="col" style="text-align:center">Room B</th>
+			<th scope="col" style="text-align:center">LC001</th>
+			<th scope="col" style="text-align:center">LT001</th>
+			<th scope="col" style="text-align:center">LT002</th>
 		</tr>
 	</thead>
 	<tbody>
@@ -319,19 +319,19 @@
 		</tr>
 		<tr>
 			<td style="text-align:center">10:15 &ndash; 11:00</td>
-			<td style="text-align:center">Open Source Security &mdash; Rizwan Shaikh (Paid workshop &mdash; ₹700)</td>
+			<td style="text-align:center">Open Source Security with Kali Linux &mdash; Rizwan Shaikh (Paid workshop &mdash; ₹700)</td>
 			<td style="text-align:center">Debian Packaging &mdash; Praveen A</td>
 			<td style="text-align:center">Gnome Shell Accessibility with Orca &mdash; Krishnakant Mane</td>
 		</tr>
 		<tr>
 			<td style="text-align:center">11:00 &ndash; 12:00</td>
-			<td style="text-align:center">Open Source Security &mdash; Rizwan Shaikh (Paid workshop &mdash; ₹700)</td>
+			<td style="text-align:center">Open Source Security with Kali Linux &mdash; Rizwan Shaikh (Paid workshop &mdash; ₹700)</td>
 			<td style="text-align:center">Debian Packaging &mdash; Praveen A</td>
 			<td style="text-align:center">&nbsp;</td>
 		</tr>
 		<tr>
 			<td style="text-align:center">12:00 &ndash; 13:00</td>
-			<td style="text-align:center">Open Source Security &mdash; Rizwan Shaikh (Paid workshop &mdash; ₹700)</td>
+			<td style="text-align:center">Open Source Security with Kali Linux &mdash; Rizwan Shaikh (Paid workshop &mdash; ₹700)</td>
 			<td style="text-align:center">Debian Packaging &mdash; Praveen A</td>
 			<td style="text-align:center">&nbsp;</td>
 		</tr>
@@ -343,13 +343,13 @@
 		</tr>
 		<tr>
 			<td style="text-align:center">14:00 &ndash; 15:00</td>
-			<td style="text-align:center">Open Source Security &mdash; Rizwan Shaikh (Paid workshop &mdash; ₹700)</td>
+			<td style="text-align:center">Open Source Security with Kali Linux &mdash; Rizwan Shaikh (Paid workshop &mdash; ₹700)</td>
 			<td style="text-align:center">Debian Packaging &mdash; Praveen A</td>
 			<td style="text-align:center">&nbsp;</td>
 		</tr>
 		<tr>
 			<td style="text-align:center">15:00 &ndash; 16:00</td>
-			<td style="text-align:center">Open Source Security &mdash; Rizwan Shaikh (Paid workshop &mdash; ₹700)</td>
+			<td style="text-align:center">Open Source Security with Kali Linux &mdash; Rizwan Shaikh (Paid workshop &mdash; ₹700)</td>
 			<td style="text-align:center">Debian Packaging &mdash; Praveen A</td>
 			<td style="text-align:center">&nbsp;</td>
 		</tr>
@@ -745,8 +745,12 @@
                 </div>
                 <div class="slider filtering scrollpoint sp-effect5" >
                     <div class="one">
-                        <img src="img/berry/screens/debian-sponsor-logo.jpg" alt="Debian">
-                        <h4>Debian</h4>
+                        <img src="img/berry/screens/debian-sponsor-logo.jpg" alt="Debian Community">
+                        <h4>Debian Community</h4>
+                    </div>
+                    <div class="one">
+                        <img src="img/berry/screens/fossee-sponsor-logo.jpg" alt="Venue Sponsor: FOSSEE">
+                        <h4>FOSSEE<br>Venue Sponsor</h4>
                     </div>
 <!--
                     <div class="one">
@@ -878,7 +882,7 @@
                         <div class="row">
 
                             <div class="col-md-8 col-sm-8 scrollpoint sp-effect1 section-heading">
-                                <p>Lecture Hall Complex <br>Indian Institute of Technology Bombay <br>Powai, Mumbai - 400076 <br>Maharashtra, India</p>
+                                <p>Lecture Hall Complex<br>Indian Institute of Technology Bombay<br>Powai, Mumbai - 400076<br>Maharashtra, India</p>
 <!--                                <form role="form">
                                     <div class="form-group">
                                         <input type="text" class="form-control" placeholder="Your name">
