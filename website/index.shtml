@@ -230,7 +230,7 @@
 		</tr>
 		<tr>
 			<td style="text-align: center;">10:00 &ndash; 11:00</td>
-			<td style="text-align: center;">Keynote Session</td>
+			<td style="text-align: center;">Keynote Session &mdash; Venkatesh Hariharan</td>
 			<td style="text-align: center;">&nbsp;</td>
 			<td style="text-align: center;">&nbsp;</td>
 		</tr>
@@ -496,6 +496,24 @@
                     <div class="col-md-10 col-md-push-1 scrollpoint sp-effect3">
                         <div class="review-filtering">
                             <div class="review">
+                                <div class="row">
+                                    <div class="col-md-2">
+                                        <div class="review-person">
+                                            <img src="img/venkatesh-hariharan.jpg" alt="Venkatesh Hariharan" class="img-responsive">
+                                        </div>
+                                    </div>
+                                    <div class="col-md-10">
+                                        <div class="review-comment">
+                                            <h3>“Venkatesh Hariharan is Director of Alchemy Business Solutions LLP, an organization that focuses on leveraging technology for development. Hariharan has served as Head of Public Policy and Government Affairs with Google, and as Corporate Affairs Director for Red Hat in the Asia-Pacific region. He has worked on key policy issues like open standards, software patents, open source in government, and Indian language computing.”</h3>
+                                            <p>
+                                                - Venkatesh Hariharan
+
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="review rollitin">
                                 <div class="row">
                                     <div class="col-md-2">
                                         <div class="review-person">
