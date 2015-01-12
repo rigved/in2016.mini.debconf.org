@@ -817,7 +817,7 @@
                 <div class="section-heading inverse scrollpoint sp-effect3">
                     <h1>Location</h1>
                     <div class="divider"></div>
-                    <p>The event will be held at the Lecture Hall Complex, Indian Institute of Technology, Mumbai.</p>
+                    <p>The event will be held at the Lecture Hall Complex, Indian Institute of Technology Bombay.</p>
 
                     <p><img style="width: 153px; height: 150px; background: #fff;" src="http://upload.wikimedia.org/wikipedia/en/thumb/5/58/IIT_Bombay_Logo.svg/200px-IIT_Bombay_Logo.svg.png" align="left"><strong>Indian Institute of Technology Bombay</strong> <br>The Indian Institute of Technology Bombay, popularly known as IIT Bombay or IITB, is a public research university located in Powai, Mumbai. IITB has 14 departments, 10 multi-disciplinary centres, 3 schools of excellence and 3 inter-disciplinary groups, with a strong emphasis on scientific and technological research.</p>
                     
@@ -881,7 +881,7 @@
                         <div class="row">
 
                             <div class="col-md-8 col-sm-8 scrollpoint sp-effect1 section-heading">
-                                <p>Indian Institute of Technology Bombay<br>Powai, Mumbai - 400076<br>Maharashtra, India</p>
+                                <p>Lecture Hall Complex<br>Indian Institute of Technology Bombay<br>Powai, Mumbai - 400076<br>Maharashtra, India</p>
 <!--                                <form role="form">
                                     <div class="form-group">
                                         <input type="text" class="form-control" placeholder="Your name">
