@@ -755,10 +755,12 @@
                 </div>
 
                 <div class="filter scrollpoint sp-effect3">
-                    <a href="javascript:void(0)" class="button js-filter-all active">All Sponsors</a>
+                    <a href="javascript:void(0)" class="button js-filter-all active">Sponsors</a>
+<!--
                     <a href="javascript:void(0)" class="button js-filter-one">Platinum</a>
                     <a href="javascript:void(0)" class="button js-filter-two">Gold</a>
                     <a href="javascript:void(0)" class="button js-filter-three">Silver</a>
+-->
                 </div>
                 <div class="slider filtering scrollpoint sp-effect5" >
                     <div class="one">
@@ -766,8 +768,12 @@
                         <h4>Debian Community</h4>
                     </div>
                     <div class="one">
-                        <img src="img/berry/screens/fossee-sponsor-logo.jpg" alt="Venue Sponsor: FOSSEE">
-                        <h4>FOSSEE<br>Venue Sponsor</h4>
+                        <img src="img/berry/screens/fossee-sponsor-logo.jpg" alt="FOSSEE">
+                        <h4>FOSSEE</h4>
+                    </div>
+                    <div class="one">
+                        <img src="img/berry/screens/idioticideas-logo.jpg" alt="Idiotic Ideas">
+                        <h4>Idiotic Ideas<br><a href="http://www.idioticideas.com/" target="_blank">Website</a></h4>
                     </div>
 <!--
                     <div class="one">
