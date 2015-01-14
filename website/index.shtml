@@ -244,13 +244,13 @@
 			<td style="text-align: center;">11:15 &ndash; 12:00</td>
 			<td style="text-align: center;">Open Source Security with Kali Linux &mdash; Rizwan Shaikh</td>
 			<td style="text-align: center;">&nbsp;</td>
-			<td style="text-align: center;">Debian History and Debian Cycle &mdash; Shirish Agarwal</td>
+			<td style="text-align: center;">Debian History and Debian Cycle &mdash; Shirish Agarwal<br>Key-signing Party</td>
 		</tr>
 		<tr>
 			<td style="text-align: center;">12:00 &ndash; 13:00</td>
 			<td style="text-align: center;">Open Source Security with Kali Linux &mdash; Rizwan Shaikh</td>
 			<td style="text-align: center;">Debian and the BeagleBone Black &mdash; Anuj Deshpande</td>
-            <td style="text-align: center;">Debian 'In' India &mdash; Kartik Mistry<br>Key-signing Party</td>
+            <td style="text-align: center;">Debian 'In' India &mdash; Kartik Mistry<br>Future Directions for Debian&mdash;IN &mdash; Jaldhar Vyas</td>
 		</tr>
 		<tr>
 			<td style="text-align: center;">13:00 &ndash; 14:00</td>
@@ -332,7 +332,7 @@
 			<td style="text-align:center">12:00 &ndash; 13:00</td>
 			<td style="text-align:center">Open Source Security with Kali Linux &mdash; Rizwan Shaikh (Paid workshop)</td>
 			<td style="text-align:center">Debian Packaging &mdash; Praveen A</td>
-			<td style="text-align:center">&nbsp;</td>
+			<td style="text-align:center">Building A Mail Server with Debian &mdash; Jaldhar Vyas</td>
 		</tr>
 		<tr>
 			<td style="text-align:center">13:00 &ndash; 14:00</td>
