@@ -485,11 +485,8 @@
                 <div class="section-heading inverse scrollpoint sp-effect3">
                     <h1>Speakers</h1>
                     <div class="divider"></div>
-                    <p>The call for papers has started on 26th November and will be open till 8th January.</p>
-                    <p>The final list of speakers will be announced by 10th January.</p>
-                    <p>If you are interested in presenting papers / talks or conducting workshops / hands-on sessions, please submit an abstract of 100 to 200 words describing the topic, including its relevance to Debian, to this email address:</p>
-                    <p>debian [at] shieldofachilles [dot] in</p>
-                    <p>Please provide links to the code, if it is&nbsp;<a href="https://en.wikipedia.org/wiki/Free_software" target="_blank">Free Software</a>.</p>
+                    <p>The call for papers has ended on 8th January.</p>
+                    <p>The final list of speakers is now available.</p>
                 </div>
 
                 <div class="row">
