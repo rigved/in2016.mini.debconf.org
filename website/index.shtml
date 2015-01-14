@@ -20,7 +20,7 @@
     <link rel="stylesheet" href="css/slick.css">
     <link rel="stylesheet" href="js/rs-plugin/css/settings.css">
 
-    <link rel="stylesheet" href="css/berry.css">
+    <link rel="stylesheet" href="css/style.css">
 
 
     <script type="text/javascript" src="js/modernizr.custom.32033.js"></script>
@@ -206,7 +206,7 @@
                     <div class="divider"></div>
                     <p>DAY 1 &mdash; 17/01/2015 </p>
                     <div id="first-day" style="color: #000;">
-                    <table align="center" border="1" cellpadding="1" cellspacing="1" style="width:100%">
+                    <table align="center" border="1" cellpadding="1" cellspacing="1" style="width:100%; font-family: Lato;">
 	<thead>
 		<tr style="background-color:#D3D3D3; text-align: center;">
 			<th scope="col" style="text-align: center;"><span>Time</span></th>
@@ -268,13 +268,13 @@
 			<td style="text-align: center;">15:00 &ndash; 16:00</td>
 			<td style="text-align: center;">Open Source Security with Kali Linux &mdash; Rizwan Shaikh</td>
 			<td style="text-align: center;">Debian on ARM &mdash; Siji Sunny</td>
-			<td style="text-align: center;">Cyber Crime in India &mdash; Sachin Dedhiya</td>
+			<td style="text-align: center;">Cyber Crime in India & Digital Forensics &mdash; Sachin Dedhiya</td>
 		</tr>
 		<tr>
 			<td style="text-align: center;">16:00 &ndash; 16:30</td>
 			<td style="text-align: center;">&nbsp;</td>
 			<td style="text-align: center;">&nbsp;</td>
-			<td style="text-align: center;">Cyber Crime in India &mdash; Sachin Dedhiya</td>
+			<td style="text-align: center;">Cyber Crime in India & Digital Forensics &mdash; Sachin Dedhiya</td>
 		</tr>
 		<tr>
 			<td style="text-align: center;">16:30 &ndash; 16:45</td>
@@ -284,9 +284,9 @@
 		</tr>
 		<tr>
 			<td style="text-align: center;">16:45 &ndash; 17:30</td>
-			<td style="text-align: center;">AppStream/DEP-11 for the Debian Archive &mdash; Abhishek Bhattacharjee</td>
+			<td style="text-align: center;">AppStream / DEP-11 for the Debian Archive &mdash; Abhishek Bhattacharjee</td>
 			<td style="text-align: center;">Introduction to Raspbian: A Raspberry Pi flavor of Debian &mdash; Rahul Mahale</td>
-			<td style="text-align: center;">Cyber Crime in India &mdash; Sachin Dedhiya</td>
+			<td style="text-align: center;">Cyber Crime in India & Digital Forensics &mdash; Sachin Dedhiya</td>
 		</tr>
 	</tbody>
 </table>
@@ -296,7 +296,7 @@
                     <div id="first-day" style="color: #000;">
                     <table align="center" border="1" cellpadding="1" cellspacing="1" style="width:100%">
 	<thead>
-		<tr>
+		<tr style="background-color:#D3D3D3; text-align: center;">
 			<th scope="col" style="text-align:center">Time</th>
 			<th scope="col" style="text-align:center">LC001</th>
 			<th scope="col" style="text-align:center">LT001</th>
@@ -350,13 +350,13 @@
 			<td style="text-align:center">15:00 &ndash; 16:00</td>
 			<td style="text-align:center">Open Source Security with Kali Linux &mdash; Rizwan Shaikh (Paid workshop)</td>
 			<td style="text-align:center">Debian Packaging &mdash; Praveen A</td>
-			<td style="text-align:center">Cyber Crime in India &mdash; Sachin Dedhiya (Paid workshop &mdash; ₹400)</td>
+			<td style="text-align:center">Cyber Crime in India & Digital Forensics &mdash; Sachin Dedhiya (Paid workshop &mdash; ₹400)</td>
 		</tr>
 		<tr>
 			<td style="text-align:center">16:00 &ndash; 16:30</td>
 			<td style="text-align:center">&nbsp;</td>
 			<td style="text-align:center">Debian Packaging &mdash; Praveen A</td>
-			<td style="text-align:center">Cyber Crime in India &mdash; Sachin Dedhiya (Paid workshop)</td>
+			<td style="text-align:center">Cyber Crime in India & Digital Forensics &mdash; Sachin Dedhiya (Paid workshop)</td>
 		</tr>
 		<tr>
 			<td style="text-align:center">16:30 &ndash; 16:45</td>
@@ -368,7 +368,7 @@
 			<td style="text-align:center">16:45 &ndash; 17:30</td>
 			<td style="text-align:center">&nbsp;</td>
 			<td style="text-align:center">Debian Packaging &mdash; Praveen A</td>
-			<td style="text-align:center">Cyber Crime in India &mdash; Sachin Dedhiya (Paid workshop)</td>
+			<td style="text-align:center">Cyber Crime in India & Digital Forensics &mdash; Sachin Dedhiya (Paid workshop)</td>
 		</tr>
 	</tbody>
 </table>
@@ -625,6 +625,24 @@
                                 <div class="row">
                                     <div class="col-md-2">
                                         <div class="review-person">
+                                            <img src="img/sachin-dedhia.jpg" alt="Sachin Dedhia" class="img-responsive">
+                                        </div>
+                                    </div>
+                                    <div class="col-md-10">
+                                        <div class="review-comment">
+                                            <h3>“Sachin Dedhia is an independent Cyber Crime Investigator & also a Certified Ethical Hacker (EC-Council, USA). Since many years he is working as a Cyber Crime Investigator and also as a security expert for IT companies, Govt depts., Corporate & even individuals. He has also provided trainings to Navi Mumbai cyber cell department & also assists the Cyber Cell Departments of Mumbai Police with respect to their queries. You can find more information about Sachin on his&nbsp;<a href="http://www.skynetsecure.com/" target="_blank">Website</a>.”</h3>
+                                            <p>
+                                                - Sachin Dedhia
+
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>                            
+                            <div class="review rollitin">
+                                <div class="row">
+                                    <div class="col-md-2">
+                                        <div class="review-person">
                                             <img src="img/rahul-mahale.jpg" alt="Rahul Mahale" class="img-responsive">
                                         </div>
                                     </div>
@@ -788,7 +806,7 @@
                     <div class="divider"></div>
                     <p>Register for the event at&nbsp;<a href="https://www.eventbrite.com/e/mini-debconf-mumbai-2015-tickets-15022071420" target="_blank">EventBrite</a>.</p>
                     <p>Registration is free of charge. Complimentary lunch will be provided. Spot registrations are subject to availability. Terms and Conditions apply.</p>
-                    <p></p>
+                    <p></p> <br />
                     <p><strong>Accommodation:</strong></p>
                     <p>Hotel Tulip Residency</p>
                     <p>Saki Vihar Complex, Building No. 8,</p>
@@ -839,7 +857,7 @@
                 <div class="row">
                     <div class="col-md-12" style="margin-top: -30px;" >
 							<div id="map" style="margin-top: -20px;" >
-                    <a href="http://www.openstreetmap.org/node/1640273574#map=17/19.13335/72.91228" target="_blank" ><img src="img/map.jpg" class="img-responsive scrollpoint sp-effect5" alt="Map" align="middle"></a>
+                    <a href="http://www.openstreetmap.org/node/1640273574#map=17/19.13335/72.91228" target="_blank" ><img src="img/map.jpg" class="img-responsive scrollpoint sp-effect5" alt="Map" align="middle"></a> <br />
                     <p style="color: #fff;" align="center">Get directions with <a href="http://www.openstreetmap.org/node/1640273574#map=17/19.13335/72.91228" target="_blank">OpenStreetMap</a> / <a href="https://www.google.co.in/maps/dir//Indian+Institute+of+Technology+Bombay/@19.1335074,72.8762744,13z/data=!4m8!4m7!1m0!1m5!1m1!1s0x0:0x68fdcea4c5c5894e!2m2!1d72.913268!2d19.13343" target="_blank">Google&nbsp;Maps</a></p>
                     </div>
                     

@@ -15,7 +15,7 @@
   width: 100%;
   height: 100%;
 }
-body {
+body table td {
   font-family: 'Lato', Arial;
   color: #666666;
   -webkit-font-smoothing: antialiased;
