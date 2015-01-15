@@ -243,7 +243,7 @@
 		<tr>
 			<td style="text-align: center;">11:15 &ndash; 12:00</td>
 			<td style="text-align: center;">Open Source Security with Kali Linux &mdash; Rizwan Shaikh</td>
-			<td style="text-align: center;">&nbsp;</td>
+			<td style="text-align: center;">Open Hardware &mdash; Warranty NOT void if opened &mdash; Anool Mahidharia</td>
 			<td style="text-align: center;">Debian History and Debian Cycle &mdash; Shirish Agarwal<br>Key-signing Party</td>
 		</tr>
 		<tr>
@@ -720,6 +720,24 @@
                                             <h3>“An Engineering student at Dhole Patil COE, Pune, Raju Vindane has packaged rack-google-analytics for Debian while doing Debian packaging for Diaspora, a decentralized Social Network. He is involved in various open source projects for localisation, packaging etc.”</h3>
                                             <p>
                                                 - Raju Vindane
+
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="review rollitin">
+                                <div class="row">
+                                    <div class="col-md-2">
+                                        <div class="review-person">
+                                            <img src="img/anool_mahidharia.jpg" alt="Anool Mahidharia" class="img-responsive">
+                                        </div>
+                                    </div>
+                                    <div class="col-md-10">
+                                        <div class="review-comment">
+                                            <h3>“An Electrical Engineer by profession, Anool is working in the field of Test & Measurement at&nbsp;<a href="http://www.lumetron.com/" target="_blank">Lumetronics</a>. He is one of the founder duo of WyoLum Emergents – a global group of Open Hardware enthusiasts. He is also the co-founder of Maker's Asylum, a community maker space.”</h3>
+                                            <p>
+                                                - Anool Mahidharia
 
                                             </p>
                                         </div>
