@@ -516,6 +516,24 @@
                                 <div class="row">
                                     <div class="col-md-2">
                                         <div class="review-person">
+                                            <img src="img/kannan-moudgalya.jpg" alt="Jaldhar Vyas" class="img-responsive">
+                                        </div>
+                                    </div>
+                                    <div class="col-md-10">
+                                        <div class="review-comment">
+                                            <h3>“Kannan Moudgalya is a professor of Chemical Engineering, Systems and Control, and Educational Technology at IIT Bombay. Kannan is now devoting his time on spreading education on a massive scale, without quality dilution. He has been focusing on spoken tutorials, open source software systems, virtual labs and the low cost tablet, Aakash.”</h3>
+                                            <p>
+                                                - Kannan Moudgalya
+
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="review rollitin">
+                                <div class="row">
+                                    <div class="col-md-2">
+                                        <div class="review-person">
                                             <img src="img/jaldhar-vyas.jpg" alt="Jaldhar Vyas" class="img-responsive">
                                         </div>
                                     </div>
