@@ -160,6 +160,8 @@
                     <p></p>
                     <p>MiniDebConfs are local meetings organized by Debian project members to achieve similar objectives to those of the DebConf, but on a regional context.</p>
                     <p></p>
+                    <p><a href="http://www.hfday.org/" target="_blank">Hardware Freedom Day (HFD)</a> is a worldwide celebration of&nbsp;<a href="http://en.wikipedia.org/wiki/Open_Hardware" target="_blank">Open Hardware</a>. Initiated in 2012 by the same organization behind Software Freedom Day, it aims at educating the worldwide public about the benefits of using and promoting Open Hardware.</p>
+                    <p></p>
                     <p><strong>Why Attend ?</strong></p>
                     <p>A mini-DebConf is an awesome opportunity for any user who wants to experience the magic of Free and Open Source Software (FOSS). Here you can meet the veterans in FOSS development, develop professional connections which will help you in future, chat with contributors who can guide you, present in front of a grand audience and most importantly, grasp the essence of FOSS development. It is indeed a ‘never miss’ opportunity that will give you a strong foundation to build on!</p>
                                         
@@ -243,13 +245,13 @@
 		<tr>
 			<td style="text-align: center;">11:15 &ndash; 12:00</td>
 			<td style="text-align: center;">Open Source Security with Kali Linux &mdash; Rizwan Shaikh</td>
-			<td style="text-align: center;">Open Hardware &mdash; Warranty NOT void if opened &mdash; Anool Mahidharia</td>
+			<td style="text-align: center;">Open Hardware &mdash; Warranty NOT void if opened &mdash; Anool Mahidharia (HFD)</td>
 			<td style="text-align: center;">Debian History and Debian Cycle &mdash; Shirish Agarwal<br>Key-signing Party</td>
 		</tr>
 		<tr>
 			<td style="text-align: center;">12:00 &ndash; 13:00</td>
 			<td style="text-align: center;">Open Source Security with Kali Linux &mdash; Rizwan Shaikh</td>
-			<td style="text-align: center;">Debian and the BeagleBone Black &mdash; Raju Vindane</td>
+			<td style="text-align: center;">Debian and the BeagleBone Black &mdash; Raju Vindane (HFD)</td>
             <td style="text-align: center;">Debian 'In' India &mdash; Kartik Mistry<br>Future Directions for Debian&mdash;IN &mdash; Jaldhar Vyas</td>
 		</tr>
 		<tr>
@@ -261,13 +263,13 @@
 		<tr>
 			<td style="text-align: center;">14:00 &ndash; 15:00</td>
 			<td style="text-align: center;">Open Source Security with Kali Linux &mdash; Rizwan Shaikh</td>
-			<td style="text-align: center;">Lil'Debi&#58; Running Debian on Android &mdash; Kumar Sukhani</td>
+			<td style="text-align: center;">Lil'Debi&#58; Running Debian on Android &mdash; Kumar Sukhani (HFD)</td>
 			<td style="text-align: center;">Mobile Hacking & Mobile Forensics &mdash; Sachin Dedhiya</td>
 		</tr>
 		<tr>
 			<td style="text-align: center;">15:00 &ndash; 16:00</td>
 			<td style="text-align: center;">Open Source Security with Kali Linux &mdash; Rizwan Shaikh</td>
-			<td style="text-align: center;">Debian on ARM &mdash; Siji Sunny</td>
+			<td style="text-align: center;">Debian on ARM &mdash; Siji Sunny (HFD)</td>
 			<td style="text-align: center;">Cyber Crime in India & Digital Forensics &mdash; Sachin Dedhiya</td>
 		</tr>
 		<tr>
@@ -285,7 +287,7 @@
 		<tr>
 			<td style="text-align: center;">16:45 &ndash; 17:30</td>
 			<td style="text-align: center;">AppStream / DEP-11 for the Debian Archive &mdash; Abhishek Bhattacharjee</td>
-			<td style="text-align: center;">Introduction to Raspbian: A Raspberry Pi flavor of Debian &mdash; Rahul Mahale</td>
+			<td style="text-align: center;">Introduction to Raspbian: A Raspberry Pi flavor of Debian &mdash; Rahul Mahale (HFD)</td>
 			<td style="text-align: center;">Cyber Crime in India & Digital Forensics &mdash; Sachin Dedhiya</td>
 		</tr>
 	</tbody>
