@@ -368,7 +368,7 @@
 		</tr>
 		<tr>
 			<td style="text-align:center">16:45 &ndash; 17:30</td>
-			<td style="text-align:center">&nbsp;</td>
+			<td style="text-align:center">Introduction to Docker &mdash; Augustine Correa</td>
 			<td style="text-align:center">Debian Packaging &mdash; Praveen A</td>
 			<td style="text-align:center">Cyber Crime in India & Digital Forensics &mdash; Sachin Dedhiya</td>
 		</tr>
@@ -776,6 +776,24 @@
                                             <h3>“An Electrical Engineer by profession, Anool is working in the field of Test & Measurement at&nbsp;<a href="http://www.lumetron.com/" target="_blank">Lumetronics</a>. He is one of the founder duo of WyoLum Emergents – a global group of Open Hardware enthusiasts. He is also the co-founder of Maker's Asylum, a community maker space.”</h3>
                                             <p>
                                                 - Anool Mahidharia
+
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="review rollitin">
+                                <div class="row">
+                                    <div class="col-md-2">
+                                        <div class="review-person">
+                                            <img src="img/augustine-correa.jpg" alt="Augustine Correa" class="img-responsive">
+                                        </div>
+                                    </div>
+                                    <div class="col-md-10">
+                                        <div class="review-comment">
+                                            <h3>“Techie, trekkie, foodie, indie. Solving issues one container at a time.”</h3>
+                                            <p>
+                                                - Augustine Correa
 
                                             </p>
                                         </div>
