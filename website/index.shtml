@@ -328,7 +328,7 @@
 			<td style="text-align:center">11:00 &ndash; 12:00</td>
 			<td style="text-align:center">Open Source Security with Kali Linux &mdash; Rizwan Shaikh</td>
 			<td style="text-align:center">Debian Packaging &mdash; Praveen A</td>
-			<td style="text-align:center">&nbsp;</td>
+			<td style="text-align:center">Rust&#58; The memory safe programming language &mdash; Manish Goregaokar</td>
 		</tr>
 		<tr>
 			<td style="text-align:center">12:00 &ndash; 13:00</td>
@@ -794,6 +794,24 @@
                                             <h3>“Techie, trekkie, foodie, indie. Solving issues one container at a time.”</h3>
                                             <p>
                                                 - Augustine Correa
+
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="review rollitin">
+                                <div class="row">
+                                    <div class="col-md-2">
+                                        <div class="review-person">
+                                            <img src="img/manish-goregaokar.jpg" alt="Manish Goregaokar" class="img-responsive">
+                                        </div>
+                                    </div>
+                                    <div class="col-md-10">
+                                        <div class="review-comment">
+                                            <h3>“A student at IIT Bombay, Manish is enthusiastic about open source. He is currently working with the Servo browser engine and the Rust programming language.”</h3>
+                                            <p>
+                                                - Manish Goregaokar
 
                                             </p>
                                         </div>
