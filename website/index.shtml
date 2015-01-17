@@ -921,7 +921,16 @@
                         <img src="img/berry/screens/opensourceforyou.jpg" alt="Open Source For You">
                         <h4>Open Source For You<br><a href="https://www.opensourceforu.com/" target="_blank">Website</a></h4>
                     </div>
-                </div>					
+                </div>
+                <div class="filter scrollpoint sp-effect3">
+							 <a href="javascript:void(0)" class="button js-filter-all active">Accounting Partner</a>
+					</div>
+                <div class="slider filtering scrollpoint sp-effect5" >
+                                    <div class="one">
+                        <img src="img/berry/screens/dff.jpg" alt="Digital Freedom Foundation">
+                        <h4>Digital Freedom Foundation<br><a href="http://www.dff.org.in/" target="_blank">Website</a></h4>
+                    </div>
+                </div>		                					
             </div>
         </section>
 
