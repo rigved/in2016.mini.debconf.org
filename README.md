@@ -1,12 +1,10 @@
 in2015.mini.debconf.org
 =======================
 
-Mini-DebConf Mumbai 2015 Website
+Mini-DebConf Pune 2015 Website
 ================================
 
-A Mini-DebConf will be hosted at IIT Mumbai on 17th and 18th January, 2015.
-
-See the announcement: http://shieldofachilles.in/2014/Nov/18/mini-debconf-mumbai-2015-announcement/
+A Mini-DebConf will be hosted at College of Engineering Pune on 29th and 30th August, 2015.
 
 This repository tracks the development of the website for this Mini-DebConf.
 

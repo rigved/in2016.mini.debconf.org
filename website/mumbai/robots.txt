@@ -1,0 +1,6 @@
+User-agent: * 
+Disallow: /css/
+Disallow: /fonts/
+Disallow: /js/
+Disallow: /files/
+Sitemap: http://in2015.mini.debconf.org/sitemap.xml
