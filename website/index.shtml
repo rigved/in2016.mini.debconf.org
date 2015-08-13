@@ -103,10 +103,10 @@
 
 
                         <div class="tp-caption large_white_bold sft" data-x="270" data-y="center" data-hoffset="0" data-voffset="0" data-speed="500" data-start="1200" data-easing="Power4.easeOut">
-                            29 & 30 
+                            12 & 13 
                         </div>
                         <div class="tp-caption large_white_light sfr" data-x="490" data-y="center" data-hoffset="0" data-voffset="0" data-speed="500" data-start="1400" data-easing="Power4.easeOut">
-                            &nbsp;&nbsp;August, 2015
+                            &nbsp;&nbsp;September, 2015
                         </div>
                        
                         <div class="tp-caption sfb hidden-xs" data-x="400" data-y="center" data-hoffset="0" data-voffset="85" data-speed="1000" data-start="1700" data-easing="Power4.easeOut">
@@ -492,7 +492,8 @@
                     	<div class="divider"></div>
                     <!--<p>The call for papers is on.</p>-->
                     
-                    		<h2 style="color:white">Call for proposals (CFPs) is on and will end by 10 August, 2015</h2>
+                    		<h2 style="color:white">Call for proposals (CFPs) is on and will end by 25 August, 2015</h2>
+				<h3 style="color:white"> The dates have been extended from 10 Aug to the new date 25 Aug</h3>
 
 						<div id="submitting">
 							<a name="submitting"></a>
@@ -532,7 +533,7 @@
     						<a name="deadline"></a>
 							    <h3 style="color:white">Deadline</h3>
 
-								<p>Please submit your events before 10 August 2015, 23:59:59 IST.</p>
+								<p>Please submit your events before 25 August 2015, 23:59:59 IST.</p>
                 		</div>
 
                 <!--<div class="row">
