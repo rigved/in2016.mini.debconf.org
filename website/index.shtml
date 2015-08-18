@@ -489,64 +489,66 @@
             <div class="container">
                 <div class="section-heading inverse scrollpoint sp-effect3">
                     <h1>Speakers</h1>
+                    	<!-- Adding the speakers list-->
+                    	<!--Speaker 1-->
+                    	<div class="row">
+                    		<div class="col-md-10 col-md-push-1 scrollpoint sp-effect3">
+                        			<div class="review-filtering">
+                            			<div class="review">
+                                				<div class="row">
+                                    				<div class="col-md-2">
+                                        					<div class="review-person">
+                                            						<img src="img/sgk.JPG" alt="Syam G. Krishnan" class="img-responsive">
+                                        					</div>
+                                    				</div>
+                                    			<div class="col-md-10">
+                                        		<div class="review-comment">
+                                            			<h3>“”</h3>
+                                            			<p>
+                                                			- Syam G. Krishnan
 
-                    			 <!--<div class="row">
-                    <div class="col-md-10 col-md-push-1 scrollpoint sp-effect3">
-                        <div class="review-filtering">
-                            <div class="review">
-                                <div class="row">
-                                    <div class="col-md-2">
-                                        <div class="review-person">
-                                            <img src="img/venkatesh-hariharan.jpg" alt="Venkatesh Hariharan" class="img-responsive">
-                                        </div>
-                                    </div>
-                                    <div class="col-md-10">
-                                        <div class="review-comment">
-                                            <h3>“Venkatesh Hariharan is Director of Alchemy Business Solutions LLP, an organization that focuses on leveraging technology for development. Hariharan has served as Head of Public Policy and Government Affairs with Google and as Corporate Affairs Director for Red Hat in the Asia-Pacific region. He has worked on key policy issues like open standards, software patents, open source in government, and Indian language computing.”</h3>
-                                            <p>
-                                                - Venkatesh Hariharan
-
-                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
+                                            			</p>
+                                        		</div>
+                                    	</div>
+                                	</div>
                             </div>
+                            <!--Speaker 2-->
+                            <!--
                             <div class="review rollitin">
-                                <div class="row">
-                                    <div class="col-md-2">
-                                        <div class="review-person">
-                                            <img src="img/kannan-moudgalya.jpg" alt="Kannan Moudgalya" class="img-responsive">
-                                        </div>
-                                    </div>
-                                    <div class="col-md-10">
-                                        <div class="review-comment">
-                                            <h3>“Kannan Moudgalya is a professor of Chemical Engineering, Systems and Control, and Educational Technology at IIT Bombay. Kannan is now devoting his time on spreading education on a massive scale, without quality dilution. He has been focusing on spoken tutorials, open source software systems, virtual labs and the low cost tablet, Aakash.”</h3>
-                                            <p>
-                                                - Kannan Moudgalya
-
-                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
+                            	<div class="row">
+                                    	<div class="col-md-2">
+                                        		<div class="review-person">
+                                            			<img src="img/kannan-moudgalya.jpg" alt="Kannan Moudgalya" class="img-responsive">
+                                        		</div>
+                                    	</div>
+                                    	<div class="col-md-10">
+                                        		<div class="review-comment">
+                                            			<h3>“Kannan Moudgalya is a professor of Chemical Engineering, Systems and Control, and Educational Technology at IIT Bombay. Kannan is now devoting his time on spreading education on a massive scale, without quality dilution. He has been focusing on spoken tutorials, open source software systems, virtual labs and the low cost tablet, Aakash.”</h3>
+                                            			<p>
+                                                			- Kannan Moudgalya
+                                                		</p>
+                                        		</div>
+                                    	</div>
+                                	</div>
                             </div>
-                            <div class="review rollitin">
-                                <div class="row">
-                                    <div class="col-md-2">
-                                        <div class="review-person">
-                                            <img src="img/jaldhar-vyas.jpg" alt="Jaldhar Vyas" class="img-responsive">
-                                        </div>
-                                    </div>
-                                    <div class="col-md-10">
-                                        <div class="review-comment">
-                                            <h3>“A long-time Debian Developer, Jaldhar Vyas is a Perl programmer and the owner of Consolidated Braincells Inc., which provides consulting for Perl, Web and Mobile development or Linux.”</h3>
-                                            <p>
-                                                - Jaldhar Vyas
-
-                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
+                            <!--Seaker 3-->
+<!--                        <div class="review rollitin">
+                            	<div class="row">
+                                    	<div class="col-md-2">
+                                    		<div class="review-person">
+                                    			<img src="img/jaldhar-vyas.jpg" alt="Jaldhar Vyas" class="img-responsive">
+                                    		</div>
+                                    	</div>
+                                    	<div class="col-md-10">
+                                        		<div class="review-comment">
+                                            			<h3>“A long-time Debian Developer, Jaldhar Vyas is a Perl programmer and the owner of Consolidated Braincells Inc., which provides consulting for Perl, Web and Mobile development or Linux.”</h3>
+                                            			<p>
+                                                			- Jaldhar Vyas
+			                                    </p>
+                           		         </div>
+                                    	</div>
+                           	</div>
+                           </div>
                             <div class="review rollitin">
                                 <div class="row">
                                     <div class="col-md-2">
