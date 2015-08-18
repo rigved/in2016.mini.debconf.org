@@ -492,6 +492,7 @@
 	        	<div class="container">
          	       <div class="section-heading inverse scrollpoint sp-effect3">
                   	  <h1>Speakers</h1>
+                  	  	<div class="divider"></div>
                     			<!-- Adding the speakers list-->
                     			<!--Speaker 1-->
                     			<div class="row">
@@ -540,7 +541,7 @@
 								<li><p>Speaker Info</p></li>
 								<li><p>Speaker Links</p></li>
 							</ol>
-							<li style="color:white">Please attach a pic of yours which can be included in the speakers section on the website</li>
+							<li style="color:white"><p>Please attach a pic of yours which can be included in the speakers section on the website</p></li>
 							<li style="color:white"><p>Send your submissions to <a href="mailto:minidebconfpune@openmailbox.org">minidebconfpune@openmailbox.org</a></p></li>
 						</ul>
 			</div>
