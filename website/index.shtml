@@ -846,7 +846,7 @@
                                 </div>
                             </div>
  -->         
-                    	<div class="divider"></div>
+ 			<div class="divider"></div>
                     
                     
                     		<h2 style="color:white">Call for proposals (CFPs) is on and will end by 30 August, 2015</h2>
@@ -910,6 +910,7 @@
                     <div class="divider"></div>
                     <p>If you would like to sponsor the event please contact us on <a href="mailto:minidebconfpune@openmailbox.org">minidebconfpune@openmailbox.org</a> with the subject line Sponsorship.</p>
                 </div>
+                    	
 
 					<!--<div class="filter scrollpoint sp-effect3">
                     <a href="javascript:void(0)" class="button js-filter-all active">Sponsors</a>-->
