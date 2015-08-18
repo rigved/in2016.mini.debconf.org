@@ -489,54 +489,8 @@
             <div class="container">
                 <div class="section-heading inverse scrollpoint sp-effect3">
                     <h1>Speakers</h1>
-                    	<div class="divider"></div>
-                    <!--<p>The call for papers is on.</p>-->
-                    
-                    		<h2 style="color:white">Call for proposals (CFPs) is on and will end by 30 August, 2015</h2>
-				<h3 style="color:white"> The dates have been extended from 10 Aug to the new date 30 Aug</h3>
 
-						<div id="submitting">
-							<a name="submitting"></a>
-								<h3 style="color:white ;text-align:left">Submission guidelines for talks or workshops</h3>
-									<ul style="text-align:left">
-										<li style="color:white"><p>Describe your talk/workshop topic with a brief abstract.</p></li>
-										<li style="color:white"><p>Proposal should have objective with clear expectation for audience.</p></li>
-										<li style="color:white"><p>Please include a short title (to make it easy to produce a compact schedule) and an engaging description of the event.</p></li>
-										<li style="color:white"> <p>Your submissions should include the following things </p>
-											<ol ><li><p>Description</p></li>
-												<li><p>Prerequisites</p></li>
-												<li><p>Speaker Info</p></li>
-												<li><p>Speaker Links</p></li>
-											</ol>
-										<li style="color:white"><p>Send your submissions to <a href="mailto:minidebconfpune@openmailbox.org">minidebconfpune@openmailbox.org</a></p></li>
-									</ul>
-						</div>
-						<p> 
-						</p>
-						<div id="tracks" style="color:white">
-							<a name="tracks"></a>
-								<h3 style="color:white">Tracks</h3>
-									<p>We will organize some talks into thematic tracks. If you have a proposal for a miniDebian Conference track,  please contact <a href="mailto:minidebconfpune@openmailbox.org">minidebconfpune@openmailbox.org</a> with the the name of the track and a good description. The track needs a minimum of 3 talks.</p>
-						</div>
-
-						<div id="format" style="color:white">
-							<a name="format"></a>
-								<h3 style="color:white">Format of the events</h3>
-
-									
-
-									<p>Submissions are not limited to traditional talks: you could propose a performance, art installation, debate, or anything else. If you have any specific requirements for your event, please send an email to <a href="mailto:minidebconfpune@openmailbox.org">minidebconfpune@openmailbox.org</a> with the details of your requirements and be sure to mention your event title in the subject.</p>
-						</div>
-						<p>
-						</p>
-    					<div id="deadline">
-    						<a name="deadline"></a>
-							    <h3 style="color:white">Deadline</h3>
-
-								<p>Please submit your events before 25 August 2015, 23:59:59 IST.</p>
-                		</div>
-
-                <!--<div class="row">
+                    			 <!--<div class="row">
                     <div class="col-md-10 col-md-push-1 scrollpoint sp-effect3">
                         <div class="review-filtering">
                             <div class="review">
@@ -889,7 +843,55 @@
                                     </div>
                                 </div>
                             </div>
- -->                          
+ -->         
+                    	<div class="divider"></div>
+                    
+                    
+                    		<h2 style="color:white">Call for proposals (CFPs) is on and will end by 30 August, 2015</h2>
+				<h3 style="color:white"> The dates have been extended from 10 Aug to the new date 30 Aug</h3>
+
+						<div id="submitting">
+							<a name="submitting"></a>
+								<h3 style="color:white ;text-align:left">Submission guidelines for talks or workshops</h3>
+									<ul style="text-align:left">
+										<li style="color:white"><p>Describe your talk/workshop topic with a brief abstract.</p></li>
+										<li style="color:white"><p>Proposal should have objective with clear expectation for audience.</p></li>
+										<li style="color:white"><p>Please include a short title (to make it easy to produce a compact schedule) and an engaging description of the event.</p></li>
+										<li style="color:white"> <p>Your submissions should include the following things </p>
+											<ol ><li><p>Description</p></li>
+												<li><p>Prerequisites</p></li>
+												<li><p>Speaker Info</p></li>
+												<li><p>Speaker Links</p></li>
+											</ol>
+										<li style="color:white"><p>Send your submissions to <a href="mailto:minidebconfpune@openmailbox.org">minidebconfpune@openmailbox.org</a></p></li>
+									</ul>
+						</div>
+						<p> 
+						</p>
+						<div id="tracks" style="color:white">
+							<a name="tracks"></a>
+								<h3 style="color:white">Tracks</h3>
+									<p>We will organize some talks into thematic tracks. If you have a proposal for a miniDebian Conference track,  please contact <a href="mailto:minidebconfpune@openmailbox.org">minidebconfpune@openmailbox.org</a> with the the name of the track and a good description. The track needs a minimum of 3 talks.</p>
+						</div>
+
+						<div id="format" style="color:white">
+							<a name="format"></a>
+								<h3 style="color:white">Format of the events</h3>
+
+									
+
+									<p>Submissions are not limited to traditional talks: you could propose a performance, art installation, debate, or anything else. If you have any specific requirements for your event, please send an email to <a href="mailto:minidebconfpune@openmailbox.org">minidebconfpune@openmailbox.org</a> with the details of your requirements and be sure to mention your event title in the subject.</p>
+						</div>
+						<p>
+						</p>
+    					<div id="deadline">
+    						<a name="deadline"></a>
+							    <h3 style="color:white">Deadline</h3>
+
+								<p>Please submit your events before 25 August 2015, 23:59:59 IST.</p>
+                		</div>
+
+                                
                             
                         </div>
                     </div>
