@@ -496,7 +496,29 @@
                     			<!-- Adding the speakers list-->
                     			
                     			<!--Speaker 1-->
-                    			<div class="row">
+
+                    			 <div class="review rollitin">
+                            			<div class="row">
+                            				<div class="col-md-2">
+                            					<div class="review-person">
+                            						<img src="img/kartik-mistry.jpg" alt="Kartik Mistry" class="img-responsive">
+                            					</div>
+                            				</div>
+                                    			<div class="col-md-10">
+                                        				<div class="review-comment">
+                                            					<h3>“Kartik Mistry is Debian developer since 2008 and has been contributing to many FOSS projects along with running and cycling. He loves to point everyone to his&nbsp;<a href="https://kartikm.wordpress.com" target="_blank">Gujarati blog</a> whenever asked more about him.”</h3>
+                                            						<p>
+					                                                - Kartik Mistry
+
+                                            						</p>
+                                        				</div>
+                                    			</div>
+                                			</div>
+                            		</div>
+                  			
+                           		 <!--Speaker 2-->
+                            		
+                           		<div class="row">
                     				<div class="col-md-10 col-md-push-1 scrollpoint sp-effect3">
                         					<div class="review-filtering">
                             					<div class="review">
@@ -517,26 +539,7 @@
                                 			</div>
                             		</div>
 
-                            		 <!--Speaker 2-->
-                            		 <div class="review rollitin">
-                            			<div class="row">
-                            				<div class="col-md-2">
-                            					<div class="review-person">
-                            						<img src="img/kartik-mistry.jpg" alt="Kartik Mistry" class="img-responsive">
-                            					</div>
-                            				</div>
-                                    			<div class="col-md-10">
-                                        				<div class="review-comment">
-                                            					<h3>“Kartik Mistry is Debian developer since 2008 and has been contributing to many FOSS projects along with running and cycling. He loves to point everyone to his&nbsp;<a href="https://kartikm.wordpress.com" target="_blank">Gujarati blog</a> whenever asked more about him.”</h3>
-                                            						<p>
-					                                                - Kartik Mistry
-
-                                            						</p>
-                                        				</div>
-                                    			</div>
-                                			</div>
-                            		</div>
-
+                            		<!--Speaker 3-->
 
                   		</div>
           		</div>
