@@ -484,35 +484,47 @@
 -->                
             </div>
         </section>
-        	<div class="container">
-                <div class="section-heading inverse scrollpoint sp-effect3">
-                    <h1>Speakers</h1>
-                    	<!-- Adding the speakers list-->
-                    	<!--Speaker 1-->
-                    	<div class="row">
-                    		<div class="col-md-10 col-md-push-1 scrollpoint sp-effect3">
-                        			<div class="review-filtering">
-                            			<div class="review">
-                                				<div class="row">
-                                    				<div class="col-md-2">
-                                        					<div class="review-person">
-                                            						<img src="img/sgk.JPG" alt="Syam G. Krishnan" class="img-responsive">
-                                        					</div>
-                                    				</div>
-                                    			<div class="col-md-10">
-                                        		<div class="review-comment">
-                                            			<h3></h3>
-                                            			<p>
-                                                			- Syam G. Krishnan
 
-                                            			</p>
-                                        		</div>
-                                    	</div>
-                                	</div>
-                            </div>
-                  </div>
-          </div>
+
+
+
+        <section id= "speakers">
+	        	<div class="container">
+         	       <div class="section-heading inverse scrollpoint sp-effect3">
+                  	  <h1>Speakers</h1>
+                    			<!-- Adding the speakers list-->
+                    			<!--Speaker 1-->
+                    			<div class="row">
+                    				<div class="col-md-10 col-md-push-1 scrollpoint sp-effect3">
+                        					<div class="review-filtering">
+                            					<div class="review">
+                                						<div class="row">
+                                    						<div class="col-md-2">
+                                        							<div class="review-person">
+                                            								<img src="img/sgk.JPG" alt="Syam G. Krishnan" class="img-responsive">
+                                        							</div>
+                                    						</div>
+                                    					<div class="col-md-10">
+                                        				<div class="review-comment">
+		                                            			<h3>""</h3>
+                                            					<p>
+                                                					- Syam G. Krishnan
+                                                           			</p>
+                                        				</div>
+                                    			</div>
+                                			</div>
+                            		</div>
+                  		</div>
+          		</div>
         </section>
+
+
+
+
+
+
+
+
 
         <section id="sponsors">
             <div class="container">
