@@ -504,7 +504,7 @@
                                 						<div class="row">
                                     						<div class="col-md-2">
                                         							<div class="review-person">
-                                            								<img src="img/kartik-mistry.jpg" alt="Kartik Mistry" class="img-responsive">
+                                            								<img src="img/photo22766131738683331.jpg" alt="Kartik Mistry" class="img-responsive">
                                         							</div>
                                     						</div>
                                     					<div class="col-md-10">
@@ -543,6 +543,33 @@
                             		</div>
 
                             		<!--Speaker 3-->
+
+                            		<div class="review rollitin">
+                                			<div class="row">
+                                    			<div class="col-md-2">
+                                        				<div class="review-person">
+                                            					<img src="img/praveen-a.jpg" alt="Praveen A" class="img-responsive">
+                                        				</div>
+                                    			</div>
+                                    			<div class="col-md-10">
+                                    				<div class="review-comment">
+                                    					<h3>“A long time DebaFree Software Consultant with expertise on GNU/Linux, MySQL and HP OpenView Operations Smart Plug-In development.”</h3>
+                                    					 <p>
+                                    					 	 - Praveen A
+				                                            </p>
+                                    				<div>
+                                    			</div>
+                                			</div>
+                            		</div>
+
+                            		<!--Speaker 4-->
+                            		<!--Speaker 5-->
+                            		<!--Speaker 6-->
+                            		<!--Speaker 7-->
+                            		<!--Speaker 8-->
+                            		<!--Speaker 9-->
+                            		<!--Speaker 10-->
+
 
                   		</div>
           		</div>
