@@ -544,6 +544,7 @@
 
                             		<!--Speaker 3-->
 
+<!--
                             		<div class="review rollitin">
                                 			<div class="row">
                                     			<div class="col-md-2">
@@ -560,11 +561,11 @@
                                     				<div>
                                     			</div>
                                 			</div>
-                            		</div>
+                            		</div>-->
 
                             		<!--Speaker 4-->
 
-                            		<div class="review rollitin">
+                            		<!--<div class="review rollitin">
                             			<div class="row">
                                     			<div class="col-md-2">
                                         				<div class="review-person">
@@ -580,7 +581,7 @@
 				                                    </div>
                                     			</div>
                                 			</div>
-                            		</div> 
+                            		</div> -->
                             		
                             		<!--Speaker 5-->
 
