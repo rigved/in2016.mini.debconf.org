@@ -97,8 +97,8 @@
                         <!-- LAYERS -->
                         <!-- LAYER NR. 1 -->
 
-						<div class="tp-caption large_purple sfb" data-x="170" data-y="center" data-hoffset="0" data-voffset="-80" data-speed="1000" data-start="1500" data-easing="Power4.easeOut">
-                            <strong>mini Debian Conference Pune</strong>
+						<div class="tp-caption large_purple sfb" data-x="-240" data-y="center" data-hoffset="0" data-voffset="-80" data-speed="1000" data-start="1500" data-easing="Power4.easeOut">
+                            <strong>mini Debian Conference 2015, College of Engineering Pune</strong>
                         </div>
 
 
