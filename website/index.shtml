@@ -563,7 +563,45 @@
                             		</div>
 
                             		<!--Speaker 4-->
+
+                            	<!--	<div class="review rollitin">
+                            			<div class="row">
+                                    			<div class="col-md-2">
+                                        				<div class="review-person">
+                                            					<img src="img/rahul-mahale.jpg" alt="Rahul Mahale" class="img-responsive">
+                                        				</div>
+                                    			</div>
+                                    			<div class="col-md-10">
+                                        				<div class="review-comment">
+                                            					<h3>“An Open-Source Enthusiast and GNU/Linux user and promoter, currently working as a DevOps Engineer at TinyOwl Mumbai. You can know more about him at his&nbsp;<a href="http://rahulmahale.wordpress.com/" target="_blank">blog</a>,&nbsp;<a href="https://twitter.com/Rahul_Mahale" target="_blank">Twitter</a> and&nbsp;<a href="https://github.com/RahulMahale" target="_blank">GitHub</a> accounts.”</h3>
+                                            					<p>
+                                                					- Rahul Mahale
+				                                            </p>
+				                                    </div>
+                                    			</div>
+                                			</div>
+                            		</div> -->
                             		<!--Speaker 5-->
+
+                            		<div class="review rollitin">
+                                			<div class="row">
+                                    			<div class="col-md-2">
+                                        				<div class="review-person">
+                                            					<img src="img/siji_sunny.jpg" alt="Siji Sunny" class="img-responsive">
+                                        				</div>
+                                    			</div>
+                                    			<div class="col-md-10">
+								<div class="review-comment">
+                                            					<h3>“An Entrepreneur, Researcher and OpenSource enthusiast,been developing software and doing research for in various domains:Operating Systems & System programming, Application/ User Interface development,Embedded & Mobile computing,text processing & language computing, Wireless and LowPower Wireless Networknig.
+									Currently, he is the Director of Research Lab named as MELabs, a Research and Development company working in the domain of Mobile & Embedded Computing.
+									”</h3>
+                                            					<p>
+                                                					- Siji Sunny
+				                                            </p>
+                                    				</div>
+                                    			</div>
+                                			</div>
+                            		</div>
                             		<!--Speaker 6-->
                             		<!--Speaker 7-->
                             		<!--Speaker 8-->
