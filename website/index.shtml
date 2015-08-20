@@ -534,7 +534,7 @@
                             				</div>
                                     			<div class="col-md-10">
                                         				<div class="review-comment">
-                                            					<h3>“Syam is an enthusiastic Free Software supporter, likes to code mainly in C and Python. Currently working on packaging  &nbsp;<a href="http://kontalk.net" target="_blank">Kontalk messenger</a> for Debian. Employed as a research staff at MELabs, a Research and Development company working in the domain of Mobile & Embedded Computing"</h3>
+                                            					<h3 >“Syam is an enthusiastic Free Software supporter, likes to code mainly in C and Python. Currently working on packaging  &nbsp;<a href="http://kontalk.net" target="_blank">Kontalk messenger</a> for Debian. Employed as a research staff at MELabs, a Research and Development company working in the domain of Mobile & Embedded Computing"</h3>
                                             						<p>
 					                                                
 					                                                - Syam G. Krishnan
@@ -580,8 +580,7 @@
                             				</div>
                                     			<div class="col-md-10">
                                         				<div class="review-comment">
-                                            					<h3>“An Entrepreneur, Researcher and OpenSource enthusiast,been developing software and doing research for in various domains:Operating Systems & System programming, Application/ User Interface development,Embedded & Mobile computing,text processing & language computing, Wireless and LowPower Wireless Networknig.
-									Currently, he is the Director of Research Lab named as MELabs, a Research and Development company working in the domain of Mobile & Embedded Computing."</h3>
+                                            					<h3 align="justify">“An Entrepreneur, Researcher and OpenSource enthusiast,been developing software and doing research for in various domains:Operating Systems & System programming, Application/ User Interface development,Embedded & Mobile computing,text processing & language computing, Wireless and LowPower Wireless Networknig.Currently, he is the Director of Research Lab named as MELabs, a Research and Development company working in the domain of Mobile & Embedded Computing."</h3>
                                             						<p>
 					                                                
 					                                                - Siji Sunny
