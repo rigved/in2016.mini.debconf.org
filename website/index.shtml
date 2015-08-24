@@ -618,6 +618,28 @@
 
 <!--                            	
                             		<!--Speaker 6-->
+
+                            		<div class="review rollitin">
+                            			<div class="row">
+                            				<div class="col-md-2">
+                            					<div class="review-person">
+                            						<img src="img/Shantanu.jpg" alt=" Shantanu Oak" class="img-responsive">
+                            					</div>
+                            				</div>
+                                    			<div class="col-md-10">
+                                        				<div class="review-comment">
+                                            					<h3 align="center">“He is working as a Database Consultant for a renowned Telecommunication company. He is a believer in Free and Open source technologies and tries to promote it where-ever possible."</h3>
+                                            						<p>
+					                                                
+					                                                - Shantanu Oak 
+
+                                            						</p>
+                                        				</div>
+                                    			</div>
+                                			</div>
+                            		</div>
+
+
                             		<!--Speaker 7-->
                             		<!--Speaker 8-->
                             		<!--Speaker 9-->
