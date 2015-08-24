@@ -35,7 +35,7 @@
 
     <div class="pre-loader">
         <div class="load-con">
-            <img src="img/berry/minidebconf.jpg" class="animated fadeInDown" alt="">
+            <img src="img/berry/logo.png" class="animated fadeInDown" alt="">
             <div class="spinner">
               <div class="bounce1"></div>
               <div class="bounce2"></div>
@@ -54,7 +54,7 @@
                             <span class="fa fa-bars fa-lg"></span>
                         </button>
                         <a class="navbar-brand" href="#">
-                            <img src="img/berry/logo.png" alt="" class="logo">
+                            <img src="img/berry/minidebconf.jpg" alt="" class="logo">
                         </a>
                     </div>
 
@@ -694,7 +694,7 @@
 			<div id="deadline">
 				<a name="deadline"></a>
 	                           <h3 style="color:white">Deadline</h3>
-				<p>Please submit your events before 25 August 2015, 23:59:59 IST.</p>
+				<p>Please submit your events before 30 August 2015, 23:59:59 IST.</p>
 			</div>
 
           	
