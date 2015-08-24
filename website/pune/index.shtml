@@ -596,6 +596,26 @@
                             		
                             		<!--Speaker 5-->
 
+                            		<div class="review rollitin">
+                            			<div class="row">
+                            				<div class="col-md-2">
+                            					<div class="review-person">
+                            						<img src="img/Sunil.Adapa (2).JPG" alt=" Sunil Mohan Adapa" class="img-responsive">
+                            					</div>
+                            				</div>
+                                    			<div class="col-md-10">
+                                        				<div class="review-comment">
+                                            					<h3 align="center">“Sunil Mohan Adapa is a Free Software developer and an independent software consultant.  He is a contributor to the FreedomBox project and a volunteer at Swecha.  In the past, he has contributed to the IndLinux project and Telugu localization.  He also teaches as guest faculty at IIIT-Hyderabad.  After graduating from IIIT-H in 2003, before becoming an independent consultant, he has worked at various corporates and his own startup."</h3>
+                                            						<p>
+					                                                
+					                                                - Sunil Mohan Adapa
+
+                                            						</p>
+                                        				</div>
+                                    			</div>
+                                			</div>
+                            		</div>
+
 <!--                            	
                             		<!--Speaker 6-->
                             		<!--Speaker 7-->
