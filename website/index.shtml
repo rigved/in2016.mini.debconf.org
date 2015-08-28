@@ -121,9 +121,9 @@
 
                     </li>
                     <!-- SLIDE 2 -->
-                    <li data-transition="zoomout" data-slotamount="7" data-masterspeed="700" >
+                  <!--  <li data-transition="zoomout" data-slotamount="7" data-masterspeed="700" >-->
                         <!-- MAIN IMAGE -->
-                        <img src="img/Kalyan_Darawaja_on_Sinhgad_Fort.jpg"  alt="slidebg1"  data-bgfit="cover" data-bgposition="left top" data-bgrepeat="no-repeat">
+                        <!--<img src="img/Kalyan_Darawaja_on_Sinhgad_Fort.jpg"  alt="slidebg1"  data-bgfit="cover" data-bgposition="left top" data-bgrepeat="no-repeat">-->
                         <!-- LAYERS -->
                         <!-- LAYER NR. 1 -->
 
@@ -131,9 +131,9 @@
                     </li>
 
                     <!-- SLIDE 3 -->
-                    <li data-transition="zoomout" data-slotamount="7" data-masterspeed="900" >
+                    <!--<li data-transition="zoomout" data-slotamount="7" data-masterspeed="900" >-->
                         <!-- MAIN IMAGE -->
-                        <img src="img/Shaniwarwada_frontview.JPG"  alt="slidebg1"  data-bgfit="cover" data-bgposition="left top" data-bgrepeat="no-repeat">
+                        <!--<img src="img/Shaniwarwada_frontview.JPG"  alt="slidebg1"  data-bgfit="cover" data-bgposition="left top" data-bgrepeat="no-repeat">-->
                         <!-- LAYERS -->
                         <!-- LAYER NR. 1 -->
 
