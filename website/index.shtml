@@ -106,7 +106,7 @@
 
 
                         <div class="tp-caption large_white_bold sft" data-x="270" data-y="center" data-hoffset="0" data-voffset="0" data-speed="500" data-start="1200" data-easing="Power4.easeOut">
-                            
+
                         </div>
                         <div class="tp-caption large_white_light sfr" data-x="490" data-y="center" data-hoffset="0" data-voffset="0" data-speed="500" data-start="1400" data-easing="Power4.easeOut">
                             &nbsp;&nbsp;
@@ -618,7 +618,7 @@
 
 <!--
                             		<!--Speaker 6-->
-
+<!--
                             		<div class="review rollitin">
                             			<div class="row">
                             				<div class="col-md-2">
@@ -639,7 +639,7 @@
                                 			</div>
                             		</div>
 
-
+-->
                             		<!--Speaker 7-->
                             		<!--Speaker 8-->
                             		<!--Speaker 9-->
