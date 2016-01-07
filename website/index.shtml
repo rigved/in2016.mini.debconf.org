@@ -8,7 +8,7 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>Mini-DebConf Mumbai 2015</title>
+    <title>Mini-DebConf Mumbai 2016</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
     <link rel="shortcut icon" href="favicon.ico">
@@ -66,7 +66,7 @@
                             </li>
                             <li><a href="#schedule">Schedule</a>
                             </li>
-                            <li><a href="#speakers">Speakers</a>
+                            <li><a href="#dd">Debian Developers</a>
                             </li>
                             <li><a href="#sponsors">Sponsors</a>
                             </li>
@@ -91,7 +91,7 @@
                     <!-- SLIDE  -->
                     <li data-transition="fade" data-slotamount="7" data-masterspeed="1500" >
                         <!-- MAIN IMAGE -->
-                        <img src="img/iit-bombay-1.jpg"  alt="slidebg1"  data-bgfit="cover" data-bgposition="left top" data-bgrepeat="no-repeat">
+                        <img src="img/directiplex-1.jpg"  alt="slidebg1"  data-bgfit="cover" data-bgposition="left top" data-bgrepeat="no-repeat">
                         <!-- LAYERS -->
                         <!-- LAYER NR. 1 -->
 
@@ -101,7 +101,7 @@
                             January
                         </div>
                         <div class="tp-caption large_white_light sfr" data-x="440" data-y="center" data-hoffset="0" data-voffset="-80" data-speed="500" data-start="1400" data-easing="Power4.easeOut">
-                            &nbsp;&nbsp;17-18, 2015
+                            &nbsp;&nbsp;30-31, 2016
                         </div>
                         <div class="tp-caption large_white_light sfb" data-x="220" data-y="center" data-hoffset="0" data-voffset="0" data-speed="1000" data-start="1500" data-easing="Power4.easeOut">
                             Mini-DebConf Mumbai
@@ -118,7 +118,7 @@
                     <!-- SLIDE 2 -->
                     <li data-transition="zoomout" data-slotamount="7" data-masterspeed="700" >
                         <!-- MAIN IMAGE -->
-                        <img src="img/iit-bombay-2.jpg"  alt="slidebg1"  data-bgfit="cover" data-bgposition="left top" data-bgrepeat="no-repeat">
+                        <img src="img/directiplex-2.jpg"  alt="slidebg1"  data-bgfit="cover" data-bgposition="left top" data-bgrepeat="no-repeat">
                         <!-- LAYERS -->
                         <!-- LAYER NR. 1 -->
                         
@@ -128,7 +128,7 @@
                     <!-- SLIDE 3 -->
                     <li data-transition="zoomout" data-slotamount="7" data-masterspeed="900" >
                         <!-- MAIN IMAGE -->
-                        <img src="img/iit-bombay-3.jpg"  alt="slidebg1"  data-bgfit="cover" data-bgposition="left top" data-bgrepeat="no-repeat">
+                        <img src="img/directiplex-3.jpg"  alt="slidebg1"  data-bgfit="cover" data-bgposition="left top" data-bgrepeat="no-repeat">
                         <!-- LAYERS -->
                         <!-- LAYER NR. 1 -->
                         
@@ -158,9 +158,7 @@
                     <p></p>
                     <p>DebConf is the annual Debian conference which is held in a different country every year.&nbsp;<a href="http://debconf15.debconf.org/" target="_blank">DebConf15</a> will be held in Heidelberg, Germany in August 2015.</p>
                     <p></p>
-                    <p>MiniDebConfs are local meetings organized by Debian project members to achieve similar objectives to those of the DebConf, but on a regional context.</p>
-                    <p></p>
-                    <p><a href="http://www.hfday.org/" target="_blank">Hardware Freedom Day (HFD)</a> is a worldwide celebration of&nbsp;<a href="http://en.wikipedia.org/wiki/Open_Hardware" target="_blank">Open Hardware</a>. Initiated in 2012 by the same organization behind Software Freedom Day, it aims at educating the worldwide public about the benefits of using and promoting Open Hardware.</p>
+                    <p>Mini-DebConfs are local meetings organized by Debian project members to achieve similar objectives to those of the DebConf, but on a regional context.</p>
                     <p></p>
                     <p><strong>Why Attend ?</strong></p>
                     <p>A mini-DebConf is an awesome opportunity for any user who wants to experience the magic of Free and Open Source Software (FOSS). Here you can meet the veterans in FOSS development, develop professional connections which will help you in future, chat with contributors who can guide you, present in front of a grand audience and most importantly, grasp the essence of FOSS development. It is indeed a ‘never miss’ opportunity that will give you a strong foundation to build on!</p>
@@ -206,15 +204,15 @@
                 <div class="section-heading scrollpoint sp-effect3">
                     <h1>Schedule</h1>
                     <div class="divider"></div>
-                    <p>DAY 1 &mdash; 17/01/2015 </p>
+                    <p>DAY 1 &mdash; 30/01/2016 </p>
                     <div id="first-day" style="color: #000;">
                     <table align="center" border="1" cellpadding="1" cellspacing="1" style="width:100%; font-family: Lato;">
 	<thead>
 		<tr style="background-color:#D3D3D3; text-align: center;">
 			<th scope="col" style="text-align: center;"><span>Time</span></th>
-			<th scope="col" style="text-align: center;"><span>LC001</span></th>
-			<th scope="col" style="text-align: center;"><span>LT001</span></th>
-			<th scope="col" style="text-align: center;"><span>LT002</span></th>
+			<th scope="col" style="text-align: center;"><span>Sauron</span></th>
+			<th scope="col" style="text-align: center;"><span>Gandalf</span></th>
+			<th scope="col" style="text-align: center;"><span>Isildur</span></th>
 		</tr>
 	</thead>
 	<tbody>
@@ -226,33 +224,15 @@
 		</tr>
 		<tr>
 			<td style="text-align: center;">09:30</td>
-			<td style="text-align: center;">Inauguration of the Mini-DebConf Mumbai 2015 &mdash; Kumar Appaiah</td>
+			<td style="text-align: center;">Inauguration of the Mini-DebConf Mumbai 2016 &mdash; ?</td>
 			<td style="text-align: center;">&nbsp;</td>
 			<td style="text-align: center;">&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="text-align: center;">10:00 &ndash; 11:00</td>
-			<td style="text-align: center;">Keynote Session &mdash; Venkatesh Hariharan</td>
-			<td style="text-align: center;">&nbsp;</td>
-			<td style="text-align: center;">&nbsp;</td>
-		</tr>
-		<tr>
-			<td style="text-align: center;">11:00 &ndash; 11:15</td>
-			<td style="text-align: center;"><strong>Tea Break</strong></td>
-			<td style="text-align: center;"><strong>Tea Break</strong></td>
-			<td style="text-align: center;"><strong>Tea Break</strong></td>
-		</tr>
-		<tr>
-			<td style="text-align: center;">11:15 &ndash; 12:00</td>
-			<td style="text-align: center;">Open Source Security with Kali Linux &mdash; Rizwan Shaikh</td>
-			<td style="text-align: center;">Open Hardware &mdash; Warranty NOT void if opened &mdash; Anool Mahidharia (HFD)</td>
-			<td style="text-align: center;">Debian History and Debian Cycle &mdash; Shirish Agarwal<br>Key-signing Party</td>
-		</tr>
-		<tr>
-			<td style="text-align: center;">12:00 &ndash; 13:00</td>
-			<td style="text-align: center;">Open Source Security with Kali Linux &mdash; Rizwan Shaikh</td>
-			<td style="text-align: center;">Debian and the BeagleBone Black &mdash; Raju Vindane (HFD)</td>
-            <td style="text-align: center;">Debian 'In' India &mdash; Kartik Mistry<br>Future Directions for Debian&mdash;IN &mdash; Jaldhar Vyas</td>
+			<td style="text-align: center;">10:00 &ndash; 14:00</td>
+			<td style="text-align: center;">Hackathon</td>
+			<td style="text-align: center;">BoFs</td>
+			<td style="text-align: center;">BoFs</td>
 		</tr>
 		<tr>
 			<td style="text-align: center;">13:00 &ndash; 14:00</td>
@@ -261,123 +241,81 @@
 			<td style="text-align: center;"><strong>Lunch</strong></td>
 		</tr>
 		<tr>
-			<td style="text-align: center;">14:00 &ndash; 15:00</td>
-			<td style="text-align: center;">Open Source Security with Kali Linux &mdash; Rizwan Shaikh</td>
-			<td style="text-align: center;">Lil'Debi&#58; Running Debian on Android &mdash; Kumar Sukhani (HFD)</td>
-			<td style="text-align: center;">Mobile Hacking & Mobile Forensics &mdash; Sachin Dedhiya</td>
+			<td style="text-align: center;">14:00 &ndash; 17:30</td>
+			<td style="text-align: center;">Hackathon</td>
+			<td style="text-align: center;">BoFs</td>
+			<td style="text-align: center;">BoFs</td>
 		</tr>
 		<tr>
-			<td style="text-align: center;">15:00 &ndash; 16:00</td>
-			<td style="text-align: center;">Open Source Security with Kali Linux &mdash; Rizwan Shaikh</td>
-			<td style="text-align: center;">Debian on ARM &mdash; Siji Sunny (HFD)</td>
-			<td style="text-align: center;">Cyber Crime in India & Digital Forensics &mdash; Sachin Dedhiya</td>
-		</tr>
-		<tr>
-			<td style="text-align: center;">16:00 &ndash; 16:30</td>
-			<td style="text-align: center;">&nbsp;</td>
-			<td style="text-align: center;">&nbsp;</td>
-			<td style="text-align: center;">Cyber Crime in India & Digital Forensics &mdash; Sachin Dedhiya</td>
-		</tr>
-		<tr>
-			<td style="text-align: center;">16:30 &ndash; 16:45</td>
+			<td style="text-align: center;">17:30 &ndash; 17:45</td>
 			<td style="text-align: center;"><strong>Tea Break</strong></td>
 			<td style="text-align: center;"><strong>Tea Break</strong></td>
 			<td style="text-align: center;"><strong>Tea Break</strong></td>
 		</tr>
 		<tr>
-			<td style="text-align: center;">16:45 &ndash; 17:30</td>
-			<td style="text-align: center;">AppStream / DEP-11 for the Debian Archive &mdash; Abhishek Bhattacharjee</td>
-			<td style="text-align: center;">Introduction to Raspbian: A Raspberry Pi flavor of Debian &mdash; Rahul Mahale (HFD)</td>
-			<td style="text-align: center;">Cyber Crime in India & Digital Forensics &mdash; Sachin Dedhiya</td>
+			<td style="text-align: center;">17:45 &ndash; 19:00</td>
+			<td style="text-align: center;">Hackathon</td>
+			<td style="text-align: center;">BoFs</td>
+			<td style="text-align: center;">BoFs</td>
 		</tr>
 	</tbody>
 </table>
 
 <p style="text-align: center;">&nbsp;</p>
-                    <p>DAY 2 &mdash; 18/01/2015 </p>
+                    <p>DAY 2 &mdash; 31/01/2016 </p>
                     <div id="first-day" style="color: #000;">
                     <table align="center" border="1" cellpadding="1" cellspacing="1" style="width:100%">
 	<thead>
 		<tr style="background-color:#D3D3D3; text-align: center;">
-			<th scope="col" style="text-align:center">Time</th>
-			<th scope="col" style="text-align:center">LC001</th>
-			<th scope="col" style="text-align:center">LT001</th>
-			<th scope="col" style="text-align:center">LT002</th>
+			<th scope="col" style="text-align: center;"><span>Time</span></th>
+			<th scope="col" style="text-align: center;"><span>Sauron</span></th>
+			<th scope="col" style="text-align: center;"><span>Gandalf</span></th>
+			<th scope="col" style="text-align: center;"><span>Isildur</span></th>
 		</tr>
 	</thead>
 	<tbody>
 		<tr>
-			<td style="text-align:center">09:00 &ndash; 10:00</td>
-			<td style="text-align:center">Keynote Session &mdash; Kannan Moudgalya</td>
-			<td style="text-align:center">&nbsp;</td>
-			<td style="text-align:center">&nbsp;</td>
+			<td style="text-align: center;">09:00</td>
+			<td style="text-align: center;">Registration starts and is available on both the days</td>
+			<td style="text-align: center;">Registration starts and is available on both the days</td>
+			<td style="text-align: center;">Registration starts and is available on both the days</td>
 		</tr>
 		<tr>
-			<td style="text-align:center">10:00 &ndash; 10:15</td>
-			<td style="text-align:center"><strong>Tea Break</strong></td>
-			<td style="text-align:center"><strong>Tea Break</strong></td>
-			<td style="text-align:center"><strong>Tea Break</strong></td>
+			<td style="text-align: center;">09:30 &ndash; 14:00</td>
+			<td style="text-align: center;">Hackathon</td>
+			<td style="text-align: center;">BoFs</td>
+			<td style="text-align: center;">BoFs</td>
 		</tr>
 		<tr>
-			<td style="text-align:center">10:15 &ndash; 11:00</td>
-			<td style="text-align:center">Open Source Security with Kali Linux &mdash; Rizwan Shaikh</td>
-			<td style="text-align:center">Debian Packaging &mdash; Praveen A</td>
-			<td style="text-align:center">Gnome Shell Accessibility with Orca &mdash; Krishnakant Mane</td>
+			<td style="text-align: center;">13:00 &ndash; 14:00</td>
+			<td style="text-align: center;"><strong>Lunch</strong></td>
+			<td style="text-align: center;"><strong>Lunch</strong></td>
+			<td style="text-align: center;"><strong>Lunch</strong></td>
 		</tr>
 		<tr>
-			<td style="text-align:center">11:00 &ndash; 12:00</td>
-			<td style="text-align:center">Open Source Security with Kali Linux &mdash; Rizwan Shaikh</td>
-			<td style="text-align:center">Debian Packaging &mdash; Praveen A</td>
-			<td style="text-align:center">Rust&#58; The memory safe programming language &mdash; Manish Goregaokar</td>
+			<td style="text-align: center;">14:00 &ndash; 17:30</td>
+			<td style="text-align: center;">Hackathon</td>
+			<td style="text-align: center;">BoFs</td>
+			<td style="text-align: center;">BoFs</td>
 		</tr>
 		<tr>
-			<td style="text-align:center">12:00 &ndash; 13:00</td>
-			<td style="text-align:center">Open Source Security with Kali Linux &mdash; Rizwan Shaikh</td>
-			<td style="text-align:center">Debian Packaging &mdash; Praveen A</td>
-			<td style="text-align:center">Building A Mail Server with Debian &mdash; Jaldhar Vyas</td>
+			<td style="text-align: center;">17:30 &ndash; 17:45</td>
+			<td style="text-align: center;"><strong>Tea Break</strong></td>
+			<td style="text-align: center;"><strong>Tea Break</strong></td>
+			<td style="text-align: center;"><strong>Tea Break</strong></td>
 		</tr>
 		<tr>
-			<td style="text-align:center">13:00 &ndash; 14:00</td>
-			<td style="text-align:center"><strong>Lunch</strong></td>
-			<td style="text-align:center"><strong>Lunch</strong></td>
-			<td style="text-align:center"><strong>Lunch</strong></td>
-		</tr>
-		<tr>
-			<td style="text-align:center">14:00 &ndash; 15:00</td>
-			<td style="text-align:center">Open Source Security with Kali Linux &mdash; Rizwan Shaikh</td>
-			<td style="text-align:center">Debian Packaging &mdash; Praveen A</td>
-			<td style="text-align:center">Lightning Talks</td>
-		</tr>
-		<tr>
-			<td style="text-align:center">15:00 &ndash; 16:00</td>
-			<td style="text-align:center">Open Source Security with Kali Linux &mdash; Rizwan Shaikh</td>
-			<td style="text-align:center">Debian Packaging &mdash; Praveen A</td>
-			<td style="text-align:center">Cyber Crime in India & Digital Forensics &mdash; Sachin Dedhiya</td>
-		</tr>
-		<tr>
-			<td style="text-align:center">16:00 &ndash; 16:30</td>
-			<td style="text-align:center">&nbsp;</td>
-			<td style="text-align:center">Debian Packaging &mdash; Praveen A</td>
-			<td style="text-align:center">Cyber Crime in India & Digital Forensics &mdash; Sachin Dedhiya</td>
-		</tr>
-		<tr>
-			<td style="text-align:center">16:30 &ndash; 16:45</td>
-			<td style="text-align:center"><strong>Tea Break</strong></td>
-			<td style="text-align:center"><strong>Tea Break</strong></td>
-			<td style="text-align:center"><strong>Tea Break</strong></td>
-		</tr>
-		<tr>
-			<td style="text-align:center">16:45 &ndash; 17:30</td>
-			<td style="text-align:center">Introduction to Docker &mdash; Augustine Correa</td>
-			<td style="text-align:center">Debian Packaging &mdash; Praveen A</td>
-			<td style="text-align:center">Cyber Crime in India & Digital Forensics &mdash; Sachin Dedhiya</td>
+			<td style="text-align: center;">17:45 &ndash; 19:00</td>
+			<td style="text-align: center;">Hackathon</td>
+			<td style="text-align: center;">BoFs</td>
+			<td style="text-align: center;">BoFs</td>
 		</tr>
 	</tbody>
 </table>
 
                     
-                    </div>
-                </div>
+</div>
+</div>
 <!--
                 <div class="row">
                     <div class="col-md-4 col-sm-4 scrollpoint sp-effect1">
@@ -482,13 +420,13 @@
             </div>
         </section>
 
-        <section id="speakers">
+        <section id="dd">
             <div class="container">
                 <div class="section-heading inverse scrollpoint sp-effect3">
                     <h1>Speakers</h1>
                     <div class="divider"></div>
                     <p>The call for papers has ended on 8th January.</p>
-                    <p>The final list of speakers is now available.</p>
+                    <p>The final list of dd is now available.</p>
                 </div>
 
                 <div class="row">
