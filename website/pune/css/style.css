@@ -541,6 +541,14 @@ section::after {
   font-weight: 400;
   font-weight: 300;
 }
+
+.tp-caption.large_purple {
+  color: #d70a53;
+  font-size: 65px;
+  font-weight: 400;
+  font-weight: 300;
+
+}
 .btn {
   -webkit-border-radius: 3em;
   -moz-border-radius: 3em;

@@ -1,4 +1,4 @@
-<!doctype html>
+<!doctype html>	
 <!--[if lt IE 7]><html lang="en" class="no-js ie6"><![endif]-->
 <!--[if IE 7]><html lang="en" class="no-js ie7"><![endif]-->
 <!--[if IE 8]><html lang="en" class="no-js ie8"><![endif]-->
@@ -8,13 +8,13 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>Mini Debian Conference 2015</title>
+    <title>Mini-DebConf Mumbai 2015</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
     <link rel="shortcut icon" href="favicon.ico">
 
     <link rel="stylesheet" href="css/bootstrap.css">
-
+    
     <link rel="stylesheet" href="css/animate.css">
     <link rel="stylesheet" href="css/font-awesome.min.css">
     <link rel="stylesheet" href="css/slick.css">
@@ -43,9 +43,9 @@
             </div>
         </div>
     </div>
-
+   
     <header>
-
+        
         <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
                 <div class="container">
                     <!-- Brand and toggle get grouped for better mobile display -->
@@ -74,8 +74,6 @@
                             </li>
                             <li><a href="#location">Location</a>
                             </li>
-                            <li><a href="#Archives">Archives</a>
-                            </li>
                             <li><a href="#contactus">Contact Us</a>
                             </li>
                         </ul>
@@ -85,7 +83,7 @@
                 <!-- /.container-->
         </nav>
 
-
+        
         <!--RevSlider-->
         <div class="tp-banner-container">
             <div class="tp-banner" >
@@ -93,53 +91,50 @@
                     <!-- SLIDE  -->
                     <li data-transition="fade" data-slotamount="7" data-masterspeed="1500" >
                         <!-- MAIN IMAGE -->
-                        <!--<img src="img/Kalyan_Darawaja_on_Sinhgad_Fort.jpg"  alt="slidebg1"  data-bgfit="cover" data-bgposition="left top" data-bgrepeat="no-repeat">-->
+                        <img src="img/iit-bombay-1.jpg"  alt="slidebg1"  data-bgfit="cover" data-bgposition="left top" data-bgrepeat="no-repeat">
                         <!-- LAYERS -->
                         <!-- LAYER NR. 1 -->
 
-						<div class="tp-caption large_purple sfb" data-x="170" data-y="300" data-hoffset="0" data-voffset="-80" data-speed="1000" data-start="1500" data-easing="Power4.easeOut">
-                         					<strong>mini Debian Conference 2015</strong>
-                                                    	</div>
-                                                    	<div class="tp-caption large_purple sfb" data-x="340" data-y="370" data-hoffset="0" data-voffset="-80" data-speed="1000" data-start="1500" data-easing="Power4.easeOut">
-                                               		<h1><b></b></h1>
-                        				</div>
 
 
-                        <div class="tp-caption large_white_bold sft" data-x="270" data-y="center" data-hoffset="0" data-voffset="0" data-speed="500" data-start="1200" data-easing="Power4.easeOut">
-
+                        <div class="tp-caption large_white_bold sft" data-x="220" data-y="center" data-hoffset="0" data-voffset="-80" data-speed="500" data-start="1200" data-easing="Power4.easeOut">
+                            January
                         </div>
-                        <div class="tp-caption large_white_light sfr" data-x="490" data-y="center" data-hoffset="0" data-voffset="0" data-speed="500" data-start="1400" data-easing="Power4.easeOut">
-                            &nbsp;&nbsp;
+                        <div class="tp-caption large_white_light sfr" data-x="440" data-y="center" data-hoffset="0" data-voffset="-80" data-speed="500" data-start="1400" data-easing="Power4.easeOut">
+                            &nbsp;&nbsp;17-18, 2015
+                        </div>
+                        <div class="tp-caption large_white_light sfb" data-x="220" data-y="center" data-hoffset="0" data-voffset="0" data-speed="1000" data-start="1500" data-easing="Power4.easeOut">
+                            Mini-DebConf Mumbai
                         </div>
 
-                        <div class="tp-caption sfb hidden-xs" data-x="400" data-y="center" data-hoffset="0" data-voffset="85" data-speed="1000" data-start="1700" data-easing="Power4.easeOut">
+                        <div class="tp-caption sfb hidden-xs" data-x="370" data-y="center" data-hoffset="0" data-voffset="85" data-speed="1000" data-start="1700" data-easing="Power4.easeOut">
                             <a href="#about" class="btn btn-primary inverse btn-lg">LEARN MORE</a>
                         </div>
-                        <div class="tp-caption sfr hidden-xs" data-x="580" data-y="center" data-hoffset="0" data-voffset="85" data-speed="1500" data-start="1900" data-easing="Power4.easeOut">
+                        <div class="tp-caption sfr hidden-xs" data-x="550" data-y="center" data-hoffset="0" data-voffset="85" data-speed="1500" data-start="1900" data-easing="Power4.easeOut">
                             <a href="#register" class="btn btn-default btn-lg">Register Now</a>
                         </div>
 
                     </li>
                     <!-- SLIDE 2 -->
-                  <!--  <li data-transition="zoomout" data-slotamount="7" data-masterspeed="700" >-->
+                    <li data-transition="zoomout" data-slotamount="7" data-masterspeed="700" >
                         <!-- MAIN IMAGE -->
-                        <!--<img src="img/Kalyan_Darawaja_on_Sinhgad_Fort.jpg"  alt="slidebg1"  data-bgfit="cover" data-bgposition="left top" data-bgrepeat="no-repeat">-->
+                        <img src="img/iit-bombay-2.jpg"  alt="slidebg1"  data-bgfit="cover" data-bgposition="left top" data-bgrepeat="no-repeat">
                         <!-- LAYERS -->
                         <!-- LAYER NR. 1 -->
-
-
+                        
+                        
                     </li>
 
                     <!-- SLIDE 3 -->
-                    <!--<li data-transition="zoomout" data-slotamount="7" data-masterspeed="900" >-->
+                    <li data-transition="zoomout" data-slotamount="7" data-masterspeed="900" >
                         <!-- MAIN IMAGE -->
-                        <!--<img src="img/Shaniwarwada_frontview.JPG"  alt="slidebg1"  data-bgfit="cover" data-bgposition="left top" data-bgrepeat="no-repeat">-->
+                        <img src="img/iit-bombay-3.jpg"  alt="slidebg1"  data-bgfit="cover" data-bgposition="left top" data-bgrepeat="no-repeat">
                         <!-- LAYERS -->
                         <!-- LAYER NR. 1 -->
-
-
+                        
+                        
                     </li>
-
+                    
                 </ul>
             </div>
         </div>
@@ -150,11 +145,11 @@
 
     <div class="wrapper">
 
-
+        
 
         <section id="about">
             <div class="container">
-
+                
                 <div class="section-heading scrollpoint sp-effect3">
                     <h1>About Us</h1>
                     <div class="divider"></div>
@@ -165,11 +160,11 @@
                     <p></p>
                     <p>MiniDebConfs are local meetings organized by Debian project members to achieve similar objectives to those of the DebConf, but on a regional context.</p>
                     <p></p>
-
+                    <p><a href="http://www.hfday.org/" target="_blank">Hardware Freedom Day (HFD)</a> is a worldwide celebration of&nbsp;<a href="http://en.wikipedia.org/wiki/Open_Hardware" target="_blank">Open Hardware</a>. Initiated in 2012 by the same organization behind Software Freedom Day, it aims at educating the worldwide public about the benefits of using and promoting Open Hardware.</p>
                     <p></p>
                     <p><strong>Why Attend ?</strong></p>
                     <p>A mini-DebConf is an awesome opportunity for any user who wants to experience the magic of Free and Open Source Software (FOSS). Here you can meet the veterans in FOSS development, develop professional connections which will help you in future, chat with contributors who can guide you, present in front of a grand audience and most importantly, grasp the essence of FOSS development. It is indeed a ‘never miss’ opportunity that will give you a strong foundation to build on!</p>
-
+                                        
                 </div>
 <!--
                 <div class="row">
@@ -210,9 +205,8 @@
             <div class="container">
                 <div class="section-heading scrollpoint sp-effect3">
                     <h1>Schedule</h1>
-                    <p><strong>Will be declared soon.</strong></p>
                     <div class="divider"></div>
-                    <!--<p>DAY 1 &mdash; 17/01/2015 </p>
+                    <p>DAY 1 &mdash; 17/01/2015 </p>
                     <div id="first-day" style="color: #000;">
                     <table align="center" border="1" cellpadding="1" cellspacing="1" style="width:100%; font-family: Lato;">
 	<thead>
@@ -380,8 +374,8 @@
 		</tr>
 	</tbody>
 </table>
--->
 
+                    
                     </div>
                 </div>
 <!--
@@ -484,229 +478,379 @@
                         </div>
                     </div>
                 </div>
--->
+-->                
             </div>
         </section>
 
+        <section id="speakers">
+            <div class="container">
+                <div class="section-heading inverse scrollpoint sp-effect3">
+                    <h1>Speakers</h1>
+                    <div class="divider"></div>
+                    <p>The call for papers has ended on 8th January.</p>
+                    <p>The final list of speakers is now available.</p>
+                </div>
 
+                <div class="row">
+                    <div class="col-md-10 col-md-push-1 scrollpoint sp-effect3">
+                        <div class="review-filtering">
+                            <div class="review">
+                                <div class="row">
+                                    <div class="col-md-2">
+                                        <div class="review-person">
+                                            <img src="img/venkatesh-hariharan.jpg" alt="Venkatesh Hariharan" class="img-responsive">
+                                        </div>
+                                    </div>
+                                    <div class="col-md-10">
+                                        <div class="review-comment">
+                                            <h3>“Venkatesh Hariharan is Director of Alchemy Business Solutions LLP, an organization that focuses on leveraging technology for development. Hariharan has served as Head of Public Policy and Government Affairs with Google and as Corporate Affairs Director for Red Hat in the Asia-Pacific region. He has worked on key policy issues like open standards, software patents, open source in government, and Indian language computing.”</h3>
+                                            <p>
+                                                - Venkatesh Hariharan
 
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="review rollitin">
+                                <div class="row">
+                                    <div class="col-md-2">
+                                        <div class="review-person">
+                                            <img src="img/kannan-moudgalya.jpg" alt="Kannan Moudgalya" class="img-responsive">
+                                        </div>
+                                    </div>
+                                    <div class="col-md-10">
+                                        <div class="review-comment">
+                                            <h3>“Kannan Moudgalya is a professor of Chemical Engineering, Systems and Control, and Educational Technology at IIT Bombay. Kannan is now devoting his time on spreading education on a massive scale, without quality dilution. He has been focusing on spoken tutorials, open source software systems, virtual labs and the low cost tablet, Aakash.”</h3>
+                                            <p>
+                                                - Kannan Moudgalya
 
-        <section id= "speakers">
-	        	<div class="container">
-         	       <div class="section-heading inverse scrollpoint sp-effect3">
-                  	  <h1>Speakers</h1>
-                  	  	<div class="divider"></div>
-                    			<!-- Adding the speakers list-->
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="review rollitin">
+                                <div class="row">
+                                    <div class="col-md-2">
+                                        <div class="review-person">
+                                            <img src="img/jaldhar-vyas.jpg" alt="Jaldhar Vyas" class="img-responsive">
+                                        </div>
+                                    </div>
+                                    <div class="col-md-10">
+                                        <div class="review-comment">
+                                            <h3>“A long-time Debian Developer, Jaldhar Vyas is a Perl programmer and the owner of Consolidated Braincells Inc., which provides consulting for Perl, Web and Mobile development or Linux.”</h3>
+                                            <p>
+                                                - Jaldhar Vyas
 
-                    			<!--Speaker 1-->
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="review rollitin">
+                                <div class="row">
+                                    <div class="col-md-2">
+                                        <div class="review-person">
+                                            <img src="img/kumar-appaiah.jpg" alt="Kumar Appaiah" class="img-responsive">
+                                        </div>
+                                    </div>
+                                    <div class="col-md-10">
+                                        <div class="review-comment">
+                                            <h3>“An Assistant Professor in the Department of Electrical Engineering, Indian Institute of Technology Bombay, Kumar is a free software enthusiast and tries to contribute bits of code to several free software projects. He is a Debian Developer and spend a lot of his time contributing to the Debian project, using Debian GNU/Linux for most of his work.”</h3>
+                                            <p>
+                                                - Kumar Appaiah
 
-                    			<div class="row">
-                    				<div class="col-md-10 col-md-push-1 scrollpoint sp-effect3">
-                        					<div class="review-filtering">
-                            					<div class="review">
-                                						<div class="row">
-                                    						<div class="col-md-2">
-                                        							<div class="review-person">
-                                            								<img src="img/photo22766131738683331.jpg" alt="Kartik Mistry" class="img-responsive">
-                                        							</div>
-                                    						</div>
-                                    					<div class="col-md-10">
-                                        				<div class="review-comment">
-		                                            			<h3>"Kartik Mistry is Debian developer since 2008 and has been contributing to many FOSS projects along with running and cycling. He loves to point everyone to his&nbsp;<a href="https://kartikm.wordpress.com" target="_blank">Gujarati blog</a> whenever asked more about him."</h3>
-                                            					<p>
-                                                					- Kartik Mistry
-                                                           			</p>
-                                        				</div>
-                                    			</div>
-                                			</div>
-                            		</div>
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="review rollitin">
+                                <div class="row">
+                                    <div class="col-md-2">
+                                        <div class="review-person">
+                                            <img src="img/rizwan-shaikh.jpg" alt="Rizwan Shaikh" class="img-responsive">
+                                        </div>
+                                    </div>
+                                    <div class="col-md-10">
+                                        <div class="review-comment">
+                                            <h3>“Rizwan Shaikh is a prominent Information Security Researcher and Cyber Crime Consultant with more than 7 years of experience in the meadow of Ethical Hacking, Information Security and Cyber Law. You can find more information about Rizwan on his&nbsp;<a href="http://www.rizwanonline.com/index.html" target="_blank">website</a>.”</h3>
+                                            <p>
+                                                - Rizwan Shaikh
 
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="review rollitin">
+                                <div class="row">
+                                    <div class="col-md-2">
+                                        <div class="review-person">
+                                            <img src="img/shirish-agrawal.jpg" alt="Shirish Agrawal" class="img-responsive">
+                                        </div>
+                                    </div>
+                                    <div class="col-md-10">
+                                        <div class="review-comment">
+                                            <h3>“Software Professional having substantial experience of working with Free Software specifically Debian-based Distros.Give advocacy and Basic FOSS Trainings. Particularly interested to network and Work with FOSS-based businesses and individuals. Also enjoy debating over various copyleft licenses.”</h3>
+                                            <p>
+                                                - Shirish Agrawal
 
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="review rollitin">
+                                <div class="row">
+                                    <div class="col-md-2">
+                                        <div class="review-person">
+                                            <img src="img/praveen-a.jpg" alt="Praveen A" class="img-responsive">
+                                        </div>
+                                    </div>
+                                    <div class="col-md-10">
+                                        <div class="review-comment">
+                                            <h3>“Free Software Consultant with expertise on GNU/Linux, MySQL and HP OpenView Operations Smart Plug-In development.”</h3>
+                                            <p>
+                                                - Praveen A
 
-                           		 <!--Speaker 2-->
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="review rollitin">
+                                <div class="row">
+                                    <div class="col-md-2">
+                                        <div class="review-person">
+                                            <img src="img/siji-sunny.jpg" alt="Siji Sunny" class="img-responsive">
+                                        </div>
+                                    </div>
+                                    <div class="col-md-10">
+                                        <div class="review-comment">
+                                            <h3>“An Entrepreneur, Researcher and OpenSource enthusiast, Siji develops software and does research in various domains of Embedded Systems. He is the Director of Research Lab at MELabs, a Research and Development company working in the domain of Mobile & Embedded Computing.”</h3>
+                                            <p>
+                                                - Siji Sunny
 
-                           		<div class="review rollitin">
-                            			<div class="row">
-                            				<div class="col-md-2">
-                            					<div class="review-person">
-                            						<img src="img/sgk.JPG" alt=" Syam G. Krishnan" class="img-responsive">
-                            					</div>
-                            				</div>
-                                    			<div class="col-md-10">
-                                        				<div class="review-comment">
-                                            					<h3 >“Syam is an enthusiastic Free Software supporter, likes to code mainly in C and Python. Currently working on packaging  &nbsp;<a href="http://kontalk.net" target="_blank">Kontalk messenger</a> for Debian. Employed as a research staff at MELabs, a Research and Development company working in the domain of Mobile & Embedded Computing"</h3>
-                                            						<p>
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="review rollitin">
+                                <div class="row">
+                                    <div class="col-md-2">
+                                        <div class="review-person">
+                                            <img src="img/kartik-mistry.jpg" alt="Kartik Mistry" class="img-responsive">
+                                        </div>
+                                    </div>
+                                    <div class="col-md-10">
+                                        <div class="review-comment">
+                                            <h3>“Kartik Mistry is Debian developer since 2008 and has been contributing to many FOSS projects along with running and cycling. He loves to point everyone to his&nbsp;<a href="https://kartikm.wordpress.com" target="_blank">Gujarati blog</a> whenever asked more about him.”</h3>
+                                            <p>
+                                                - Kartik Mistry
 
-					                                                - Syam G. Krishnan
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="review rollitin">
+                                <div class="row">
+                                    <div class="col-md-2">
+                                        <div class="review-person">
+                                            <img src="img/krishnakant-mane.jpg" alt="Krishnakant Mane" class="img-responsive">
+                                        </div>
+                                    </div>
+                                    <div class="col-md-10">
+                                        <div class="review-comment">
+                                            <h3>“A software engineery by profession, Krishnakant is an expert in Python with experience in Java. He is working as a IT adviser for many government projects. He is the Lead developer of GNUKhata.”</h3>
+                                            <p>
+                                                - Krishnakant Mane
 
-                                            						</p>
-                                        				</div>
-                                    			</div>
-                                			</div>
-                            		</div>
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="review rollitin">
+                                <div class="row">
+                                    <div class="col-md-2">
+                                        <div class="review-person">
+                                            <img src="img/sachin-dedhia.jpg" alt="Sachin Dedhia" class="img-responsive">
+                                        </div>
+                                    </div>
+                                    <div class="col-md-10">
+                                        <div class="review-comment">
+                                            <h3>“Sachin Dedhia is an independent Cyber Crime Investigator & also a Certified Ethical Hacker (EC-Council, USA). He has been working as a Cyber Crime Investigator and as a security expert for IT companies, Govt depts., Corporate & even individuals for many years. You can find more information about Sachin on his&nbsp;<a href="http://www.skynetsecure.com/" target="_blank">website</a>.”</h3>
+                                            <p>
+                                                - Sachin Dedhia
 
-                            		<!--Speaker 3-->
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>                            
+                            <div class="review rollitin">
+                                <div class="row">
+                                    <div class="col-md-2">
+                                        <div class="review-person">
+                                            <img src="img/rahul-mahale.jpg" alt="Rahul Mahale" class="img-responsive">
+                                        </div>
+                                    </div>
+                                    <div class="col-md-10">
+                                        <div class="review-comment">
+                                            <h3>“An Open-Source Enthusiast and GNU/Linux user and promoter, currently working as a DevOps Engineer at TinyOwl Mumbai. You can know more about him at his&nbsp;<a href="http://rahulmahale.wordpress.com/" target="_blank">blog</a>,&nbsp;<a href="https://twitter.com/Rahul_Mahale" target="_blank">Twitter</a> and&nbsp;<a href="https://github.com/RahulMahale" target="_blank">GitHub</a> accounts.”</h3>
+                                            <p>
+                                                - Rahul Mahale
 
-                            		<div class="review rollitin">
-                            			<div class="row">
-                            				<div class="col-md-2">
-                            					<div class="review-person">
-                            						<img src="img/praveen-a.jpg" alt=" Praveen A" class="img-responsive">
-                            					</div>
-                            				</div>
-                                    			<div class="col-md-10">
-                                        				<div class="review-comment">
-                                            					<h3>“Free Software Consultant with expertise on GNU/Linux, MySQL and HP OpenView Operations Smart Plug-In development."</h3>
-                                            						<p>
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="review rollitin">
+                                <div class="row">
+                                    <div class="col-md-2">
+                                        <div class="review-person">
+                                            <img src="img/abhishek-bhattacharjee.jpg" alt="Abhishek Bhattacharjee" class="img-responsive">
+                                        </div>
+                                    </div>
+                                    <div class="col-md-10">
+                                        <div class="review-comment">
+                                            <h3>“An Associate Software Engineer at Symantec who loves programming, watching movies and listening to all kinds of music, from regional folk to western heavy metal. More information about his open-source projects can be found at his&nbsp;<a href="https://github.com/abhi11" target="_blank">GitHub</a> account.”</h3>
+                                            <p>
+                                                - Abhishek Bhattacharjee
 
-					                                                - Praveen A
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="review rollitin">
+                                <div class="row">
+                                    <div class="col-md-2">
+                                        <div class="review-person">
+                                            <img src="img/kumar-sukhani.jpg" alt="Kumar Sukhani" class="img-responsive">
+                                        </div>
+                                    </div>
+                                    <div class="col-md-10">
+                                        <div class="review-comment">
+                                            <h3>“I am Kumar Sukhani, currently working at Cloudwalk. Lil'Debi was my GSOC project under Debian community and I also gave a talk about it at DebConf14, Portland. Check my&nbsp;<a href="https://github.com/SDkie/" target="_blank">Github</a> for other open source contributions.”</h3>
+                                            <p>
+                                                - Kumar Sukhani
 
-                                            						</p>
-                                        				</div>
-                                    			</div>
-                                			</div>
-                            		</div>
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="review rollitin">
+                                <div class="row">
+                                    <div class="col-md-2">
+                                        <div class="review-person">
+                                            <img src="img/raju-vindane.jpg" alt="Raju Vindane" class="img-responsive">
+                                        </div>
+                                    </div>
+                                    <div class="col-md-10">
+                                        <div class="review-comment">
+                                            <h3>“An Engineering student at Dhole Patil COE, Pune, Raju Vindane has packaged rack-google-analytics for Debian while doing Debian packaging for Diaspora, a decentralized Social Network. He is involved in various open source projects for localisation, packaging etc.”</h3>
+                                            <p>
+                                                - Raju Vindane
 
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="review rollitin">
+                                <div class="row">
+                                    <div class="col-md-2">
+                                        <div class="review-person">
+                                            <img src="img/anool_mahidharia.jpg" alt="Anool Mahidharia" class="img-responsive">
+                                        </div>
+                                    </div>
+                                    <div class="col-md-10">
+                                        <div class="review-comment">
+                                            <h3>“An Electrical Engineer by profession, Anool is working in the field of Test & Measurement at&nbsp;<a href="http://www.lumetron.com/" target="_blank">Lumetronics</a>. He is one of the founder duo of WyoLum Emergents – a global group of Open Hardware enthusiasts. He is also the co-founder of Maker's Asylum, a community maker space.”</h3>
+                                            <p>
+                                                - Anool Mahidharia
 
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="review rollitin">
+                                <div class="row">
+                                    <div class="col-md-2">
+                                        <div class="review-person">
+                                            <img src="img/augustine-correa.jpg" alt="Augustine Correa" class="img-responsive">
+                                        </div>
+                                    </div>
+                                    <div class="col-md-10">
+                                        <div class="review-comment">
+                                            <h3>“Techie, trekkie, foodie, indie. Solving issues one container at a time.”</h3>
+                                            <p>
+                                                - Augustine Correa
 
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="review rollitin">
+                                <div class="row">
+                                    <div class="col-md-2">
+                                        <div class="review-person">
+                                            <img src="img/manish-goregaokar.jpg" alt="Manish Goregaokar" class="img-responsive">
+                                        </div>
+                                    </div>
+                                    <div class="col-md-10">
+                                        <div class="review-comment">
+                                            <h3>“A student at IIT Bombay, Manish is enthusiastic about open source. He is currently working with the Servo browser engine and the Rust programming language.”</h3>
+                                            <p>
+                                                - Manish Goregaokar
 
-                            		<!--Speaker 4-->
-					<div class="review rollitin">
-                            			<div class="row">
-                            				<div class="col-md-2">
-                            					<div class="review-person">
-                            						<img src="img/siji_sunny.jpg" alt=" Siji  Sunny" class="img-responsive">
-                            					</div>
-                            				</div>
-                                    			<div class="col-md-10">
-                                        				<div class="review-comment">
-                                            					<h3 align="center">“An Entrepreneur, Researcher and OpenSource enthusiast,been developing software and doing research for in various domains:Operating Systems & System programming, Application/ User Interface development,Embedded & Mobile computing,text processing & language computing, Wireless and LowPower Wireless Networknig.Currently, he is the Director of Research Lab named as MELabs, a Research and Development company working in the domain of Mobile & Embedded Computing."</h3>
-                                            						<p>
-
-					                                                - Siji Sunny
-
-                                            						</p>
-                                        				</div>
-                                    			</div>
-                                			</div>
-                            		</div>
-
-
-
-
-                            		<!--Speaker 5-->
-
-                            		<div class="review rollitin">
-                            			<div class="row">
-                            				<div class="col-md-2">
-                            					<div class="review-person">
-                            						<img src="img/Sunil.Adapa (2).JPG" alt=" Sunil Mohan Adapa" class="img-responsive">
-                            					</div>
-                            				</div>
-                                    			<div class="col-md-10">
-                                        				<div class="review-comment">
-                                            					<h3 align="center">“Sunil Mohan Adapa is a Free Software developer and an independent software consultant.  He is a contributor to the FreedomBox project and a volunteer at Swecha.  In the past, he has contributed to the IndLinux project and Telugu localization.  He also teaches as guest faculty at IIIT-Hyderabad.  After graduating from IIIT-H in 2003, before becoming an independent consultant, he has worked at various corporates and his own startup."</h3>
-                                            						<p>
-
-					                                                - Sunil Mohan Adapa
-
-                                            						</p>
-                                        				</div>
-                                    			</div>
-                                			</div>
-                            		</div>
-
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
 <!--
-                            		<!--Speaker 6-->
-<!--
-                            		<div class="review rollitin">
-                            			<div class="row">
-                            				<div class="col-md-2">
-                            					<div class="review-person">
-                            						<img src="img/Shantanu.jpg" alt=" Shantanu Oak" class="img-responsive">
-                            					</div>
-                            				</div>
-                                    			<div class="col-md-10">
-                                        				<div class="review-comment">
-                                            					<h3 align="center">“He is working as a Database Consultant for a renowned Telecommunication company. He is a believer in Free and Open source technologies and tries to promote it where-ever possible."</h3>
-                                            						<p>
-
-					                                                - Shantanu Oak
-
-                                            						</p>
-                                        				</div>
-                                    			</div>
-                                			</div>
-                            		</div>
-
--->
-                            		<!--Speaker 7-->
-                            		<!--Speaker 8-->
-                            		<!--Speaker 9-->
-                            		<!--Speaker 10-->
-
-
-                  		</div>
-          		</div>
-          	</div>
-
-
-          	<div class="divider"></div>
-
-          	<h2 style="color:white">Call for proposals (CFPs) is on and will end by 30 August, 2015</h2>
-		<h3 style="color:white"> The dates have been extended from 10 Aug to the new date 30 Aug</h3>
-
-
-
-			<div id="submitting">
-				<a name="submitting"></a>
-				   	<h3 style="color:white ;text-align:left">Submission guidelines for talks or workshops</h3>
-						<ul style="text-align:left">
-					                  <li style="color:white"><p>Describe your talk/workshop topic with a brief abstract.</p></li>
-							<li style="color:white"><p>Proposal should have objective with clear expectation for audience.</p></li>
-							<li style="color:white"><p>Please include a short title (to make it easy to produce a compact schedule) and an engaging description of the event.</p></li>
-							<li style="color:white"> <p>Your submissions should include the following things </p>
-							<ol >
-								<li><p>Description</p></li>
-								<li><p>Prerequisites</p></li>
-								<li><p>Speaker Info</p></li>
-								<li><p>Speaker Links</p></li>
-							</ol>
-							<li style="color:white"><p>Please attach a pic of yours which can be included in the speakers section on the website</p></li>
-							<li style="color:white"><p>Send your submissions to <a href="mailto:minidebconfpune@openmailbox.org">minidebconfpune@openmailbox.org</a></p></li>
-						</ul>
-			</div>
-			<p>
-			</p>
-			<div id="tracks" style="color:white">
-				<a name="tracks"></a>
-					<h3 style="color:white">Tracks</h3>
-						<p>We will organize some talks into thematic tracks. If you have a proposal for a miniDebian Conference track,  please contact <a href="mailto:minidebconfpune@openmailbox.org">minidebconfpune@openmailbox.org</a> with the the name of the track and a good description. The track needs a minimum of 3 talks.</p>
-			</div>
-
-			<div id="format" style="color:white">
-				<a name="format"></a>
-				<h3 style="color:white">Format of the events</h3>
-					<p>Submissions are not limited to traditional talks: you could propose a performance, art installation, debate, or anything else. If you have any specific requirements for your event, please send an email to <a href="mailto:minidebconfpune@openmailbox.org">minidebconfpune@openmailbox.org</a> with the details of your requirements and be sure to mention your event title in the subject.</p>
-			</div>
-			<p>
-			</p>
-			<div id="deadline">
-				<a name="deadline"></a>
-	                           <h3 style="color:white">Deadline</h3>
-				<p>Please submit your events before 30 August 2015, 23:59:59 IST.</p>
-			</div>
-
-
+                            <div class="review rollitin">
+                                <div class="row">
+                                    <div class="col-md-2">
+                                        <div class="review-person">
+                                            <img src="http://api.randomuser.me/portraits/men/93.jpg" alt="" class="img-responsive">
+                                        </div>
+                                    </div>
+                                    <div class="col-md-10">
+                                        <div class="review-comment">
+                                            <h3>“Keep It Up Guys Your Work Rules, Cheers :)”</h3>
+                                            <p>
+                                                - Ricky Grant
+                                                <span>
+                                                    <i class="fa fa-star fa-lg"></i>
+                                                    <i class="fa fa-star fa-lg"></i>
+                                                    <i class="fa fa-star fa-lg"></i>
+                                                    <i class="fa fa-star-half-o fa-lg"></i>
+                                                    <i class="fa fa-star-o fa-lg"></i>
+                                                </span>
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+ -->                          
+                            
+                        </div>
+                    </div>
+                </div>
+                
+            </div>
         </section>
-
-
-
-
-
-
-
-
 
         <section id="sponsors">
             <div class="container">
@@ -714,26 +858,23 @@
                 <div class="section-heading scrollpoint sp-effect3">
                     <h1>Sponsors</h1>
                     <div class="divider"></div>
-                    <p>If you would like to sponsor the event please contact us on <a href="mailto:minidebconfpune@openmailbox.org">minidebconfpune@openmailbox.org</a> with the subject line Sponsorship.</p>
+                    <p>Please contact us on the Mini-DebConf India mailing list if you would like to sponsor the event.</p>
                 </div>
 
-
-				<div class="filter scrollpoint sp-effect3">
+                <div class="filter scrollpoint sp-effect3">
                     <a href="javascript:void(0)" class="button js-filter-all active">Sponsors</a>
 <!--
                     <a href="javascript:void(0)" class="button js-filter-one">Platinum</a>
                     <a href="javascript:void(0)" class="button js-filter-two">Gold</a>
                     <a href="javascript:void(0)" class="button js-filter-three">Silver</a>
 -->
-               </div>
-
-                <!--<div class="slider filtering scrollpoint sp-effect5" >
+                </div>
+                <div class="slider filtering scrollpoint sp-effect5" >
                     <div class="one">
-                    	<img src="img/berry/screens/debian-sponsor-logo.jpg" alt="Debian Community">
+                        <img src="img/berry/screens/debian-sponsor-logo.jpg" alt="Debian Community">
                         <h4>Debian Community<br><a href="https://www.debian.org/" target="_blank">Website</a></h4>
-                    </div>-->
-
-                <!--    <div class="one">
+                    </div>
+                    <div class="one">
                         <img src="img/berry/screens/fossee-sponsor-logo.jpg" alt="FOSSEE">
                         <h4>FOSSEE<br><a href="http://fossee.in/" target="_blank">Website</a></h4>
                     </div>
@@ -744,7 +885,7 @@
                     <div class="one">
                         <img src="img/berry/screens/idioticideas-logo.jpg" alt="IdioticIdeas">
                         <h4>IdioticIdeas<br><a href="http://www.idioticideas.com/" target="_blank">Website</a></h4>
-                    </div> -->
+                    </div>
 <!--
                     <div class="one">
                         <img src="img/berry/screens/menu.jpg" alt="">
@@ -771,11 +912,11 @@
                         <h4>Demo Logo 6</h4>
                     </div>
 -->
-                <!--</div>
+                </div>
                 <div class="filter scrollpoint sp-effect3">
 							 <a href="javascript:void(0)" class="button js-filter-all active">Media Partner</a>
-					</div>-->
-                <!--<div class="slider filtering scrollpoint sp-effect5" >
+					</div>
+                <div class="slider filtering scrollpoint sp-effect5" >
                                     <div class="one">
                         <img src="img/berry/screens/opensourceforyou.jpg" alt="Open Source For You">
                         <h4>Open Source For You<br><a href="https://www.opensourceforu.com/" target="_blank">Website</a></h4>
@@ -789,7 +930,7 @@
                         <img src="img/berry/screens/dff.jpg" alt="Digital Freedom Foundation">
                         <h4>Digital Freedom Foundation<br><a href="http://www.dff.org.in/" target="_blank">Website</a></h4>
                     </div>
-                </div> -->
+                </div>		                					
             </div>
         </section>
 
@@ -798,9 +939,9 @@
                 <div class="section-heading scrollpoint sp-effect3">
                     <h1>Register</h1>
                     <div class="divider"></div>
-                    <!--<p>Register for the event at&nbsp;<a href="http://www.eventbrite.com/o/debian-india-community-8323787482?s=41460597" target="_blank">Eventbrite</a>.</p>
-                    <p>Registration is free of charge. Spot registrations are subject to availability. Terms and Conditions apply.</p>-->
-                    <!--<p></p> <br />
+                    <p>Register for the event at&nbsp;<a href="https://www.eventbrite.com/e/mini-debconf-mumbai-2015-tickets-15022071420" target="_blank">Eventbrite</a>.</p>
+                    <p>Registration is free of charge. Complimentary lunch will be provided. Spot registrations are subject to availability. Terms and Conditions apply.</p>
+                    <p></p> <br />
                     <p><strong>Accommodation:</strong></p>
                     <p>Hotel Tulip Residency</p>
                     <p>Saki Vihar Complex, Building No. 8,</p>
@@ -810,7 +951,7 @@
                     <p>Hotel Hotline/Manager: +91 7303843431</p>
                     <p></p>
                     <p>Hotel charges per day: ₹2000 for single, ₹2500 for double and ₹3000 for triple.</p>
-                    <p>While booking, please mention that you are going to attend the "MiniDebConf - IIT Mumbai on 17-18 Jan", in order to avail the discounted prices.</p> -->
+                    <p>While booking, please mention that you are going to attend the "MiniDebConf - IIT Mumbai on 17-18 Jan", in order to avail the discounted prices.</p>
                 </div>
 <!--
                 <div class="row">
@@ -820,7 +961,7 @@
                         </div>
                     </div>
                 </div>
--->
+-->                
             </div>
         </section>
 
@@ -829,38 +970,32 @@
                 <div class="section-heading inverse scrollpoint sp-effect3">
                     <h1>Location</h1>
                     <div class="divider"></div>
-						<!--<p>College of Engineering Pune,
-							Wellesely Rd,
-							Shivajinagar,
-							Pune-411 005.
-							Maharashtra, INDIA.
-						</p>-->
+                    <p>The event will be held at the Lecture Hall Complex, Indian Institute of Technology Bombay.</p>
 
-
-                  <!--  <p><img style="width: 153px; height: 150px; background: #fff;" src="https://upload.wikimedia.org/wikipedia/en/f/f0/College_of_Engineering%2C_Pune_logo.jpg" align="left"><strong>College of Engineering Pune</strong> <br>College of Engineering, Pune (COEP) is an autonomous engineering college with an affiliation to the University of Pune in Pune, Maharashtra, India. Established in 1854, it is one of the oldest engineering college in Asia, after IIT Roorkee (1847)</p>
-                    <p>COEP requires no landmark, the college itself is a well known place throughout Pune. It is located on the Pune station road in Shivajinagar. Nothing needs to be said about its accessibility, its absolutely fantastic.</p>
-
+                    <p><img style="width: 153px; height: 150px; background: #fff;" src="http://upload.wikimedia.org/wikipedia/en/thumb/5/58/IIT_Bombay_Logo.svg/200px-IIT_Bombay_Logo.svg.png" align="left"><strong>Indian Institute of Technology Bombay</strong> <br>The Indian Institute of Technology Bombay, popularly known as IIT Bombay or IITB, is a public research university located in Powai, Mumbai. IITB has 14 departments, 10 multi-disciplinary centres, 3 schools of excellence and 3 inter-disciplinary groups, with a strong emphasis on scientific and technological research.</p>
+                    
                     <p><strong>Directions:</strong></p>
-					<p><u>Public Transport</u></p>
-					<p>Pune has a reliable public transport networked by PMPML Buses, Taxis and Auto rickshaws. COEP is easily acessible by any one of them.</p>
-					<p><u>Railway Transport:</u></p>
-					<p>	Pune is one of the major and most important railway junctions on the Indian railway. The city connects with major other cities of the country which makes it quite easy to answer how to reach Pune via railways. </p>
-					 <p>After reaching Pune Station, you can take an auto or cab to reach COEP.</p>
-					<p><u>If you come by Air</u>:<br>
-					Pune airport is situated almost 10 kilometers from the heart of the city which is located in the Lohagaon area. Outside the airport, one can easily get a taxi and major other bus services to reach the city.</p>
-					 <p>For more information check the Get in section in this  <a href="http://wikitravel.org/en/Pune" target="_blank">WikiTravel</a>  article</p>
-
+<p><u>Public Transport</u></p>
+<p>Mumbai has a reliable public transport networked by Mumbai Suburban Railway, BEST Buses, Taxis and Auto rickshaws (Auto rickshaws, however do not ply further south than Sion and Bandra). The nearest suburban railway stations to IIT on the Central line (connecting CST, Dadar, Kurla, Thane, Kalyan) are Vikhroli and Kanjurmarg stations. The nearest station to IIT on the Western line (connecting Church-gate, Mumbai Central, Dadar, Bandra, Andheri, Borivali) is Andheri.</p>
+<p><u>Suburban Railway Transport:</u></p>
+<p>	<u>From CST Station/Dadar</u><em>:&nbsp;</em><br>
+	Take a slow train on the Central line to Thane/Kalyan/Karjat. Get down at Vikhroli or Kanjurmarg station. Take an auto to IIT, Powai (fare up to Rs 30). Enter the campus from the Market gate (the first gate you come across).&nbsp;</p>
+<p><u>From Mumbai Central/Church-gate</u>:<br>
+	Take a fast or slow train on the Western line to Andheri/Borivali/Virar. Get down at Andheri Station and come towards the East side of the station. Take bus or auto (fare up to Rs 200) or taxi (fare up to Rs 350) to IIT, Powai . Enter the campus from the Main gate (the first gate you come across).</p>
+<p>Alternatively, you can get down at Dadar station and change platform to the central line. Take a slow train on the line to Thane/Kalyan/Karjat. Get down at Vikhroli or Kanjurmarg station. Take an auto to IIT, Powai (fare upto Rs 30). Enter the campus from the Market gate (the first gate you come across).</p>
+<p><u>If you come by Air</u>:<br>
+	International flights land at Sahar Airport which is about 8 kms from IIT. The Domestic Airport- at SantaCruz is about 12 kms. Its' best to take a Pre-paid taxi (costs about Rs 350 - 500 (US $ 8.00 -12.00) from Airport to IIT Bombay, Powai) available at the Airport to come to IIT. Auto rickshaws and regular taxis are also available at both the airports for reaching IIT, Powai.</p>
+<p>For more information check: <a href="http://www.iitb.ac.in/campus/howto/howtoget.html" target="_blank">How to get to IITB</a></p>	
+                    
                 </div>
-
+                
                 <div class="row">
                     <div class="col-md-12" style="margin-top: -30px;" >
 							<div id="map" style="margin-top: -20px;" >
-                    <!--<a href="http://www.openstreetmap.org/node/1640273574#map=17/19.13335/72.91228" target="_blank" ><img src="img/map.jpg" class="img-responsive scrollpoint sp-effect5" alt="Map" align="middle"></a> <br />
-                    <p style="color: #fff;" align="center">Get directions with <a href="http://www.openstreetmap.org/node/1640273574#map=17/19.13335/72.91228" target="_blank">OpenStreetMap</a> / <a href="https://www.google.co.in/maps/dir//Indian+Institute+of+Technology+Bombay/@19.1335074,72.8762744,13z/data=!4m8!4m7!1m0!1m5!1m1!1s0x0:0x68fdcea4c5c5894e!2m2!1d72.913268!2d19.13343" target="_blank">Google&nbsp;Maps</a></p>-->
-
-                    <!--<iframe width="1320" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://www.openstreetmap.org/export/embed.html?bbox=73.85290861129761%2C18.527000536711693%2C73.86112689971924%2C18.533368593170437&amp;layer=mapnik&amp;marker=18.530184594594896%2C73.85701775550842" style="border: 1px solid black; align:right"></iframe><br/><small><a href="http://www.openstreetmap.org/?mlat=18.53018&amp;mlon=73.85702#map=17/18.53018/73.85702">View Larger Map</a></small>
-			        </div>-->
-
+                    <a href="http://www.openstreetmap.org/node/1640273574#map=17/19.13335/72.91228" target="_blank" ><img src="img/map.jpg" class="img-responsive scrollpoint sp-effect5" alt="Map" align="middle"></a> <br />
+                    <p style="color: #fff;" align="center">Get directions with <a href="http://www.openstreetmap.org/node/1640273574#map=17/19.13335/72.91228" target="_blank">OpenStreetMap</a> / <a href="https://www.google.co.in/maps/dir//Indian+Institute+of+Technology+Bombay/@19.1335074,72.8762744,13z/data=!4m8!4m7!1m0!1m5!1m1!1s0x0:0x68fdcea4c5c5894e!2m2!1d72.913268!2d19.13343" target="_blank">Google&nbsp;Maps</a></p>
+                    </div>
+                    
 <!--
                         <div class="hanging-phone scrollpoint sp-effect2 hidden-xs">
                             <img src="img/berry/berry-angled2.png" alt="">
@@ -871,7 +1006,7 @@
                                 <span>Download for</span><br>
                                 <b>Android</b>
                             </a>
-
+                            
                                 <a href="#" class="btn btn-primary inverse scrollpoint sp-effect2">
                                     <i class="fa fa-apple fa-3x pull-left"></i>
                                     <span>Download for</span><br>
@@ -882,94 +1017,24 @@
                     </div>
                 </div>
 
-
+                
 
             </div>
         </section>
-
-        <section id="Archives">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-8 col-md-push-2 clearfix">
-                        <div class="section-heading scrollpoint sp-effect3">
-                            <h2>Check out the previous mini Debian Conferences and events here</h2>
-
-                            <span class="divider"></span>
-                        </div>
-                    </div>
-                    <div class="col-md-12">
-                        <div class="row">
-                            <div class="col-md-6">
-                                <div class="media media-services right scrollpoint sp-effect1">
-                                    <a class="pull-right" href="#">
-                                        <a href="mumbai/index.shtml" target="_blank"> <img src="img/debian-logo-new.png" alt="Mini Debian Conference Mumbai " class="img-responsive" >
-                                           </a>
-                                    </a>
-                                    <div class="media-body">
-                                        <h3 class="media-heading">Mini Debian Conference Mumbai</h3>
-                                        <p>First mini Debian Conference of 2015 Happened at IIT Bombay in January 2015</p>
-                                    </div>
-                                </div>
-                                <div class="media media-services right scrollpoint sp-effect2">
-                                    <a class="pull-right" href="#">
-
-                                    </a>
-                                    <div class="media-body">
-
-                                    </div>
-                                </div>
-                                <div class="media media-services right scrollpoint sp-effect1">
-                                    <a class="pull-right" href="#">
-                                    </a>
-                                    <div class="media-body">
-
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-md-6">
-                                <div class="media media-services scrollpoint sp-effect2">
-                                    <a class="pull-left" href="#">
-                                        <a href="http://blog.tttwrites.in/debutsav/" target="_blank"> <img src="img/logo.png" alt="Debutsav " class="img-responsive">
-                                           </a>
-                                    </a>
-                                    <div class="media-body">
-                                        <h3 class="media-heading">Debutsav</h3>
-                                        <p>Debutsav happened in October 2014 at Amrita School of Engineering, Amritapuri, Kollam, Kerala</p>
-                                    </div>
-                                </div>
-                                <div class="media media-services scrollpoint sp-effect1">
-                                    <a class="pull-left" href="#">
-                                    </a>
-                                    <div class="media-body">
-                                    </div>
-                                </div>
-                                <div class="media media-services scrollpoint sp-effect2">
-                                    <a class="pull-left" href="#">
-                                    </a>
-                                    <div class="media-body">
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-
 
         <section id="contactus" class="doublediagonal">
             <div class="container">
                 <div class="section-heading scrollpoint sp-effect3">
                     <h1>Contact Us</h1>
                     <div class="divider"></div>
-                    <p>If you have any queries regarding the event or would like to volunteer for the event, get in touch with us on <a href="mailto:minidebconfpune@openmailbox.org">minidebconfpune@openmailbox.org</a></p>
+                    <p>If you would like to contact us or volunteer for the event, please get in touch on the Mini-DebConf India Mailing List. This website's code is available on <a href="https://github.com/rigved/in2015.mini.debconf.org" target="_blank">GitHub</a>.</p>
                 </div>
                 <div class="row">
                     <div class="col-md-12">
                         <div class="row">
 
                             <div class="col-md-8 col-sm-8 scrollpoint sp-effect1 section-heading">
-                               <!-- <p>Lecture Hall Complex<br>Indian Institute of Technology Bombay<br>Powai, Mumbai - 400076<br>Maharashtra, India</p> -->
+                                <p>Lecture Hall Complex<br>Indian Institute of Technology Bombay<br>Powai, Mumbai - 400076<br>Maharashtra, India</p>
 <!--                                <form role="form">
                                     <div class="form-group">
                                         <input type="text" class="form-control" placeholder="Your name">
@@ -983,20 +1048,8 @@
                                     <button type="submit" class="btn btn-primary btn-lg">Submit</button>
                                 </form>
 -->
-                            </div>
+                            </div>                            
                             <div class="col-md-4 col-sm-4 contact-details scrollpoint sp-effect2">
-                            	<div class="media">
-                                    <a href="#contactus" class="pull-left">
-                                        <i class="fa fa-envelope fa-2x"></i>
-                                    </a>
-                                    <div class="media-body">
-                                        <h4 class="media-heading">
-                                        	  <a target="_blank" href="mailto:minidebconfpune@openmailbox.org">minidebconfpune@openmailbox.org</a>
-                                        </h4>
-                                    </div>
-
-                                </div>
-
                                 <div class="media">
                                     <a class="pull-left" href="#contactus" >
                                         <i class="fa fa-map-marker fa-2x"></i>
@@ -1026,7 +1079,16 @@
                                         </h4>
                                     </div>
                                 </div>
-
+                                <div class="media">
+                                    <a href="#contactus" class="pull-left">
+                                        <i class="fa fa-envelope fa-2x"></i>
+                                    </a>
+                                    <div class="media-body">
+                                        <h4 class="media-heading">
+                                        	  <a target="_blank" href="mailto:debian[at]shieldofachilles[dot]in">debian[at]shieldofachilles[dot]in</a>
+                                        </h4>
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -1040,21 +1102,15 @@
                     <img src="img/berry/logo.png" alt="" class="logo">
                 </a>
                 <div class="social">
-                	<!--<a href="http://sharetodiaspora.github.io/?title=Your title here&url=http://www.in2015.mini.debconf.org/" class="scrollpoint sp-effect3" target="_blank"><i class="fa fa-twitter fa-lg"></i>
-					<img src="http://sharetodiaspora.github.io/favicon.png" style="border: 0px solid;" />
-					</a>-->
-
-                    <a href="https://twitter.com/miniDebConfPune" class="scrollpoint sp-effect3" target="_blank"><i class="fa fa-twitter fa-lg"></i></a>
-                    <!--<a href="https://plus.google.com/114516694850767309355" class="scrollpoint sp-effect3" target="_blank"><i class="fa fa-google-plus fa-lg"></i></a>-->
-                    <a href="https://www.facebook.com/miniDebConfPune?ref=hl" class="scrollpoint sp-effect3" target="_blank"><i class="fa fa-facebook fa-lg"></i></a>
-
-
+                    <a href="https://twitter.com/MiniDebConfMum" class="scrollpoint sp-effect3" target="_blank"><i class="fa fa-twitter fa-lg"></i></a>
+                    <a href="https://plus.google.com/114516694850767309355" class="scrollpoint sp-effect3" target="_blank"><i class="fa fa-google-plus fa-lg"></i></a>
+                    <a href="https://www.facebook.com/MiniDebConfMumbai" class="scrollpoint sp-effect3" target="_blank"><i class="fa fa-facebook fa-lg"></i></a>
                 </div>
                 <div class="rights">
                     <p>Copyright &copy;  DebianIN</p>
                     <p><a href="http://creativecommons.org/licenses/by-sa/4.0/" rel="license"><img src="http://i.creativecommons.org/l/by-sa/4.0/80x15.png" style="border-width:0" alt="Creative Commons License"></a> Content licensed under a <a href="http://creativecommons.org/licenses/by-sa/4.0/" rel="license">Creative Commons Attribution 4.0 International License</a>, except where indicated otherwise.</p>
                     <p>Template by <a href="http://www.scoopthemes.com" target="_blank">ScoopThemes</a></p>
-                    <!--<p>Designed & Maintained by<br /><a title="Visit Developer Website: www.idioticideas.com or email us: purvesh@idioticideas.com" href="http://www.idioticideas.com" target="_self"><img style="width: 180px; margin-top: 10px;" src="img/idioticideas-logo.png" width="180px" alt="IdioticIdeas"></a></p> -->
+                    <p>Designed & Maintained by<br /><a title="Visit Developer Website: www.idioticideas.com or email us: purvesh@idioticideas.com" href="http://www.idioticideas.com" target="_self"><img style="width: 180px; margin-top: 10px;" src="img/idioticideas-logo.png" width="180px" alt="IdioticIdeas"></a></p>
                 </div>
             </div>
         </footer>
