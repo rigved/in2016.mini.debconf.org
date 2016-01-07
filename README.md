@@ -1,10 +1,10 @@
-in2015.mini.debconf.org
+in2016.mini.debconf.org
 =======================
 
-Mini-DebConf Pune 2015 Website
+Mini-DebConf Mumbai 2016 Website
 ================================
 
-A Mini-DebConf will be hosted at College of Engineering Pune on 29th and 30th August, 2015.
+A Mini-DebConf will be hosted at Directiplex, Andheri (E), Mumbai on 30th and 31st January, 2016.
 
 This repository tracks the development of the website for this Mini-DebConf.
 
