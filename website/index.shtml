@@ -420,6 +420,7 @@
             </div>
         </section>
 
+<!--
         <section id="dd">
             <div class="container">
                 <div class="section-heading inverse scrollpoint sp-effect3">
@@ -756,7 +757,6 @@
                                     </div>
                                 </div>
                             </div>
-<!--
                             <div class="review rollitin">
                                 <div class="row">
                                     <div class="col-md-2">
@@ -781,7 +781,6 @@
                                     </div>
                                 </div>
                             </div>
- -->                          
                             
                         </div>
                     </div>
@@ -789,6 +788,7 @@
                 
             </div>
         </section>
+-->                
 
         <section id="sponsors">
             <div class="container">
@@ -812,19 +812,11 @@
                         <img src="img/berry/screens/debian-sponsor-logo.jpg" alt="Debian Community">
                         <h4>Debian Community<br><a href="https://www.debian.org/" target="_blank">Website</a></h4>
                     </div>
+<!--
                     <div class="one">
                         <img src="img/berry/screens/fossee-sponsor-logo.jpg" alt="FOSSEE">
                         <h4>FOSSEE<br><a href="http://fossee.in/" target="_blank">Website</a></h4>
                     </div>
-                    <div class="one">
-                        <img src="img/berry/screens/silver-arc-solutions-logo.jpg" alt="Silver Arc Solutions">
-                        <h4>Silver Arc Solutions<br><a href="http://www.silverarc.biz/" target="_blank">Website</a></h4>
-                    </div>
-                    <div class="one">
-                        <img src="img/berry/screens/idioticideas-logo.jpg" alt="IdioticIdeas">
-                        <h4>IdioticIdeas<br><a href="http://www.idioticideas.com/" target="_blank">Website</a></h4>
-                    </div>
-<!--
                     <div class="one">
                         <img src="img/berry/screens/menu.jpg" alt="">
                         <h4>Demo Logo 1</h4>
@@ -849,7 +841,6 @@
                         <img src="img/berry/screens/sales.jpg" alt="">
                         <h4>Demo Logo 6</h4>
                     </div>
--->
                 </div>
                 <div class="filter scrollpoint sp-effect3">
 							 <a href="javascript:void(0)" class="button js-filter-all active">Media Partner</a>
@@ -858,6 +849,16 @@
                                     <div class="one">
                         <img src="img/berry/screens/opensourceforyou.jpg" alt="Open Source For You">
                         <h4>Open Source For You<br><a href="https://www.opensourceforu.com/" target="_blank">Website</a></h4>
+                    </div>
+                </div>
+-->
+                <div class="filter scrollpoint sp-effect3">
+							 <a href="javascript:void(0)" class="button js-filter-all active">Venue Partner</a>
+					</div>
+                <div class="slider filtering scrollpoint sp-effect5" >
+                                    <div class="one">
+                        <img src="img/berry/screens/eig.gif" alt="Endurance International Group">
+                        <h4>Endurance International Group<br><a href="http://www.endurance.com/" target="_blank">Website</a></h4>
                     </div>
                 </div>
                 <div class="filter scrollpoint sp-effect3">
@@ -877,9 +878,12 @@
                 <div class="section-heading scrollpoint sp-effect3">
                     <h1>Register</h1>
                     <div class="divider"></div>
+<!--
                     <p>Register for the event at&nbsp;<a href="https://www.eventbrite.com/e/mini-debconf-mumbai-2015-tickets-15022071420" target="_blank">Eventbrite</a>.</p>
-                    <p>Registration is free of charge. Complimentary lunch will be provided. Spot registrations are subject to availability. Terms and Conditions apply.</p>
+-->
+                    <p>Registration is free of charge. Spot registrations are subject to availability. Terms and Conditions apply.</p>
                     <p></p> <br />
+<!--
                     <p><strong>Accommodation:</strong></p>
                     <p>Hotel Tulip Residency</p>
                     <p>Saki Vihar Complex, Building No. 8,</p>
@@ -889,9 +893,8 @@
                     <p>Hotel Hotline/Manager: +91 7303843431</p>
                     <p></p>
                     <p>Hotel charges per day: ₹2000 for single, ₹2500 for double and ₹3000 for triple.</p>
-                    <p>While booking, please mention that you are going to attend the "MiniDebConf - IIT Mumbai on 17-18 Jan", in order to avail the discounted prices.</p>
+                    <p>While booking, please mention that you are going to attend the "MiniDebConf - Directiplex Mumbai on 30-31 Jan", in order to avail the discounted prices.</p>
                 </div>
-<!--
                 <div class="row">
                     <div class="col-md-8 col-md-offset-2 scrollpoint sp-effect2">
                         <div class="video-container" >
@@ -908,23 +911,24 @@
                 <div class="section-heading inverse scrollpoint sp-effect3">
                     <h1>Location</h1>
                     <div class="divider"></div>
-                    <p>The event will be held at the Lecture Hall Complex, Indian Institute of Technology Bombay.</p>
-
+                    <p>The event will be held at the Sauron, Gandalf and Isildur conference halls, Directiplex, Mumbai.</p>
+<!--
                     <p><img style="width: 153px; height: 150px; background: #fff;" src="http://upload.wikimedia.org/wikipedia/en/thumb/5/58/IIT_Bombay_Logo.svg/200px-IIT_Bombay_Logo.svg.png" align="left"><strong>Indian Institute of Technology Bombay</strong> <br>The Indian Institute of Technology Bombay, popularly known as IIT Bombay or IITB, is a public research university located in Powai, Mumbai. IITB has 14 departments, 10 multi-disciplinary centres, 3 schools of excellence and 3 inter-disciplinary groups, with a strong emphasis on scientific and technological research.</p>
-                    
+-->                
+                    <p>Endurance International Group, Inc. (EIG), formerly BizLand, is a web hosting company. The company was founded in 1997 and is headquartered in Burlington, Massachusetts. It achieved its size by acquiring a large number of smaller companies, which it continues to operate under the original brand names.</p>
                     <p><strong>Directions:</strong></p>
 <p><u>Public Transport</u></p>
-<p>Mumbai has a reliable public transport networked by Mumbai Suburban Railway, BEST Buses, Taxis and Auto rickshaws (Auto rickshaws, however do not ply further south than Sion and Bandra). The nearest suburban railway stations to IIT on the Central line (connecting CST, Dadar, Kurla, Thane, Kalyan) are Vikhroli and Kanjurmarg stations. The nearest station to IIT on the Western line (connecting Church-gate, Mumbai Central, Dadar, Bandra, Andheri, Borivali) is Andheri.</p>
+<p>Mumbai has a reliable public transport networked by Mumbai Suburban Railway, BEST Buses, Taxis and Auto rickshaws (Auto rickshaws, however do not ply further south than Sion and Bandra). The nearest suburban railway station to Directiplex on the Western line (connecting Churchgate, Mumbai Central, Dadar, Andheri, Borivali, Virar) is Andheri station. The nearest station to Directiplex on the Central line (connecting CST, Dadar, Kurla, Thane, Kalyan) is Ghatkopar.</p>
 <p><u>Suburban Railway Transport:</u></p>
-<p>	<u>From CST Station/Dadar</u><em>:&nbsp;</em><br>
-	Take a slow train on the Central line to Thane/Kalyan/Karjat. Get down at Vikhroli or Kanjurmarg station. Take an auto to IIT, Powai (fare up to Rs 30). Enter the campus from the Market gate (the first gate you come across).&nbsp;</p>
-<p><u>From Mumbai Central/Church-gate</u>:<br>
-	Take a fast or slow train on the Western line to Andheri/Borivali/Virar. Get down at Andheri Station and come towards the East side of the station. Take bus or auto (fare up to Rs 200) or taxi (fare up to Rs 350) to IIT, Powai . Enter the campus from the Main gate (the first gate you come across).</p>
-<p>Alternatively, you can get down at Dadar station and change platform to the central line. Take a slow train on the line to Thane/Kalyan/Karjat. Get down at Vikhroli or Kanjurmarg station. Take an auto to IIT, Powai (fare upto Rs 30). Enter the campus from the Market gate (the first gate you come across).</p>
+<p><u>Western line</u><br>
+	Take a fast train on the Western line and get down at Andheri station. Walk 10 minutes to Directiplex.</p>
+<p><u>Central line</u><br>
+	Out of the two stations (Dadar and Ghatkopar), if Ghatkopar station is closest, then take a fast train on the Central line and get down at Ghatkopar station. Take a Metro train and get down at Andheri station. Walk 10 minutes to Directiplex.<br>
+	Out of the two stations (Dadar and Ghatkopar), if Dadar station is closest, then take a fast train on the Central line and get down at Dadar station. Follow the instructions to get to Directiplex from the Western line.</p>
 <p><u>If you come by Air</u>:<br>
-	International flights land at Sahar Airport which is about 8 kms from IIT. The Domestic Airport- at SantaCruz is about 12 kms. Its' best to take a Pre-paid taxi (costs about Rs 350 - 500 (US $ 8.00 -12.00) from Airport to IIT Bombay, Powai) available at the Airport to come to IIT. Auto rickshaws and regular taxis are also available at both the airports for reaching IIT, Powai.</p>
-<p>For more information check: <a href="http://www.iitb.ac.in/campus/howto/howtoget.html" target="_blank">How to get to IITB</a></p>	
-                    
+	International flights land at Chhatrapati Shivaji International Airport which is about 4.6 Kms from Directiplex. The Domestic Airport at SantaCruz is about 4.5 Kms. It is best to take a Pre-paid taxi (costs about ₹200 - ₹250 (US $3.00 - $4.00) from Airport to Directiplex, Andheri (East)) available at the Airport to come to Directiplex (East). Auto rickshaws and regular taxis are also available at both the airports for reaching Directiplex, Andheri (East).</p>
+<p>For more information check: <a href="http://directi.com/about/offices#india_office" target="_blank">Directi Mumbai Office</a></p>
+
                 </div>
                 
                 <div class="row">
