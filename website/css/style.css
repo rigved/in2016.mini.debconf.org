@@ -162,7 +162,7 @@ header .navbar-default.scrolled ul.navbar-nav {
 }
 .section-heading p {
   font-size: 25px;
-  color: grey;
+  color: #666666;
   font-weight: 300;
 }
 .section-heading .divider:after {
@@ -541,6 +541,17 @@ section::after {
   font-weight: 400;
   font-weight: 300;
 }
+.tp-caption.large_black_bold {
+  color: #000000;
+  font-size: 65px;
+  font-weight: 400;
+}
+.tp-caption.large_black_light {
+  color: #000000;
+  font-size: 65px;
+  font-weight: 400;
+  font-weight: 300;
+}
 .btn {
   -webkit-border-radius: 3em;
   -moz-border-radius: 3em;
@@ -705,7 +716,7 @@ header {
   /* IE6-9 fallback on horizontal gradient */
 }
 header .navbar-default ul.navbar-nav li a {
-  color: #ffffff;
+  color: #000000;
   background: none;
 }
 header .navbar-default ul.navbar-nav li a.location {
