@@ -117,6 +117,7 @@
                         </div>
 
                     </li>
+                    <!--
                     <!-- SLIDE 2 -->
                     <li data-transition="zoomout" data-slotamount="7" data-masterspeed="700" >
                         <!-- MAIN IMAGE -->
@@ -136,6 +137,7 @@
                         
                         
                     </li>
+                    -->
                     
                 </ul>
             </div>
