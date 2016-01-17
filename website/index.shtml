@@ -882,7 +882,6 @@
                 <div class="row">
                     <div class="col-md-12" style="margin-top: -30px;" >
 							<div id="map" style="margin-top: -20px;" >
-                    <a href="http://www.openstreetmap.org/node/1640273574#map=17/19.13335/72.91228" target="_blank" ><img src="img/map.jpg" class="img-responsive scrollpoint sp-effect5" alt="Map" align="middle"></a> <br />
                     <p style="color: #fff;" align="center">Get directions with <a href="https://www.openstreetmap.org/directions?engine=osrm_car&route=%3B19.12478%2C72.84857" target="_blank">OpenStreetMap</a> / <a href="https://www.google.co.in/maps/dir//DirectiPlex,+Old+Nagar+Das+Road,+Next+to+Andheri+Subway,+Next+to+Pinky+Theatre,+Andheri+East,+Mogra+Pada,+Natwar+Nagar,+Jogeshwari+East,+Mumbai,+Maharashtra+400069/@19.1256286,72.8473047,17.5z/data=!4m13!1m4!3m3!1s0x3be7c9d45772298d:0x854a4b672029cc4c!2sDirectiPlex!3b1!4m7!1m0!1m5!1m1!1s0x3be7c9d45772298d:0x854a4b672029cc4c!2m2!1d72.848593!2d19.1247643" target="_blank">Google&nbsp;Maps</a></p>
                     </div>
                     
