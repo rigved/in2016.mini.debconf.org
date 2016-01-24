@@ -225,8 +225,32 @@
 			<td style="text-align: center;">Registration starts and is available on both the days</td>
 		</tr>
 		<tr>
-			<td style="text-align: center;">09:30 &ndash; 19:00</td>
+			<td style="text-align: center;">09:30 &ndash; 11:00</td>
+			<td style="text-align: center;">Packaging workshop / Bug-squashing party</td>
 			<td style="text-align: center;">Hackathon / BoFs</td>
+			<td style="text-align: center;">Hackathon / BoFs</td>
+		</tr>
+		<tr>
+			<td style="text-align: center;">11:00 &ndash; 12:00</td>
+			<td style="text-align: center;">Packaging workshop / Bug-squashing party</td>
+			<td style="text-align: center;">Round-table discussion on Desktop Design and Designability of Debian &mdash; Siri Reiter and Jonas Smedegaard</td>
+			<td style="text-align: center;">Hackathon / BoFs</td>
+		</tr>
+		<tr>
+			<td style="text-align: center;">12:00 &ndash; 15:00</td>
+			<td style="text-align: center;">Packaging workshop / Bug-squashing party</td>
+			<td style="text-align: center;">Hackathon / BoFs</td>
+			<td style="text-align: center;">Hackathon / BoFs</td>
+		</tr>
+		<tr>
+			<td style="text-align: center;">15:00 &ndash; 17:00</td>
+			<td style="text-align: center;">Packaging workshop / Bug-squashing party</td>
+			<td style="text-align: center;">Planning session for DebConf India 2018</td>
+			<td style="text-align: center;">Hackathon / BoFs</td>
+		</tr>
+		<tr>
+			<td style="text-align: center;">17:00 &ndash; 19:00</td>
+			<td style="text-align: center;">Packaging workshop / Bug-squashing party</td>
 			<td style="text-align: center;">Hackathon / BoFs</td>
 			<td style="text-align: center;">Hackathon / BoFs</td>
 		</tr>
@@ -253,8 +277,20 @@
 			<td style="text-align: center;">Registration starts and is available on both the days</td>
 		</tr>
 		<tr>
-			<td style="text-align: center;">09:30 &ndash; 19:00</td>
+			<td style="text-align: center;">09:30 &ndash; 10:00</td>
+			<td style="text-align: center;">Packaging workshop / Bug-squashing party</td>
 			<td style="text-align: center;">Hackathon / BoFs</td>
+			<td style="text-align: center;">Hackathon / BoFs</td>
+		</tr>
+		<tr>
+			<td style="text-align: center;">10:00 &ndash; 12:00</td>
+			<td style="text-align: center;">Packaging workshop / Bug-squashing party</td>
+			<td style="text-align: center;">Creating Debian Blends using Boxer &mdash; Jonas Smedegaard</td>
+			<td style="text-align: center;">Hackathon / BoFs</td>
+		</tr>
+		<tr>
+			<td style="text-align: center;">12:00 &ndash; 19:00</td>
+			<td style="text-align: center;">Packaging workshop / Bug-squashing party</td>
 			<td style="text-align: center;">Hackathon / BoFs</td>
 			<td style="text-align: center;">Hackathon / BoFs</td>
 		</tr>
