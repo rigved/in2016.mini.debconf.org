@@ -1,6 +1,6 @@
 {
   "name": "in2016.mini.debconf.org",
   "tagline": " Mini-DebConf Mumbai 2016 Website",
-  "body": "### Description\r\nWebsite for Mini-DebConf Mumbai 2016\r\n\r\n### Authors and Contributors\r\n@rigved\r\n@rajuvindane\r\n@purveshshah\r\n@kartikm\r\n@vdin",
+  "body": "# $ Description\r\n* Website for Mini-DebConf Mumbai 2016\r\n\r\n# $ Authors and Contributors\r\n* @rigved\r\n* @rajuvindane\r\n* @purveshshah\r\n* @kartikm\r\n* @vdin",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
